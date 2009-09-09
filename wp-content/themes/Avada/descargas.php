@@ -39,7 +39,7 @@ $tipos = array(
   '5' => 'Video');
 
 $files_type = array(
-  '0' => 'JPG',
+  '0' => 'JPG_',
   '1' => '1X1',
   '2' => 'pdf',
   '3' => 'precios',
@@ -104,7 +104,7 @@ $cargados = array();
         echo "<div class='fusion-column-wrapper' style='background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;'>";
         echo "<div class='fusion-column-content-centered'><div class='fusion-column-content'>";
         echo $files_array[$j-1]["link"];
-        echo '<p style="text-align: left; padding-left: 30px;">';
+        echo '<p style="text-align: center; padding-left: 25%;">';
         echo $tipos[$files_array[$j-1]["tipo"]];
         echo '</p>';
         echo "</div></div></div></div>";
@@ -114,7 +114,6 @@ $cargados = array();
     array_push($cargados, $productos[$i]);
     }
   }
-    echo "<div id='cont'></div>";
-    echo "<div style='hidden=true;height=0px;' id='cont'></div>";
+    echo "<div style='visible=false;height=0px;' id='cont'></div>";
 
 ?>

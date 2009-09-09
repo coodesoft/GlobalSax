@@ -32,7 +32,7 @@ function cu_load_history_by_user(){
       <tr>
         <td><?php echo $filename ?></td>
         <?php $date = new DateTime($record['date']); ?>
-        <td><?php echo $date->format('Y-m-d'); ?> </td>
+        <td><?php echo $date->format('Y-m-d H:i:s'); ?> </td>
       </tr>
     <?php endforeach; ?>
   </table>

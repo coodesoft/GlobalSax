@@ -108,8 +108,10 @@ function cu_add_sucursal(){
   parse_str($_POST['data'], $params);
   $sucursal = $params['Sucursal']['location'];
   $cliente_id = $params['Sucursal']['cliente_actual'];
+  $provincia = $params['Sucursal']['provincia'];
+  $ciudad = $params['Sucursal']['ciudad'];
 
-  $result = Clients::addSucursal($cliente_id, $sucursal);
+  $result = Clients::addSucursal($cliente_id, $sucursal, $provincia, $ciudad);
 
   if ($result){
     $sucursales = Clients::getSucursalesByClient($cliente_id);

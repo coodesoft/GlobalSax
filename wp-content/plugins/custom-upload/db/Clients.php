@@ -13,6 +13,8 @@ class Clients{
   }
 
   static function update($id, $name){
+/*<<<<<<< HEAD
+=======
     global $wpdb;
 
     return $wpdb->update(self::TABLE, ['nombre_cliente' => $name], ['cliente_id' => $id], ['%s'], ['%d']);
@@ -35,16 +37,41 @@ class Clients{
   }
 
   static function addSucursal($cliente_id, $sucursal_id){
+>>>>>>> 72ca023bd227db0b090d0bebe34c05ae89b39354*/
     global $wpdb;
 
-    $values = array( 'cliente_id' => $cliente_id,
-                     'direccion_real' => $sucursal,
-                     'direccion_publica' => $sucursal );
-
-    $types = array( '%d', '%s', '%s' );
-
-    return $wpdb->insert(self::RELATED, $values, $types);
+    return $wpdb->update(self::TABLE, ['nombre_cliente' => $name], ['cliente_id' => $id], ['%s'], ['%d']);
   }
+
+  static function delete($id){
+    global $wpdb;
+
+    $wpdb->query('START TRANSACTION');
+    $result = $wpdb->delete( self::TABLE, ['cliente_id' => $id], ['%d'] );
+    $related = $wpdb->delete( self::RELATED, ['cliente_id' => $id], ['%d'] );
+
+    if ($result !== false && $related !== false){
+      $wpdb->query('COMMIT');
+      return true;
+    } else{
+      $wpdb->query('ROLLBACK');
+      return false;
+    }
+  }
+
+  static function addSucursal($cliente_id, $sucursal, $provincia, $ciudad){
+   global $wpdb;
+
+   $values = array( 'cliente_id' => $cliente_id,
+                    'provincia' => $provincia,
+                    'ciudad' => $ciudad,
+                    'direccion_real' => $sucursal,
+                    'direccion_publica' => $sucursal );
+
+   $types = array( '%d', '%s', '%s', '%s', '%s' );
+
+   return $wpdb->insert(self::RELATED, $values, $types);
+ }
 
   static function updateSucursalFeature($params, $cliente_id, $sucursal_id){
     global $wpdb;

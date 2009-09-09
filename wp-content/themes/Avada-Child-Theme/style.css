@@ -24,8 +24,8 @@ Text Domain:  Avada
 .fusion-main-menu > ul > li > a, .side-nav li a {
     font-size: 1.2em!important;
     color: white!important;
-	  font-family: thin!important;
-	  opacity: 0.8;
+	font-family: thin!important;
+	opacity: 0.8;
     letter-spacing: -0.3px;
 }
 
@@ -86,7 +86,52 @@ Text Domain:  Avada
 
 #grupobk-button {
     width: 100% !important;
-    border-radius: 5px !important;
+    text-transform:none;
+	font-size:1.2em;
+}
+
+input.wpcf7-form-control.wpcf7-text.uploadtextfield {
+    text-indent: 35px!important;
+	margin-top: -93px;
+	cursor:pointer;
+}
+
+.submit_button {
+	width:40px;
+    padding: 0 20px!important;
+    border-radius: 5px!important;
+    background-color: #5BC965!important;
+    font-size: 100%!important;
+	text-transform:none!important;
+	margin-right:20px!important;
+}
+
+.submit_button:hover {
+	background-color:#3c8b43!important;
+}
+
+.del_button {
+	height: 40px;
+    width: 40px;
+    padding: 0 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #626262;
+    color: #fff;
+    font-size: 100%;
+    float:right!important;
+}
+
+.del_button:hover {
+	 background-color: #383838;
+}
+
+.fusion-slider-loading {
+	display:none!important
+}
+
+i.fa.fa-angle-right.button-icon-right{
+	font-size:16px!important;
 }
 
 .textarea {
@@ -153,14 +198,14 @@ div#contacto_tab {
 .adj{
 	background-color:#7c7c7c;
     position: absolute;
-    margin-top: -70px;
+    margin-top: -93px;
     padding: 5px;
     border-radius: 5px 0px 0px 5px;
     height: 35px;
     width: 35px;
 }
 .doscol label p, .trescol label p{
-font-family: text;
+	font-family: text;
     font-size: 1.2em;
     letter-spacing: -0.3px;
     color: #505050;
@@ -180,7 +225,7 @@ font-family: text;
     font-size: 1.1em;
     color: #7c7c7c;
     letter-spacing: -0.3px;
-    width: 100%;
+    width: 90%;
     height: 45px;
     border-radius: 5px;
     border: 1px solid #d2d2d2;
@@ -196,7 +241,7 @@ font-family: text;
     font-size: 1.1em;
     color: #7c7c7c;
     letter-spacing: -0.3px;
-    width: 100%;
+    width: 90%;
     height: 45px;
     border-radius: 5px;
     border: 1px solid #d2d2d2;
@@ -218,10 +263,17 @@ font-family: text;
 	border: 1px solid #d2d2d2;
 }
 .menu-genero .select-arrow{
-    background-color: #f4f4f4!important;
+	background-color: #f4f4f4!important;
+    border-radius: 5px;
+    margin-top: -1px;
+    border: 1px solid #dadada;
 }
 .menu-prov .select-arrow {
 	background-color: #f4f4f4!important;
+	border-radius: 5px;
+    margin-top: -1px;
+	border: 1px solid #dadada;
+	
 }
 .botontrescol input:hover{
 	background-color: #3c8b43;
@@ -249,7 +301,7 @@ font-family: text;
 }
 
 #menu-grupobk-menu, #menu-logged-in {
-  width: auto;
+  	width: auto;
 	max-width: 1100px;
 	margin: 0 auto;
 	display: flex;
@@ -261,20 +313,148 @@ font-family: text;
 	padding-right: 0px !important;
 }
 
+div#grupobk-separator {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.heighzero {
+	max-width: 1100px!important;
+    margin: 0 auto!important;
+}
+
+.col-lg-2 {
+	padding: 0!important;
+}
+
+.footer-class {
+	max-width:1100px;
+	margin: 0 auto!important;
+}
+
+.woocomerce {
+	max-width:1100px;
+	margin:0 auto;
+}
+
+.buscar {
+	float:right;
+	margin-top:-75px;
+	display:inline-flex;
+	width:30%;
+}
+
+#buscar::-webkit-input-placeholder {
+	margin-left:10px;
+	color:#802754;
+}
+
+#buscar::-moz-placeholder {
+	margin-left:10px;
+	color:#802754;
+}
+
+input#buscar {
+    border-radius: 0px 5px 5px 0px;
+	text-indent:10px!important;
+}
+
+.buscar img {
+	background-color:#f4f4f4;
+    position: inherit;
+    margin-top: 0px;
+    padding: 5px;
+    border-radius: 5px 0px 0px 5px;
+    height: 35px;
+    width: 35px;
+	margin-right:3px;
+}
+
+.other_section {
+	margin:70px 0 100px 0;
+}
+
+.mapas {
+	float:right;
+}
+
+.info_list {
+	font-size:1.4em;
+}
+
+.info_list ul {
+	padding:0;
+}
+
+.item_list {
+	padding:0 0 10px 0;
+}
+
+.sucursales_div {
+	margin:50px 0;
+}
+
+.provincia {
+	margin-bottom:50px;
+}
+
+.ciudad {
+	font-size: 1.5em;
+    background-color:#f4f4f4;
+    border-radius: 5px;
+	padding-left:10px;
+	height:33px;
+}
+
+input#abrir-cerrar { 
+	visibility:hidden; 
+	position: absolute; 
+	top: -9999px; 
+}
+
+div#hidden-info {
+	display:none;
+	padding-top:15px;
+	padding-left:10px;
+	transition:padding-top .4s;
+}
+
+.sucursal {
+	font-size:1.2em;
+}
+
+.mostrar {
+	display:block!important;
+	transition:padding-top .4s;
+}
+
+img.locales_img {
+	width:40px;
+	position:relative;
+	top:12px;
+	right:3px;
+}
+
+input[type=date]::-webkit-inner-spin-button, 
+input[type=date]::-webkit-outer-spin-button{
+	-webkit-appearance: none!important; 
+	-moz-appearance: none!important;
+}
+  
 @media only screen and (max-width: 700px) {
   	#main {
     	padding-left: 5px !important;
 		padding-right: 5px !important;
  	}
-
+	
 	div#contacto_tab {
     	margin: 0px 0em;
 	}
-
+	
 	.fusion-tabs .nav {
     	display:flex!important;
 	}
-
+	
 	ul.nav-tabs.nav-justified{
 		display:inline-flex;
 	}
@@ -348,6 +528,22 @@ font-family: text;
 	.fusion-is-sticky .fusion-sticky-logo-1.fusion-header-v5 .fusion-mobile-logo-1x {
     	display: block;
 	}
+	
+	img.img-responsive.wp-image-1101,
+	img.img-responsive.wp-image-1111,
+	img.img-responsive.wp-image-1100,
+	img.img-responsive.wp-image-1110 {
+    	width: 100%;
+		margin: 0 auto;
+	}
+	
+	span.fusion-imageframe.imageframe-none.imageframe-4.hover-type-zoomin.grupobk-img-catalogo {
+		border-radius:3%;
+	}
+	
+	fusion-column-wrapper h3 {
+    	margin-left: 10%!important;
+	}
 }
 .doscol input{
 	text-indent: 10px;
@@ -364,3 +560,13 @@ font-family: text;
     border: none;
     background-color: #f4f4f4!important;
 	margin-bottom: 25px;
+}
+.post-content{
+	margin-top: 20px;
+}
+.select-arrow{
+	right: 0px!important;
+}
+.fupload{
+	width:98%!important;
+}

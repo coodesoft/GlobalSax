@@ -128,11 +128,42 @@ function uploadSucursal(){
               <label for="sucursal">Dirección:</label>
               <input id="sucursalInput" type="text" class="form-control" name="Sucursal[location]" placeholder="ej. Calle Falsa 123" required>
           </div>
+          <div class="form-group cu-form-group">
+              <label for="provincia">Provincia:</label>
+              <select id="provincia" name="Sucursal[provincia]" >
+                  <option value="" selected>Todas</option>
+    							<option value="Buenos Aires" >Buenos Aires</option>
+    							<option value="Catamarca" >Catamarca</option>
+    							<option value="Chaco" >Chaco</option>
+    							<option value="Chubut" >Chubut</option>
+    							<option value="Cordoba" >Cordoba</option>
+    							<option value="Corrientes" >Corrientes</option>
+    							<option value="Entre Rios" >Entre Rios</option>
+    							<option value="Formosa" >Formosa</option>
+    							<option value="Jujuy" >Jujuy</option>
+    							<option value="La Pampa" >La Pampa</option>
+    							<option value="La Rioja" >La Rioja</option>
+    							<option value="Mendoza" >Mendoza</option>
+    							<option value="Misiones" >Misiones</option>
+    							<option value="Neuquen" >Neuquen</option>
+    							<option value="San Juan" >San Juan</option>
+    							<option value="San Luis" >San Luis</option>
+    							<option value="Santa Cruz" >Santa Cruz</option>
+    							<option value="Santa Fe" >Santa Fe</option>
+    							<option value="Santiago del Estero" >Santiago del Estero</option>
+    							<option value="Tierra del Fuego" >Tierra del Fuego</option>
+    							<option value="Tucuman" >Tucuman</option>
+              </select>
+          </div>
+          <div class="form-group cu-form-group">
+              <label for="ciudad">Ciudad:</label>
+              <input id="ciudadInput" type="text" class="form-control" name="Sucursal[ciudad]" placeholder="ej. Tandil" required>
+          </div>
+
           <div id="uploadBtn" class="cu-form-group form-group">
               <button type="submit">Cargar sucursal</button>
               <div class="cu-loader"></div>
           </div>
-
       </form>
     </div>
 
