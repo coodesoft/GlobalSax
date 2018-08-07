@@ -1,0 +1,171 @@
+out: uploadPanel.css, compress: true
+
+#ucInstructions,
+#actionResult{
+  border: 1px solid #ddd;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+  background: antiquewhite;
+  p{
+    font-size: 15px;
+  }
+}
+
+#actionResult{
+  background: #dff0d8;
+}
+
+#clientSelection,
+#fileTypeSelection{
+  div{
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
+#customUploadPanel{
+  .cu-message{
+    padding: 10px;
+    background: antiquewhite;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  button{
+    padding: 8px;
+  }
+}
+
+#filesPermissionTable,
+#filesDownloadsTable{
+  padding-top: 25px;
+  text-align: center;
+}
+
+#filesPermissionTable,
+#filesDownloadsTable,
+#uploadWrapper{
+  table{
+     border-collapse: collapse;
+     width: 300px;
+     margin: auto;
+     tr{
+       &:nth-child(even){ background-color: #f2f2f2; }
+       &:hover{ background-color: #ddd; }
+     }
+
+     th, td{
+       border: 1px solid #ddd;
+       padding: 8px;
+     }
+
+     th{
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: center;
+        background-color: rgb(128, 39, 84);
+        color: white;
+     }
+     td {
+       text-align: center;
+     }
+  }
+}
+
+.submitCUButton{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.uc-tab{
+  margin: 15px;
+}
+
+.uc-horizontal-separator{
+  width: 100%;
+  height: 1px;
+  display: block;
+  background: #ccc;
+  margin: 5px 0;
+}
+
+.uc-fileinput-wrapper{
+  height: 45px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 90%;
+  background: white;
+  .uc-fileinput {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+    background-color: rgb(128, 39, 84);
+    width: 25%;
+    .btn {
+      color: white;
+      font-size: 12px;
+      font-weight: bold;
+      text-align: center;
+      padding: 9% 0%;
+      cursor: pointer;
+    }
+
+    input[type=file] {
+      font-size: 100px;
+      position: absolute;
+      left: 0;
+      top: 0;
+      opacity: 0;
+    }
+  }
+
+  .uc-file-name{
+    display: inline-block;
+    vertical-align: middle;
+    width: 74%;
+    color: #666;
+    font-style: italic;
+  }
+}
+
+
+#uploadWrapper{
+  .right-panel{
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  .left-panel{
+    width: 49%;
+    display: inline-block;
+    border-right: 1px solid #ccc;
+  }
+}
+
+.uc-upload-block{
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#fileTree .list{
+  width: 100%;
+  height: 400px;
+  display: block;
+  background: white;
+  overflow: auto;
+  ul{
+    margin-top: 0;
+    margin-bottom: 0;
+    li{
+      padding: 10px 0 10px 5px;
+      cursor: pointer;
+      &:nth-child(even){ background-color: #f2f2f2; }
+      &.uc-dir{
+        font-weight: bold;
+        &:hover{ text-decoration: underline;}
+      }
+    }
+  }
+}
