@@ -14,7 +14,7 @@ require_once 'functions.php';
 require_once 'upload/tab.php';
 require_once 'history/tab.php';
 require_once 'permissions/tab.php';
-
+require_once 'sucursales/tab.php';
 
 register_activation_hook( __FILE__, 'cu_install' );
 
@@ -115,6 +115,7 @@ function global_custom_upload_content(){
         <a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=uploadFiles')?>" class="nav-tab">Subir archivos</a>
         <a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=assignCapabilities')?>" class="nav-tab">Asignar Permisos</a>
 				<a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=history')?>" class="nav-tab">Historial de Descargas</a>
+        <a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=sucursales')?>" class="nav-tab">Sucursales</a>
       </h2>
 
     <div class="panel-body">
