@@ -134,7 +134,7 @@ function global_custom_upload_content(){
 			<?php } ?>
 
 			<?php if ($activeTab == 'history'){ ?>
-				<div class="uc-tab"><?php history(); ?></div>
+				<div class="uc-tab"><?php sucursales(); ?></div>
 			<?php } ?>
 
     </div>
