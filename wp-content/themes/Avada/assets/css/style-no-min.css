@@ -13,7 +13,7 @@
 }
 
 * {
-    box-sizing: content-box;
+    box-sizing: content-box
 }
 
 .fusion-clearfix {
@@ -117,7 +117,7 @@ body {
     min-width: 320px;
     -webkit-text-size-adjust: 100%;
     font: 13px/20px PTSansRegular, Arial, Helvetica, sans-serif;
-    font-size: 16px!important;
+    font-size: 16px!important
 }
 
 body.body_blank.admin-bar {
@@ -388,7 +388,7 @@ a:before {
 }
 
 #main {
-    padding: 0px 0px 0px 0px!important;
+    padding: 0 0 0 0px!important;
     background: #fff;
     clear: both
 }
@@ -3938,8 +3938,8 @@ mark {
 }
 
 .post-content p {
-    margin-top: 0px;
-    margin-bottom: 0px;
+    margin-top: 0;
+    margin-bottom: 0
 }
 
 blockquote {
@@ -9880,231 +9880,196 @@ table.tribe-events-tickets-rsvp .tribe-tickets-table .tribe-tickets-order_status
 .trescol {
     display: flex;
     align-content: space-around;
-    width: 100%;
+    width: 100%
 }
 
 .trescol select {
     text-indent: 10px;
     text-align: left;
-    font-family: 'myriad-set-pro-text' !important;
+    font-family: 'myriad-set-pro-text'!important;
     font-size: 1em;
     color: #7c7c7c;
-    letter-spacing: -0.3px;
+    letter-spacing: -.3px;
     width: 100%;
     height: 45px;
     border-radius: 5px;
     border: none;
     background-color: #f4f4f4;
     margin-bottom: 25px;
-    cursor: pointer;
+    cursor: pointer
 }
 
-/******** Mobile style ********/
-
-@media screen and (max-width: 700px) {
-
-  .body {
-    font-size: 100%;
-  }
-
-  .formtrescol  {
-    width: 80%!important;
-    min-width: 280px;
-  }
-
-  .section  {
-    padding: 0px 0px 50px 0px!important;
-  }
-
-  .section h2 {
-    font-family: 'myriad-semibold' !important;
-    font-size: 2em!important;
-    width: auto;
-    height: auto;
-    letter-spacing: -0.5px;
-  }
-
-  .interior {
-    width: 100%!important;
-    max-width: 700px;
-    min-width: 300px!important;
-  }
-
-  .titular h2 {
-    color: #76254E!important;
-    margin: 0px auto 40px auto!important;
-    width: 80%!important;
-    min-width: 280px;
-    font-size: 2em;
-  }
-
-  .trescol  {
-    display: block;
-    align-content: center;
-  }
-
-  .trescol div  {
-    width: 100%!important;
-    padding: 0px 0px!important;
-  }
-
-  .trescol select {
-    margin-bottom: 20px;
-  }
-
-  .trescol input {
-    margin-bottom: 20px;
-  }
-
-  .botontrescol {
-    display: block;
-    width: 100%;
-    height: 40px;
-    margin: 0 auto;
-    margin-top: 30 px;
-  }
-
-  .botontrescol p {
-    color: #fff;
-    font-size: 1.2em;
-  }
-
-  .boton_unico {
-    width: 80%;
-    max-width: 80%;
-    min-width: 280px;
-  }
-
-  a.boton_gris {
-    display: inline-block;
-    margin: 0px 0px;
-    padding: 0px 20px;
-    line-height: 40px;
-    border-radius: 5px;
-    background-color: #7c7c7c;
-    color: #fff;
-    cursor: pointer;
-    font-size: 1.2em;
-  }
-
-  .rrhh_personas {
-    position: relative;
-    width: 80%;
-    min-width: 280px;
-    height: auto;
-    margin: 0 auto;
-    overflow: hidden;
-  }
-
-  .rrhh_personas img {
-    float: none;
-  }
-
-  .rrhh_personas  img:last-child  {
-    float: none;
-  }
-
-  .rrhh_personas h3 {
-    width: 100%;
-    height: 30px;
-    text-align: center;
-    padding: 10px 0px;
-    line-height: 30px;
-    font-size: 1.2em;
-  }
-
-  .datos_rrhh {
-    text-align: center;
-  }
-
-  .datos_rrhh p {
-    width: 100%;
-    float: none;
-  }
-
-  .separacion {
-    height: 1px;
-    width: 80%;
-    max-width: 700px;
-    min-width: 280px;
-    background-color: #e2e2e2;
-    margin: 0px auto;
-  }
-
-  .footer {
-    width: 100%;
-    height: auto;
-    margin-top: 60px;
-  }
-
-  #preguntas_frecuentes {
-    height: 220px;
-    width: 100%;
-    background-color: #76254E;
-  }
-
-  #preguntas_frecuentes h4  {
-    width: 60%;
-    margin: 0px auto;
-    text-align: center;
-    color: #fff;
-    font-size: 1.1em;
-    padding-top: 50px;
-    padding-bottom: 20px;
-  }
-
-  #preguntas_frecuentes a {
-    width: 200px;
-    height: 25px;
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-    color: #e0e0e0;
-  }
-
-  #mapa_del_sitio {
-    width: 100%;
-    height: auto;
-    background-color: #8E2D62;
-  }
-
-  #desarrollo_mapa {
-    height: auto;
-    background-color: #76254E;
-    overflow: hidden;
-  }
-
-  #organizacion {
-    display: table;
-    justify-content: space-between;
-    width: 95%;
-    margin: 0 auto;
-  }
-
-  .mapa_organizacion {
-    width: 33%;
-    float: left;
-    list-style: none;
-    margin: 25px 0px 25px 0px;
-  }
-
-  .mapa_organizacion li {
-    padding: 6px 0px;
-    text-align: center;
-  }
-
-  .mapa_organizacion li p {
-      padding: 16px 0px;
-      color: #bebebe;
-      font-family: text;
-  }
-
-  .mapa_organizacion li a {
-    margin: 16px 0px;
-    color: #b4a2ab;
-    font-family: thin;
-  }
-/***** End Mobile style *****/
+@media screen and (max-width:700px) {
+    .body {
+        font-size: 100%
+    }
+    .formtrescol {
+        width: 80%!important;
+        min-width: 280px
+    }
+    .section {
+        padding: 0 0 50px 0px!important
+    }
+    .section h2 {
+        font-family: 'myriad-semibold'!important;
+        font-size: 2em!important;
+        width: auto;
+        height: auto;
+        letter-spacing: -.5px
+    }
+    .interior {
+        width: 100%!important;
+        max-width: 700px;
+        min-width: 300px!important
+    }
+    .titular h2 {
+        color: #76254E!important;
+        margin: 0 auto 40px auto!important;
+        width: 80%!important;
+        min-width: 280px;
+        font-size: 2em
+    }
+    .trescol {
+        display: block;
+        align-content: center
+    }
+    .trescol div {
+        width: 100%!important;
+        padding: 0 0px!important
+    }
+    .trescol select {
+        margin-bottom: 20px
+    }
+    .trescol input {
+        margin-bottom: 20px
+    }
+    .botontrescol {
+        display: block;
+        width: 100%;
+        height: 40px;
+        margin: 0 auto;
+        margin-top: 30 px
+    }
+    .botontrescol p {
+        color: #fff;
+        font-size: 1.2em
+    }
+    .boton_unico {
+        width: 80%;
+        max-width: 80%;
+        min-width: 280px
+    }
+    a.boton_gris {
+        display: inline-block;
+        margin: 0 0;
+        padding: 0 20px;
+        line-height: 40px;
+        border-radius: 5px;
+        background-color: #7c7c7c;
+        color: #fff;
+        cursor: pointer;
+        font-size: 1.2em
+    }
+    .rrhh_personas {
+        position: relative;
+        width: 80%;
+        min-width: 280px;
+        height: auto;
+        margin: 0 auto;
+        overflow: hidden
+    }
+    .rrhh_personas img {
+        float: none
+    }
+    .rrhh_personas img:last-child {
+        float: none
+    }
+    .rrhh_personas h3 {
+        width: 100%;
+        height: 30px;
+        text-align: center;
+        padding: 10px 0;
+        line-height: 30px;
+        font-size: 1.2em
+    }
+    .datos_rrhh {
+        text-align: center
+    }
+    .datos_rrhh p {
+        width: 100%;
+        float: none
+    }
+    .separacion {
+        height: 1px;
+        width: 80%;
+        max-width: 700px;
+        min-width: 280px;
+        background-color: #e2e2e2;
+        margin: 0 auto
+    }
+    .footer {
+        width: 100%;
+        height: auto;
+        margin-top: 60px
+    }
+    #preguntas_frecuentes {
+        height: 220px;
+        width: 100%;
+        background-color: #76254E
+    }
+    #preguntas_frecuentes h4 {
+        width: 60%;
+        margin: 0 auto;
+        text-align: center;
+        color: #fff;
+        font-size: 1.1em;
+        padding-top: 50px;
+        padding-bottom: 20px
+    }
+    #preguntas_frecuentes a {
+        width: 200px;
+        height: 25px;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        color: #e0e0e0
+    }
+    #mapa_del_sitio {
+        width: 100%;
+        height: auto;
+        background-color: #8E2D62
+    }
+    #desarrollo_mapa {
+        height: auto;
+        background-color: #76254E;
+        overflow: hidden
+    }
+    #organizacion {
+        display: table;
+        justify-content: space-between;
+        width: 95%;
+        margin: 0 auto
+    }
+    .mapa_organizacion {
+        width: 33%;
+        float: left;
+        list-style: none;
+        margin: 25px 0 25px 0
+    }
+    .mapa_organizacion li {
+        padding: 6px 0;
+        text-align: center
+    }
+    .mapa_organizacion li p {
+        padding: 16px 0;
+        color: #bebebe;
+        font-family: text
+    }
+    .mapa_organizacion li a {
+        margin: 16px 0;
+        color: #b4a2ab;
+        font-family: thin
+    }
 }
 
 .section {
@@ -10112,23 +10077,23 @@ table.tribe-events-tickets-rsvp .tribe-tickets-table .tribe-tickets-order_status
     width: 100%;
     height: auto;
     margin: 0 auto;
-    padding: 50px 0px 50px 0px;
+    padding: 50px 0 50px 0
 }
 
 .section h2 {
-  font-family: 'myriad-semibold' !important;
-  font-size: 2em!important;
-  width: auto;
-  height: auto;
-  letter-spacing: -0.5px;
+    font-family: 'myriad-semibold'!important;
+    font-size: 2em!important;
+    width: auto;
+    height: auto;
+    letter-spacing: -.5px
 }
 
 .section h3 {
-    font-family: 'myriad-semibold' !important;
+    font-family: 'myriad-semibold'!important;
     font-size: 1.6em;
     width: auto;
     height: auto;
-    letter-spacing: -0.4px;
+    letter-spacing: -.4px
 }
 
 .section h4 {
@@ -10136,7 +10101,7 @@ table.tribe-events-tickets-rsvp .tribe-tickets-table .tribe-tickets-order_status
     font-size: 1.4em;
     width: auto;
     height: auto;
-    letter-spacing: -0.4px;
+    letter-spacing: -.4px
 }
 
 .interior {
@@ -10145,14 +10110,14 @@ table.tribe-events-tickets-rsvp .tribe-tickets-table .tribe-tickets-order_status
     height: auto;
     margin: 0 auto;
     max-width: 1170px;
-    min-width: 700px;
+    min-width: 700px
 }
 
 .titular h2 {
     color: #76254E!important;
-    margin: 0px 0px 40px 0px;
+    margin: 0 0 40px 0;
     width: 100%;
-    font-size: 2em!important;
+    font-size: 2em!important
 }
 
 .formtrescol {
@@ -10160,12 +10125,12 @@ table.tribe-events-tickets-rsvp .tribe-tickets-table .tribe-tickets-order_status
     width: 100%;
     height: auto;
     margin: 0 auto;
-    padding: 0px 0px;
-    font-size: 1em;
+    padding: 0 0;
+    font-size: 1em
 }
 
 .formtrescol p span {
-    color: #c73232;
+    color: #c73232
 }
 
 .trescol input {
@@ -10174,46 +10139,46 @@ table.tribe-events-tickets-rsvp .tribe-tickets-table .tribe-tickets-order_status
     font-size: 1em;
     color: #7c7c7c!important;
     text-align: left;
-    font-family: 'myriad-set-pro-text' !important;
-    letter-spacing: -0.3px;
+    font-family: 'myriad-set-pro-text'!important;
+    letter-spacing: -.3px;
     width: 100%;
     height: 45px!important;
     padding: 0;
     border-radius: 5px;
     border: none;
     background-color: #f4f4f4!important;
-    margin-bottom: 25px;
+    margin-bottom: 25px
 }
 
 .trescol div {
     text-align: left;
     width: 31%;
     padding: 0 1%;
-    margin: 0 auto;
+    margin: 0 auto
 }
 
 .trescol p {
     font-family: text;
     font-size: 1.2em;
-    letter-spacing: -0.3px;
+    letter-spacing: -.3px;
     color: #505050;
     text-align: left;
-    padding: 0px 0px;
-    margin-top: -8px;
+    padding: 0 0;
+    margin-top: -8px
 }
 
 .botontrescol {
     display: block;
     width: 98%;
     height: 40px;
-    margin: 30px auto 0;
+    margin: 30px auto 0
 }
 
 .botontrescol button {
     display: block;
     float: left;
     margin: 0 20px 0 0;
-    cursor: pointer;
+    cursor: pointer
 }
 
 .boton_envia {
@@ -10225,24 +10190,24 @@ table.tribe-events-tickets-rsvp .tribe-tickets-table .tribe-tickets-order_status
     background-color: #5BC965;
     color: #fff;
     cursor: pointer;
-    font-size: 100%;
+    font-size: 100%
 }
 
 .boton_borra {
     height: 40px;
     width: 40px;
-    padding: 0px 0px;
+    padding: 0 0;
     border: none;
     border-radius: 5px;
     background-color: #626262;
     color: #fff;
     font-size: 100%;
-    margin-top: -19px!important;
+    margin-top: -19px!important
 }
 
-.boton_borra img  {
+.boton_borra img {
     height: 30px;
-    width: 30px;
+    width: 30px
 }
 
 div {
@@ -10252,7 +10217,7 @@ div {
     font: inherit;
     vertical-align: baseline;
     text-decoration: none;
-    line-height: 1.2;
+    line-height: 1.2
 }
 
 section {
@@ -10262,7 +10227,7 @@ section {
     font: inherit;
     vertical-align: baseline;
     text-decoration: none;
-    line-height: 1.2;
+    line-height: 1.2
 }
 
 .section p {
@@ -10270,7 +10235,7 @@ section {
     font-size: 1.2em;
     width: auto;
     height: auto;
-    letter-spacing: -0.3px;
+    letter-spacing: -.3px
 }
 
 .boton_unico {
@@ -10279,7 +10244,7 @@ section {
     height: auto;
     margin: 0 auto;
     max-width: 1170px;
-    min-width: 700px;
+    min-width: 700px
 }
 
 .datos_rrhh {
@@ -10287,20 +10252,20 @@ section {
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    padding: 10px 0 0;
+    padding: 10px 0 0
 }
 
 .datos_rrhh p {
     width: 33%;
     float: left;
     height: 25px;
-    font-size: 1em;
+    font-size: 1em
 }
 
 .datos_rrhh p span {
     width: 80%;
     margin: 5px auto;
-    color: #505050;
+    color: #505050
 }
 
 .rrhh_personas h3 {
@@ -10310,7 +10275,7 @@ section {
     text-align: left;
     float: left;
     padding-left: 10px;
-    line-height: 87px;
+    line-height: 87px
 }
 
 .rrhh_personas img {
@@ -10318,7 +10283,7 @@ section {
     width: 50px;
     height: 60px;
     margin: 0 auto;
-    float: left;
+    float: left
 }
 
 .rrhh_personas img:last-child:hover {
@@ -10332,7 +10297,7 @@ section {
     -o-transition: .5s;
     -ms-transition: .5s;
     -moz-transition: .5s;
-    -webkit-transition: .5s;
+    -webkit-transition: .5s
 }
 
 .rrhh_personas img:last-child {
@@ -10346,7 +10311,7 @@ section {
     -o-transition: .5s;
     -ms-transition: .5s;
     -moz-transition: .5s;
-    -webkit-transition: .5s;
+    -webkit-transition: .5s
 }
 
 .anim {
@@ -10354,7 +10319,7 @@ section {
     -o-transition: .5s;
     -ms-transition: .5s;
     -moz-transition: .5s;
-    -webkit-transition: .5s;
+    -webkit-transition: .5s
 }
 
 img {
@@ -10364,7 +10329,7 @@ img {
     font: inherit;
     vertical-align: baseline;
     text-decoration: none;
-    line-height: 1.2;
+    line-height: 1.2
 }
 
 .rrhh_personas {
@@ -10372,7 +10337,7 @@ img {
     width: 100%;
     height: auto;
     margin: 0 auto;
-    overflow: hidden;
+    overflow: hidden
 }
 
 .rrhh_personas_div {
@@ -10383,5 +10348,88 @@ img {
     border-radius: 8px;
     display: block;
     position: relative;
-    overflow: hidden;
+    overflow: hidden
+}
+
+.woocommerce {
+    max-width: 1100px;
+    margin: 0 auto
+}
+
+#customer_login {
+    width: 300px;
+    border-color: white!important;
+}
+
+#customer_login h2 {
+    font-size: 2em!important;
+    color: #76254E;
+    font-weight: bold!important;
+    margin: 0 0 30px 0;
+}
+
+#customer_login .form.woocommerce-form.woocommerce-form-login.login {
+    font-size: 1.2em;
+    color: #505050;
+}
+
+input#username, input#password, input#user_login {
+    text-indent: 10px;
+    display: block;
+    font-size: 1em;
+    color: #7c7c7c!important;
+    text-align: left;
+    font-family: 'myriad-set-pro-text'!important;
+    letter-spacing: -.3px;
+    width: 100%;
+    height: 45px!important;
+    padding: 0;
+    border-radius: 5px;
+    background-color: #f4f4f4!important;
+    margin-bottom: 25px;
+}
+
+input#user_login {
+    margin-top: 13px;
+}
+
+button.woocommerce-Button.button {
+    height: 40px;
+    margin: 0px 0px;
+    padding: 0px 20px!important;
+    border: none;
+    border-radius: 5px!important;
+    background-color: #5BC965!important;
+    color: #fff;
+    cursor: pointer;
+    font-size: 100%!important;
+    text-transform: none!important;
+}
+
+button.woocommerce-Button.button:hover {
+    background-color: #3c8b43!important;
+}
+
+label.woocommerce-form__label.woocommerce-form__label-for-checkbox.inline {
+    display: none!important;
+}
+
+p.woocommerce-LostPassword.lost_password {
+    padding: 30px 0 40px
+}
+
+form.woocommerce-ResetPassword.lost_reset_password {
+    width: 300px;
+    border-color: white!important;
+    padding: 50px 0px;
+}
+
+p.woocommerce-form-row.woocommerce-form-row--first.form-row.form-row-first {
+    margin: 20px 0;
+    font-family: text;
+    font-size: 1.2em;
+    letter-spacing: -0.3px;
+    color: #505050;
+    text-align: left;
+    padding: 5px 0px;
 }
