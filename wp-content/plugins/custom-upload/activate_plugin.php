@@ -1,21 +1,4 @@
 <?php
-/*
-Plugin Name: Custom Upload
-Plugin URI: http://cu.coodesoft.com.ar
-Description: Upload personalizado para proveedores de ropita.
-Version: 1.0
-Author: Coodesoft
-Author URI: http://coodesoft.com.ar
-License: GPL2
-*/
-
-require_once 'functions.php';
-
-require_once 'upload/tab.php';
-require_once 'history/tab.php';
-require_once 'permissions/tab.php';
-//require_once 'sucursales/tab.php';
-//require_once 'activate_plugin.php';
 
 register_activation_hook( __FILE__, 'cu_install' );
 
@@ -122,65 +105,4 @@ function cu_create_table(){
 
 function cu_install(){
 	cu_create_table();
-}
-
-add_action('admin_enqueue_scripts', 'cu_load_scripts' );
-add_action('admin_enqueue_scripts', 'cu_load_stylesheet' );
-add_action('admin_menu', 'cu_admin_menu');
-
-
-function cu_load_scripts() {
-	wp_enqueue_script( 'customUploadPanelJS', plugins_url('/js/uploadPanel.js', __FILE__) );
-}
-
-function cu_load_stylesheet($hook){
-	if($hook != 'toplevel_page_global_custom_upload')
-  	return;
-	wp_enqueue_style( 'customUploadPanelCSS',  plugins_url('/css/uploadPanel.css', __FILE__) );
-}
-
-function cu_admin_menu(){
-	add_menu_page('Custom Upload', 'Custom Upload', 'manage_options', 'global_custom_upload', 'global_custom_upload_content');
-}
-
-function global_custom_upload_content(){
-
-
-	$screen =  get_current_screen();
-	$pluginPageUID = $screen->parent_file;
-
-  ?>
-  <div id="customUploadPanel" class="wrap">
-      <h3 class="panel-title">Upload de archivos por cliente</h3>
-
-      <h2 class="nav-tab-wrapper">
-        <a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=uploadFiles')?>" class="nav-tab">Subir archivos</a>
-        <a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=assignCapabilities')?>" class="nav-tab">Asignar Permisos</a>
-				<a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=history')?>" class="nav-tab">Historial de Descargas</a>
-        <a href="<?= admin_url('admin.php?page='.$pluginPageUID.'&tab=sucursales')?>" class="nav-tab">Sucursales</a>
-      </h2>
-
-    <div class="panel-body">
-			<?php $activeTab = $_GET['tab']; ?>
-
-			<?php if (!isset($activeTab)){ ?>
-      	<div id="uc-tab"><?php	createUploadForn(); ?></div>
-			<?php } ?>
-
-			<?php if ($activeTab == 'uploadFiles'){ ?>
-				<div class="uc-tab"><?php	createUploadForn(); ?></div>
-			<?php } ?>
-
-			<?php if ($activeTab == 'assignCapabilities'){ ?>
-				<div class="uc-tab"><?php assignCapabilities(); ?></div>
-			<?php } ?>
-
-			<?php if ($activeTab == 'history'){ ?>
-				<div class="uc-tab"><?php sucursales(); ?></div>
-			<?php } ?>
-
-    </div>
-  </div>
-
-<?php
 }
