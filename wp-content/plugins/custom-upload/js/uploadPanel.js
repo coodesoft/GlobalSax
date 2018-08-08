@@ -19,7 +19,6 @@
     self.run = function(){
 
       $(eventListener).on('change', '#uploadInput', function(){
-        console.log('asdasd');
         showPreloadFileList();
       });
     }
@@ -30,7 +29,7 @@
 
     let eventListener = '#fileTree';
 
-    let target = '#fileTree .list';
+    let target = '#fileTree .uc-list';
 
     let actualDir;
 
@@ -89,6 +88,7 @@
       $('#filesDownloadsTable').html(loader);
       loadUserContentCallback(this, 'load_history', '#filesDownloadsTable');
     });
+
 
     let controller = new UploadController();
     let nav = new Navigator();

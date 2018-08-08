@@ -87,7 +87,7 @@ function createUploadForn(){
         <h3>Archivos Subidos</h3>
         <div id="fileTree" class="uc-upload-block">
           <button id="ucGoBack">Volver</button>
-          <div class="list">
+          <div class="uc-list">
             <?php cu_show_files_tree() ?>
           </div>
         </div>

@@ -14,7 +14,7 @@ require_once 'functions.php';
 require_once 'upload/tab.php';
 require_once 'history/tab.php';
 require_once 'permissions/tab.php';
-//require_once 'sucursales/tab.php';
+require_once 'sucursales/tab.php';
 //require_once 'activate_plugin.php';
 
 register_activation_hook( __FILE__, 'cu_install' );
@@ -175,7 +175,7 @@ function global_custom_upload_content(){
 				<div class="uc-tab"><?php assignCapabilities(); ?></div>
 			<?php } ?>
 
-			<?php if ($activeTab == 'history'){ ?>
+			<?php if ($activeTab == 'sucursales'){ ?>
 				<div class="uc-tab"><?php sucursales(); ?></div>
 			<?php } ?>
 
