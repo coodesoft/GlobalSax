@@ -1,6 +1,6 @@
 <?php
 
-require_once 'add_clientes.php';
+require_once 'sucursales.php';
 
 
 function sucursales(){
@@ -43,9 +43,11 @@ function createCliente(){
     </p>
   </div>
 
+  <div id="actionResult"  class="hidden"></div>
+
   <div id="uploadSucursal">
     <div class="left-panel">
-      <form class="form" method="post">
+      <form id="newClientForm" class="form" method="post">
 
         <div id="newClientInput" class="form-group cu-form-group">
            <label for="exampleInputEmail1">Nombre del cliente:  </label>
@@ -53,6 +55,7 @@ function createCliente(){
          </div>
          <div class="form-group cu-form-group">
            <button type="submit">Agregar cliente</button>
+           <div class="cu-loader"></div>
          </div>
       </form>
     </div>
@@ -79,16 +82,22 @@ function uploadSucursal(){
   <div id="uploadSucursal">
 
     <div id="ucInstructions">
-      <p>Seleccione un cliente para ver las sucursales cargadas</p>
+      <p>
+        <ul>
+          <li>Seleccione un cliente para ver las sucursales cargadas</li>
+          <li>Ingrese una dirección para cargar una nueva sucursal del cliente seleccionado</li>
+        </ul>
+     </p>
     </div>
+    <div id="actionResult" class="hidden"></div>
 
     <div class="left-panel">
 
-      <form class="form" method="post">
+      <form id="uploadSucursalForm" class="form" method="post">
 
-          <div id="clientSelection" class="cu-form-group form-group">
+          <div id="sucursalClientSelection" class="cu-form-group form-group">
               <div>Seleccione el cliente:</div>
-              <select name="Sucursal[actual_cliente]">
+              <select name="Sucursal[cliente_actual]" required>
                   <option id="noClient" value="" disabled selected>Cliente</option>
                   <?php $clientes = Clients::getAll(); ?>
                   <?php foreach ($clientes as $key => $value) { ?>
@@ -97,11 +106,12 @@ function uploadSucursal(){
               </select>
           </div>
           <div class="form-group cu-form-group">
-              <label for="exampleInputEmail1">Dirección:</label>
-              <input type="text" class="form-control" name="Sucursal[location]" placeholder="ej. Calle Falsa 123">
+              <label for="sucursal">Dirección:</label>
+              <input id="sucursalInput" type="text" class="form-control" name="Sucursal[location]" placeholder="ej. Calle Falsa 123" required>
           </div>
           <div id="uploadBtn" class="cu-form-group form-group">
               <button type="submit">Cargar sucursal</button>
+              <div class="cu-loader"></div>
           </div>
 
       </form>
@@ -109,13 +119,52 @@ function uploadSucursal(){
 
     <div class="right-panel">
       <h3>Sucursales Cargadas</h3>
-      <div class="uc-list">
-      </div>
+      <div class="cu-loadIndicator"></div>
+      <div class="uc-list"><ul></ul></div>
     </div>
   </div>
 <?php
 }
 
 function editFeatures(){
+?>
+<div id="editFeatures">
+  <div id="ucInstructions">
+    <p>Edite las características de las sucursales checkeando las casillas</p>
+  </div>
+  <div id="actionResult" class="hidden"></div>
 
+  <form id="editFeaturesForm">
+    <table>
+      <tr>
+        <th>Cliente</th>
+        <th>Dirección</th>
+        <th>Visibilidad</th>
+        <th>Venta Mayorista</th>
+        <th>Venta Minorista</th>
+        <th>Venta online</th>
+        <th>Sitio Web</th>
+        <th>Revendedoras</th>
+      </tr>
+      <?php $sucursales = Clients::getSucursales(); ?>
+      <?php foreach ($sucursales as $key => $sucursal) { ?>
+      <tr>
+        <td><?php echo $sucursal['nombre_cliente'] ?></td>
+        <td><input name="Cliente[<?php echo $sucursal['cliente_id'] ?>][<?php echo $sucursal['id'] ?>][direccion_publica]" "type="text" value="<?php echo $sucursal['direccion_publica'] ?>"></td>
+        <td><input name="Cliente[<?php echo $sucursal['cliente_id'] ?>][<?php echo $sucursal['id'] ?>][visibilidad]" type="checkbox" <?php echo $sucursal['visibilidad'] ? 'checked' : '' ?> ></td>
+        <td><input name="Cliente[<?php echo $sucursal['cliente_id'] ?>][<?php echo $sucursal['id'] ?>][venta_mayorista]" type="checkbox" <?php echo $sucursal['venta_mayorista'] ? 'checked' : '' ?> ></td>
+        <td><input name="Cliente[<?php echo $sucursal['cliente_id'] ?>][<?php echo $sucursal['id'] ?>][venta_minorista]" type="checkbox" <?php echo $sucursal['venta_minorista'] ? 'checked' : '' ?> ></td>
+        <td><input name="Cliente[<?php echo $sucursal['cliente_id'] ?>][<?php echo $sucursal['id'] ?>][venta_online]" type="checkbox" <?php echo $sucursal['venta_online'] ? 'checked' : '' ?> ></td>
+        <td><input name="Cliente[<?php echo $sucursal['cliente_id'] ?>][<?php echo $sucursal['id'] ?>][sitio_web]" type="checkbox" <?php echo $sucursal['sitio_web'] ? 'checked' : '' ?> ></td>
+        <td><input name="Cliente[<?php echo $sucursal['cliente_id'] ?>][<?php echo $sucursal['id'] ?>][revendedoras]" type="checkbox" <?php echo $sucursal['revendedoras'] ? 'checked' : '' ?> ></td>
+      </tr>
+      <?php } ?>
+    </table>
+    <div class="cu-submit-button cu-text-center">
+      <button type="submit">Editar características</button>
+      <div class="cu-loader"></div>
+    </div>
+  </form>
+</div>
+<?php
 }

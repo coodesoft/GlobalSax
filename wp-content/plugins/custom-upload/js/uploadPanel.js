@@ -60,15 +60,34 @@
   }
 
 
-  var loadUserContentCallback = function(form, action, target){
+  var loadUserContentCallback = function(form, action, target, callback){
     var data = {
       'user': $(form).serialize(),
       'action': action,
     }
     $.post(ajaxurl, data, function(data){
       $(target).html(data);
+
+      if (callback != undefined)
+        callback(data);
     })
   }
+
+  var sendContent = function(form, action, target, callback){
+    var data = {
+      'data': $(form).serialize(),
+      'action': action,
+    }
+    $.post(ajaxurl, data, function(data){
+      data = JSON.parse(data);
+      if (data['response'] != undefined)
+        $(target).html(data['response']);
+
+      if (callback != undefined)
+        callback(data);
+    })
+  }
+
 
   $(document).ready(function(){
 
@@ -89,6 +108,59 @@
       loadUserContentCallback(this, 'load_history', '#filesDownloadsTable');
     });
 
+    $(root).on('submit', '#newClientForm', function(e){
+      let loader = '<i class="fa fa-spinner fa-pulse fa-3x fa-fw" aria-hidden="true"></i>';
+      e.preventDefault(); e.stopPropagation();
+      $('.cu-loader').html(loader);
+
+      sendContent(this, 'cu_add_client', '.uc-list ul', function(data){
+        $('.cu-loader').empty();
+        $('#actionResult').removeClass('hidden');
+        let msg = '<p>'+data['msg']+'</p>';
+        $('#actionResult').removeClass();
+        $('#actionResult').addClass(data['type']);
+        $('#actionResult').html(msg);
+      });
+    });
+
+    $(root).on('change', '#sucursalClientSelection select', function(e){
+      let loader = '<i class="fa fa-spinner fa-pulse fa-5x fa-fw" aria-hidden="true"></i>';
+      $('.cu-loadIndicator').html(loader);
+      $('.uc-list ul').empty();
+      $('#sucursalInput').val('');
+
+      loadUserContentCallback(this, 'cu_get_sucursales', '.uc-list ul', function(){
+        $('.cu-loadIndicator').empty();
+      });
+    })
+
+    $(root).on('submit', '#uploadSucursalForm', function(e){
+      e.preventDefault(); e.stopPropagation();
+      let loader = '<i class="fa fa-spinner fa-pulse fa-3x fa-fw" aria-hidden="true"></i>';
+      $('.cu-loader').html(loader);
+
+      sendContent(this, 'cu_add_sucursal', '.uc-list ul', function(data){
+        $('.cu-loader').empty();
+        $('#actionResult').removeClass('hidden');
+        let msg = '<p>'+data['msg']+'</p>';
+        $('#actionResult').removeClass();
+        $('#actionResult').addClass(data['type']);
+        $('#actionResult').html(msg);
+        $('#sucursalInput').val('');
+
+      });
+    })
+
+    $(root).on('submit', '#editFeaturesForm', function(e){
+      e.preventDefault(); e.stopPropagation();
+      let loader = '<i class="fa fa-spinner fa-pulse fa-3x fa-fw" aria-hidden="true"></i>';
+      $('.cu-loader').html(loader);
+      sendContent(this, 'cu_edit_features', '#actionResult', function(data){
+        $('.cu-loader').empty();
+        $('#actionResult').addClass(data['type']);
+        $('#actionResult').removeClass('hidden');
+      })
+    })
 
     let controller = new UploadController();
     let nav = new Navigator();

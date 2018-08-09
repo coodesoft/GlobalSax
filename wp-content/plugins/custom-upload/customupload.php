@@ -175,6 +175,10 @@ function global_custom_upload_content(){
 				<div class="uc-tab"><?php assignCapabilities(); ?></div>
 			<?php } ?>
 
+      <?php if ($activeTab == 'history'){ ?>
+				<div class="uc-tab"><?php history(); ?></div>
+			<?php } ?>
+
 			<?php if ($activeTab == 'sucursales'){ ?>
 				<div class="uc-tab"><?php sucursales(); ?></div>
 			<?php } ?>

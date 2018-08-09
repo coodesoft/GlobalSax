@@ -1,5 +1,7 @@
 out: uploadPanel.css, compress: true
 
+
+
 #ucInstructions,
 #actionResult{
   border: 1px solid #ddd;
@@ -16,7 +18,7 @@ out: uploadPanel.css, compress: true
   background: #dff0d8;
 }
 
-#clientSelection,
+#sucursalClientSelection,
 #fileTypeSelection{
   div{
     display: inline-block;
@@ -44,6 +46,7 @@ out: uploadPanel.css, compress: true
 
 #filesPermissionTable,
 #filesDownloadsTable,
+#editFeatures,
 #uploadWrapper{
   table{
      border-collapse: collapse;
@@ -69,6 +72,13 @@ out: uploadPanel.css, compress: true
      td {
        text-align: center;
      }
+  }
+}
+
+#editFeatures{
+  table{
+    margin-top: 15px;
+    width: 100%;
   }
 }
 
@@ -195,6 +205,29 @@ out: uploadPanel.css, compress: true
   }
 }
 
-#createNewClient{
+#createNewClient,
+.cu-submit-button{
   margin-top: 10px;
+}
+
+.cu-error{
+  background: #f2dede !important;
+  color: #a94442 !important;
+}
+
+.cu-success{
+  background: #dff0d8 !important;
+  color: #3c763d;
+}
+
+.cu-loader{
+  display: inline-block;
+}
+
+.cu-loadIndicator{
+  text-align: center;
+}
+
+.cu-text-center{
+  text-align: center;
 }
