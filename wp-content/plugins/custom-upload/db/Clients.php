@@ -25,7 +25,7 @@ class Clients{
     $result = $wpdb->delete( self::TABLE, ['cliente_id' => $id], ['%d'] );
     $related = $wpdb->delete( self::RELATED, ['cliente_id' => $id], ['%d'] );
 
-    if ($result && $related){
+    if ($result !== false && $related !== false){
       $wpdb->query('COMMIT');
       return true;
     } else{
