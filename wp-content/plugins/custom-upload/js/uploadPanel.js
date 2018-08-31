@@ -80,7 +80,7 @@
     }
     $.post(ajaxurl, data, function(data){
       data = JSON.parse(data);
-      if (data['response'] != undefined)
+      if (data['response'] != undefined && target.length > 0)
         $(target).html(data['response']);
 
       if (callback != undefined)
@@ -88,6 +88,14 @@
     })
   }
 
+  var showCallbackMessage = function(msg, type){
+    $('.cu-loader').empty();
+    $('#actionResult').removeClass('hidden');
+    msg = '<p>'+msg+'</p>';
+    $('#actionResult').removeClass();
+    $('#actionResult').addClass(type);
+    $('#actionResult').html(msg);
+  }
 
   $(document).ready(function(){
 
@@ -113,13 +121,8 @@
       e.preventDefault(); e.stopPropagation();
       $('.cu-loader').html(loader);
 
-      sendContent(this, 'cu_add_client', '.uc-list ul', function(data){
-        $('.cu-loader').empty();
-        $('#actionResult').removeClass('hidden');
-        let msg = '<p>'+data['msg']+'</p>';
-        $('#actionResult').removeClass();
-        $('#actionResult').addClass(data['type']);
-        $('#actionResult').html(msg);
+      sendContent(this, 'cu_add_client', '#newClientsTable table', function(data){
+        showCallbackMessage(data['msg'], data['type']);
       });
     });
 
@@ -140,12 +143,7 @@
       $('.cu-loader').html(loader);
 
       sendContent(this, 'cu_add_sucursal', '.uc-list ul', function(data){
-        $('.cu-loader').empty();
-        $('#actionResult').removeClass('hidden');
-        let msg = '<p>'+data['msg']+'</p>';
-        $('#actionResult').removeClass();
-        $('#actionResult').addClass(data['type']);
-        $('#actionResult').html(msg);
+        showCallbackMessage(data['msg'], data['type']);
         $('#sucursalInput').val('');
 
       });
@@ -161,6 +159,44 @@
         $('#actionResult').removeClass('hidden');
       })
     })
+
+    $(root).on('click', '.edit-client', function(){
+      let row = $(this).closest('tr');
+      row.find('.client-name').hide();
+      row.find('.edit-client-name').show();
+    });
+
+    $(root).on('click', '.cancel-edit-client', function(){
+      let row = $(this).closest('tr');
+      row.find('.client-name').show();
+      row.find('.edit-client-name').hide();
+      row.find('input').val("");
+    });
+
+    $(root).on('click', '.confirm-edit-client', function(){
+      let form = $(this).closest('form');
+      let target = $(this).closest('tr').find('.client-name');
+      $('body').addClass('cu-progress');
+      sendContent(form, 'cu_edit_client', '#'+target.attr('id'), function(data){
+        showCallbackMessage(data['msg'], data['type']);
+        $('.cancel-edit-client').click();
+        $('body').removeClass('cu-progress');
+      })
+    });
+
+    $(root).on('click', '.delete-client', function(){
+      let form = $(this).closest('form');
+      $('body').addClass('cu-progress');
+      let confirmation = confirm('ATENCIÓN, vas a eliminar un cliente! ¿Deseas continuar?');
+      if (confirmation){
+        sendContent(form, 'cu_delete_client', '', function(data){
+          showCallbackMessage(data['msg'], data['type']);
+          let id = form.attr('data-delete');
+          $('#cliente_'+id).closest('tr').remove();
+          $('body').removeClass('cu-progress');
+        });
+      }
+    });
 
     let controller = new UploadController();
     let nav = new Navigator();

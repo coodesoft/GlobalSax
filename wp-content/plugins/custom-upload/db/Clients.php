@@ -12,6 +12,28 @@ class Clients{
     return $wpdb->insert(self::TABLE, array('nombre_cliente' => $name), array('%s') );
   }
 
+  static function update($id, $name){
+    global $wpdb;
+
+    return $wpdb->update(self::TABLE, ['nombre_cliente' => $name], ['cliente_id' => $id], ['%s'], ['%d']);
+  }
+
+  static function delete($id){
+    global $wpdb;
+
+    $wpdb->query('START TRANSACTION');
+    $result = $wpdb->delete( self::TABLE, ['cliente_id' => $id], ['%d'] );
+    $related = $wpdb->delete( self::RELATED, ['cliente_id' => $id], ['%d'] );
+
+    if ($result && $related){
+      $wpdb->query('COMMIT');
+      return true;
+    } else{
+      $wpdb->query('ROLLBACK');
+      return false;
+    }
+  }
+
   static function addSucursal($cliente_id, $sucursal_id){
     global $wpdb;
 

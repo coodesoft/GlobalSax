@@ -47,7 +47,8 @@ out: uploadPanel.css, compress: true
 #filesPermissionTable,
 #filesDownloadsTable,
 #editFeatures,
-#uploadWrapper{
+#uploadWrapper,
+#newClientsTable{
   table{
      border-collapse: collapse;
      width: 300px;
@@ -82,6 +83,47 @@ out: uploadPanel.css, compress: true
   }
 }
 
+#newClientsTable{
+  background: white;
+  table{
+    width: 100%;
+    tr{
+      line-height: 35px;
+      td{
+        border: none;
+        text-align: left;
+        &.client-name{ width: 70%; }
+        &.edit-client-name{
+          display: none;
+          .cancel-edit-client,
+          .confirm-edit-client{
+            cursor: pointer;
+          }
+        }
+
+        &.actions{
+          width: 30%;
+          text-align: center;
+          div{
+            display: block;
+            visibility: hidden;
+            i{
+              display: inline-block;
+              vertical-align: middle;
+              cursor: pointer;
+              margin-right: 10px;
+            }
+          }
+        }
+      }
+      &:hover{
+        td div{
+          visibility: visible !important;
+        }
+      }
+    }
+  }
+}
 .submitCUButton{
   text-align: center;
   margin-top: 10px;
@@ -230,4 +272,17 @@ out: uploadPanel.css, compress: true
 
 .cu-text-center{
   text-align: center;
+}
+
+.cu-inline-element{
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.cu-progress{
+  cursor: progress;
+}
+
+.cu-default{
+  cursor: default;
 }

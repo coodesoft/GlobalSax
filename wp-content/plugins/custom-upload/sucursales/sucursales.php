@@ -27,7 +27,10 @@ function cu_add_client(){
 
     $html = "";
     foreach ($stored as $key => $value) {
-      $html .= '<li>' . $value['nombre_cliente'] . '</li>';
+      $html .= '<tr>';
+      $html .= '<td>' . $value['nombre_cliente'] . '</td>';
+      $html .= '<td>  <div class="edit-client"></div><div class="remove-client"></div></td>';
+      $html .= '</tr>';
     }
     echo json_encode(['msg' => 'Se añadió correctamente el cliente',
                       'response' => $html,
@@ -35,6 +38,49 @@ function cu_add_client(){
                     ]);
     wp_die();
   }
+}
+
+add_action( 'wp_ajax_cu_edit_client', 'cu_edit_client' );
+function cu_edit_client(){
+  $params = array();
+  parse_str($_POST['data'], $params);
+
+  $clientEdit = $params['ClientEdit'];
+  $clientName = strtolower($clientEdit['name']);
+  $clientId = $clientEdit['id'];
+
+  $result = Clients::update($clientId, $clientName);
+
+  if ($retuls !== false){
+    echo json_encode(['msg' => 'Se actualizó correctamente el cliente',
+                      'response' => $clientName,
+                      'type' => 'cu-success']);
+  } else{
+    echo json_encode(['msg' => 'Se produjo un error al actualizar el cliente',
+                      'response' => $clientName,
+                      'type' => 'cu-error']);
+  }
+  wp_die();
+}
+
+
+add_action( 'wp_ajax_cu_delete_client', 'cu_delete_client' );
+function cu_delete_client(){
+
+  $params = array();
+  parse_str($_POST['data'], $params);
+
+  $toRemove = $params['ClientRemove'];
+  $result = Clients::delete($toRemove);
+
+  if ($result){
+    echo json_encode(['msg' => 'Se eliminó correctamente el cliente',
+                      'type' => 'cu-success']);
+  } else{
+    echo json_encode(['msg' => 'Se produjo un error al eliminar el cliente',
+                      'type' => 'cu-error']);
+  }
+  wp_die();
 }
 
 add_action( 'wp_ajax_cu_get_sucursales', 'cu_get_sucursales' );

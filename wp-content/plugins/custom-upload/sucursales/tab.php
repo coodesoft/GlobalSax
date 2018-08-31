@@ -50,7 +50,7 @@ function createCliente(){
       <form id="newClientForm" class="form" method="post">
 
         <div id="newClientInput" class="form-group cu-form-group">
-           <label for="exampleInputEmail1">Nombre del cliente:  </label>
+           <label>Nombre del cliente:  </label>
            <input type="text" class="form-control" name="Cliente" placeholder="ej. Ipanema">
          </div>
          <div class="form-group cu-form-group">
@@ -64,12 +64,31 @@ function createCliente(){
        $clientes = Clients::getAll();
       ?>
       <h3>Clientes cargados</h3>
-      <div class="uc-list">
-        <ul>
+      <div id="newClientsTable">
+        <table>
           <?php foreach ($clientes as $key => $value) { ?>
-            <li><?php echo $value['nombre_cliente']?></li>
+            <tr>
+              <td id="cliente_<?php echo $value['cliente_id']?>" class="client-name"><?php echo $value['nombre_cliente']?></td>
+              <td class="edit-client-name">
+                <form id="editClientName">
+                  <input class="cu-inline-element" type="text" name="ClientEdit[name]" placeholder="<?php echo $value['nombre_cliente']?>">
+                  <input type="hidden" name="ClientEdit[id]" value="<?php echo $value['cliente_id']?>">
+                  <i class="fa fa-window-close fa-2x cancel-edit-client cu-inline-element" aria-hidden="true"></i>
+                  <i class="fa fa-check-square fa-2x confirm-edit-client cu-inline-element" aria-hidden="true"></i>
+                </form>
+              </td>
+              <td class="actions">
+                <div>
+                  <i class="fa fa-pencil fa-2x edit-client" aria-hidden="true"></i>
+                  <form id="deleteClient" class="cu-inline-element" data-delete="<?php echo $value['cliente_id']?>">
+                    <input type="hidden" name="ClientRemove" value="<?php echo $value['cliente_id']?>">
+                    <i class="fa fa-trash fa-2x delete-client"  aria-hidden="true"></i>
+                  </form>
+                </div>
+              </td>
+            </tr>
           <?php } ?>
-        </ul>
+        </table>
       </div>
     </div>
   </div>
