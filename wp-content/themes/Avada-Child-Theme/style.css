@@ -398,11 +398,15 @@ input#buscar {
 	margin-bottom:50px;
 }
 
+.container-prov {
+	margin-bottom:2%;
+}
+
 .ciudad {
 	font-size: 1.5em;
     background-color:#f4f4f4;
     border-radius: 5px;
-	padding-left:10px;
+	padding-left:1%;
 	height:33px;
 }
 
@@ -414,8 +418,8 @@ input#abrir-cerrar {
 
 div#hidden-info {
 	display:none;
-	padding-top:15px;
-	padding-left:10px;
+	padding-bottom:1.5%;
+	padding-left:1%;
 	transition:padding-top .4s;
 }
 
@@ -426,6 +430,27 @@ div#hidden-info {
 .mostrar {
 	display:block!important;
 	transition:padding-top .4s;
+}
+
+.nombre_cliente {
+	display: inline;
+    font-size: 1.3em;
+    padding-right: 3%;
+}
+
+.info {
+	display:inline;
+}
+
+.info ul {
+	display: inline-flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.direccion_publica {
+	margin-top:1%;
 }
 
 img.locales_img {

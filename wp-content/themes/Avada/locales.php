@@ -80,7 +80,7 @@ $table_name = $locales_db->prefix .*/
 
 $clientes = Clients::getAll();
 $sucursales = Clients::getSucursales();
-foreach ($sucursales as $key => $value) {
+/*foreach ($sucursales as $key => $value) {
     $address = $value['direccion_publica'] . ", " . $value['ciudad'] . ", " . $value['provincia'];
 }
 
@@ -94,12 +94,10 @@ $resp      = json_decode($resp_json, true);
         // get the important data
         $lati  = $resp['results'][0]['geometry']['location']['lat'];
         $longi = $resp['results'][0]['geometry']['location']['lng'];
-        echo $lati;
-        echo $longi;
+        /*echo $lati;
+        echo $longi;*/
 
-    } else {
-        return false;
-    }
+
  //$sucursales = Clients::getSucursalesByClient($id);
  /*<ul>
    <?php foreach ($clientes as $key => $value) { ?>
@@ -146,34 +144,36 @@ $resp      = json_decode($resp_json, true);
               <?php foreach ($sucursales as $k => $v) { ?>
                 <?php if (($v['provincia'] == $value['provincia'])){ ?>
                 <?php if (!(in_array($v['id'], $ciudadescargadas))){ ?>
-                <input id="abrir-cerrar" name="abrir-cerrar" type="checkbox" />
-                <label for="abrir-cerrar">
+                  <div class="container-prov">
                   <div class="ciudad"> <?php echo $v['ciudad'] ?>   </div>
                   <div id="hidden-info" class="sucursal">
-                    <div class="direccion_publica"> <?php echo $v['direccion_publica'] ?> </div>
+                    <div class="nombre_cliente"> <span><?php echo $v['nombre_cliente'] ?></span></div>
                     <div class="info">
+                      <ul>
+                      <?php if (($v['sitio_web'])== true) { ?>
+                        <li><img class="locales_img items" src="/demo/img/locales_sitio_web.svg" href="#"></li>
+                      <?php } ?>
+
                       <?php if (($v['venta_mayorista'])== true) { ?>
-                        <span><img class="locales_img items" src="/demo/img/locales_venta_mayorista.svg"></span>
+                        <li><img class="locales_img items" src="/demo/img/locales_venta_mayorista.svg"></li>
                       <?php } ?>
 
                       <?php if (($v['venta_minorista'])== true) {  ?>
-                        <span><img class="locales_img items" src="/demo/img/locales_venta_minorista.svg"></span>
+                        <li><img class="locales_img items" src="/demo/img/locales_venta_minorista.svg"></li>
                       <?php } ?>
 
                       <?php if (($v['venta_online'])== true) { ?>
-                        <span><img class="locales_img items" src="/demo/img/locales_venta_online.svg"></span>
-                      <?php } ?>
-
-                      <?php if (($v['sitio_web'])== true) { ?>
-                        <span><img class="locales_img items" src="/demo/img/locales_sitio_web.svg" href="#" ></span>
+                        <li><img class="locales_img items" src="/demo/img/locales_venta_online.svg"></li>
                       <?php } ?>
 
                       <?php if (($v['revendedoras'])== true) { ?>
-                        <span><img class="locales_img items" src="/demo/img/locales_revendedoras.svg"></span>
+                        <li><img class="locales_img items" src="/demo/img/locales_revendedoras.svg"></li>
                       <?php } ?>
+                    </ul>
                     </div>
+                    <div class="direccion_publica"> <?php echo $v['direccion_publica'] ?> </div>
                   </div>
-                </label>
+                </div>
                     <?php array_push($ciudadescargadas, $v['id']);
                   }
                   }

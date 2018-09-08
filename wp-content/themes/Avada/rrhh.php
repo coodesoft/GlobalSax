@@ -14,7 +14,6 @@ $cfdb         = apply_filters( 'cfdb7_database', $wpdb );
 $table_name  = $cfdb->prefix . ('db7_forms');
 
 $form_post_id = '4842';
-
 if (empty($_POST['edad'])){
 	$edad_inic = 0;
 	$edad_fin = 9999;
@@ -22,22 +21,20 @@ if (empty($_POST['edad'])){
 	$edad_inic = get_edad($_POST['edad'], 'inic');
 	$edad_fin = get_edad($_POST['edad'], 'fin');
 }
-
 $filtros = array(
 	"puesto" => $_POST['puesto'],
 "edad_inic" => $edad_inic,
 "edad_fin" => $edad_fin,
 "genero" => $_POST['genero'],
-"provincia" => $_POST['provincia'],
+"provincia" => $_POST['provincia_rrhh'],
 "localidad" => $_POST['localidad']
 );
 
-
 $primer_filtro = get_not_empty($filtros);
 $primer_filtro .= get_query($filtros);
-echo "SELECT * FROM $table_name WHERE form_value LIKE ".$primer_filtro." AND form_post_id = '$form_post_id' ".$_POST['edad'];
+
 if (!empty($primer_filtro)){
-$result_form = $cfdb->get_results("SELECT * FROM $table_name WHERE form_value LIKE ".$primer_filtro."
+$result_form = $cfdb->get_results("SELECT * FROM $table_name WHERE form_value LIKE ".$primer_filtro ."
 AND form_post_id = '$form_post_id' ");
 } else {
   $result_form = $cfdb->get_results("SELECT * FROM $table_name WHERE form_post_id = '$form_post_id' ");
@@ -48,12 +45,13 @@ echo '<section class="section">';
   echo '<div class="interior">';
   echo '<div class="titular"><h2>RRHH</h2></div>';
   if (isset($_POST['busqueda'])){
+      echo "<div class='boton_unico'><a class='boton_gris' style='margin-top:20px;' href='". esc_url(get_permalink()) ."'>Nueva Busqueda</a></div>";
   if(sizeof($result_form) === 0){
       echo "<div class='mensajes'><div style='background-color:#5BC965;' class='mensaje_interno'><p>No hay resultados para su consulta.</p><script type='text/javascript'>$(document).ready(function() { setTimeout(function() { $('.mensaje_interno').fadeOut(1500); },6000); }); </script></div></div>"; mysqli_close($conexion);
   } else {
-      echo "<div class='boton_unico'><a class='boton_gris' style='margin-top:20px;' href='". esc_url(get_permalink()) ."'>Nueva Busqueda</a></div>";
+      
       echo "<div class='rrhh_personas'>";
-			foreach ( $result_form as $result ) {
+      foreach ( $result_form as $result ) {
 				  $form_value =  unserialize($result->form_value);
 					/*$link  = "<b><a href=admin.php?page=cfdb7-list.php&fid=%s&ufid=%s>%s</a></b>";
 					if(isset($form_value['cfdb7_status']) && ( $form_value['cfdb7_status'] === 'read' ) )
@@ -122,11 +120,11 @@ echo '<section class="section">';
               <option value="Otros">Otros</option>
           </select>
       </div>
-      <div>
+      <div class="">
           <label for="edad"><p>Edad<span> (00-00)</span></p></label>
-          <input type="text" id="edad" name="edad" size="30"/>
+          <input type="text" name="edad" id="edad" size="30"/>
       </div>
-      <div>
+        <div>
           <label for="genero"><p>Género</p></label>
           <select id="genero" name="genero">
               <option value="">Ambos</option>
@@ -142,9 +140,9 @@ echo '<section class="section">';
           $res_prov = mysqli_query($conexion, "select * from provincias");
           mysqli_close($conexion);*/
           ?>
-          <label for="provincia"><p>Provincia</p></label>
-          <select id="provincia" name="provincia" >
-              <option value="" selected>Todas</option>
+          <label for="provincia_rrhh"><p>Provincia</p></label>
+          <select type="text" name="provincia_rrhh" id="provincia_rrhh">
+                            <option value="" selected>Todas</option>
 							<option value="Buenos Aires" >Buenos Aires</option>
 							<option value="Catamarca" >Catamarca</option>
 							<option value="Chaco" >Chaco</option>
@@ -170,12 +168,9 @@ echo '<section class="section">';
       </div>
       <div id="localidad_rrhh">
           <label for="localidad"><p>Localidad</p></label>
-					<input type="text" name="localidad" id="localidad" size="30"/>
-          <?php /*<select type="text" name="localidad" id="localidad">
-              <option value="" selected>Todas</option>
-							<option value="Tandil">Tandil</option>
-        </select>*/ ?>
+		  <input type="text" name="localidad" id="localidad" size="30"/>
       </div>
+      <div></div>
   </div>
       <div class="botontrescol">
           <button class="boton_envia" type="submit" input="submit" name="busqueda" value="Buscar"><p>Buscar</p></button>
