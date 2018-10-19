@@ -884,8 +884,11 @@ if( is_user_logged_in()  ) {
 	$user = wp_get_current_user();
 	if ( in_array( 'RRHH', (array) $user->roles ) ) {
     $args['menu'] = 'logged-in';
+	} else if ( in_array( 'customer', (array) $user->roles ) )
+	{
+	   $args['menu'] = 'cliente';
 	}
-	} else {
+	} else  {
 		$args['menu'] = 'GRUPOBK MENU';
 	}
 
