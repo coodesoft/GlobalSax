@@ -80,15 +80,21 @@ Text Domain:  Avada
 }
 
 .grupobk-descripcion {
+<<<<<<< HEAD
     width: 60%;
     margin:0 auto!important;
 	max-width:900px;
+=======
+    width: 70%;
+    margin-left: 15% !important;
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 }
 
 #grupobk-button {
     width: 100% !important;
     text-transform:none;
 	font-size:1.2em;
+<<<<<<< HEAD
 	border-radius:5px!important;
 }
 
@@ -103,6 +109,8 @@ div#n2-ss-2-align {
 
 h3.marcas {
 	margin-top:20%;
+=======
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 }
 
 input.wpcf7-form-control.wpcf7-text.uploadtextfield {
@@ -189,6 +197,7 @@ img.img-responsive.wp-image-12084 {
     width: 48%;
 }
 
+<<<<<<< HEAD
 .marcas_container{
 	max-width:1100px!important;
 	margin:0 auto!important;
@@ -199,6 +208,8 @@ img.img-responsive.wp-image-12084 {
 	margin:0 0!important;
 }
 
+=======
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 .fusion-layout-column.fusion-one-half {
     width: 42%!important;
 }
@@ -325,7 +336,11 @@ div#contacto_tab {
 	padding: 5px 0px;
 }
 
+<<<<<<< HEAD
 #menu-grupobk-menu, #menu-logged-in, #menu-cliente {
+=======
+#menu-grupobk-menu, #menu-logged-in {
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
   	width: auto;
 	max-width: 1100px;
 	margin: 0 auto;
@@ -619,6 +634,7 @@ input[type=date]::-webkit-outer-spin-button{
 }
 .fupload{
 	width:98%!important;
+<<<<<<< HEAD
 }
 .products-3>li{
 	width: 31.6%!important;
@@ -635,4 +651,6 @@ input[type=date]::-webkit-outer-spin-button{
 #gbsCatalog{
 	width: 80%;
     padding-left: 9%;
+=======
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 }

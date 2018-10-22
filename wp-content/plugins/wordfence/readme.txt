@@ -4,7 +4,11 @@ Tags: security, firewall, malware scanner, web application firewall, antivirus, 
 Requires at least: 3.9
 Requires PHP: 5.3
 Tested up to: 4.9.8
+<<<<<<< HEAD
 Stable tag: 7.1.16
+=======
+Stable tag: 7.1.11
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 
 Secure your website with the most comprehensive WordPress security plugin. Firewall, malware scan, blocking, live traffic, login security & more.
 
@@ -171,6 +175,7 @@ Secure your website with Wordfence.
 
 == Changelog ==
 
+<<<<<<< HEAD
 = 7.1.16 =
 * Improvement: Service whitelisting can now be selectively toggled on or off per service.
 * Improvement: Updated bundled GeoIP database.
@@ -206,6 +211,8 @@ Secure your website with Wordfence.
 * Fix: Added better caching for the breached password check to compensate for sites that prevent the cache from expiring correctly.
 * Fix: Changing the frequency of the activity summary email now reschedules it.
 
+=======
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 = 7.1.11 =
 * Improvement: Added a custom message field that will show on all block pages.
 * Improvement: Improved the standard appearance for block pages.

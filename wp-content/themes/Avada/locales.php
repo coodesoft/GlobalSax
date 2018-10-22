@@ -120,7 +120,39 @@ $resp      = json_decode($resp_json, true);
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242211.64174373038!2d-58.44772574163197!3d-34.64593114556312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbcb7595281d9%3A0x4ad309fcdcf0a144!2sBuenos+Aires!5e0!3m2!1ses-419!2sar!4v1534285720746" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
    </div>
 
+<<<<<<< HEAD
    <div class="info_list">
+=======
+  <div class="info_list">
+      <select name="menu-prov" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+        <option value="">---</option>
+        <option value="Buenos Aires">Buenos Aires</option>
+        <option value="Buenos Aires-GBA">Buenos Aires-GBA</option>
+        <option value="Capital Federal">Capital Federal</option>
+        <option value="Catamarca">Catamarca</option>
+        <option value="Chaco">Chaco</option>
+        <option value="Chubut">Chubut</option>
+        <option value="Cordoba">Cordoba</option>
+        <option value="Corrientes">Corrientes</option>
+        <option value="Entre Rios">Entre Rios</option>
+        <option value="Formosa">Formosa</option>
+        <option value="Jujuy">Jujuy</option>
+        <option value="La Pampa">La Pampa</option>
+        <option value="La Rioja">La Rioja</option>
+        <option value="Mendoza">Mendoza</option>
+        <option value="Misiones">Misiones</option>
+        <option value="Neuquen">Neuquen</option>
+        <option value="Rio Negro">Rio Negro</option>
+        <option value="Salta">Salta</option>
+        <option value="San Juan">San Juan</option>
+        <option value="San Luis">San Luis</option>
+        <option value="Santa Cruz">Santa Cruz</option>
+        <option value="Santa Fé">Santa Fé</option>
+        <option value="Santiago del Estero">Santiago del Estero</option>
+        <option value="Tierra del Fuego">Tierra del Fuego</option>
+        <option value="Tucuman">Tucuman</option></select>
+
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
      <ul>
       <div class="item_list"><img class="locales_img" src="/demo/img/locales_sitio_web.svg"><span>Sitio Web </span></div>
       <div class="item_list"><img class="locales_img" src="/demo/img/locales_venta_mayorista.svg"><span>Venta Mayorista </span></div>

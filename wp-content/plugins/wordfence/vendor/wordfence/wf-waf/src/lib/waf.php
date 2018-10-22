@@ -1130,9 +1130,15 @@ HTML
 			}
 		}
 		try {
+<<<<<<< HEAD
 			$homeURL = wfWAF::getInstance()->getStorageEngine()->getConfig('homeURL', null, 'synced');
 			$siteURL = wfWAF::getInstance()->getStorageEngine()->getConfig('siteURL', null, 'synced');
 			$customText = wfWAF::getInstance()->getStorageEngine()->getConfig('blockCustomText', null, 'synced');
+=======
+			$homeURL = wfWAF::getInstance()->getStorageEngine()->getConfig('homeURL');
+			$siteURL = wfWAF::getInstance()->getStorageEngine()->getConfig('siteURL');
+			$customText = wfWAF::getInstance()->getStorageEngine()->getConfig('blockCustomText');
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 		}
 		catch (Exception $e) {
 			//Do nothing
@@ -1152,9 +1158,15 @@ HTML
 	public function getUnavailableMessage($reason = '', $template = null) {
 		if ($template === null) { $template = '503'; }
 		try {
+<<<<<<< HEAD
 			$homeURL = wfWAF::getInstance()->getStorageEngine()->getConfig('homeURL', null, 'synced');
 			$siteURL = wfWAF::getInstance()->getStorageEngine()->getConfig('siteURL', null, 'synced');
 			$customText = wfWAF::getInstance()->getStorageEngine()->getConfig('blockCustomText', null, 'synced');
+=======
+			$homeURL = wfWAF::getInstance()->getStorageEngine()->getConfig('homeURL');
+			$siteURL = wfWAF::getInstance()->getStorageEngine()->getConfig('siteURL');
+			$customText = wfWAF::getInstance()->getStorageEngine()->getConfig('blockCustomText');
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 		}
 		catch (Exception $e) {
 			//Do nothing

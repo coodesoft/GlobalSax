@@ -1890,8 +1890,11 @@ SQL
 					'pluginABSPATH'	 => ABSPATH,
 					'serverIPs'		 => json_encode(wfUtils::serverIPs()),
 					'blockCustomText' => wpautop(wp_strip_all_tags(wfConfig::get('blockCustomText', ''))),
+<<<<<<< HEAD
 					'betaThreatDefenseFeed' => !!wfConfig::get('betaThreatDefenseFeed'),
 					'disableWAFIPBlocking' => wfConfig::get('disableWAFIPBlocking'),
+=======
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 				);
 				foreach ($configDefaults as $key => $value) {
 					$waf->getStorageEngine()->setConfig($key, $value, 'synced');

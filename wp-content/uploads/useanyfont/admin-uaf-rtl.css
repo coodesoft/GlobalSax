@@ -1,8 +1,13 @@
 			@font-face {
 				font-family: 'myriad-set-pro-text';
 				font-style: normal;
+<<<<<<< HEAD
 				src: url('//globalsax.com/demo/wp-content/uploads/useanyfont/180114082415Myriad-Set-Pro-Text.eot');
 				src: local('myriad-set-pro-text'), url('//globalsax.com/demo/wp-content/uploads/useanyfont/180114082415Myriad-Set-Pro-Text.eot') format('embedded-opentype'), url('//globalsax.com/demo/wp-content/uploads/useanyfont/180114082415Myriad-Set-Pro-Text.woff') format('woff');
+=======
+				src: url('/qa/globalsax/webecommerce/wp-content/uploads/useanyfont/180114082415Myriad-Set-Pro-Text.eot');
+				src: local('myriad-set-pro-text'), url('/qa/globalsax/webecommerce/wp-content/uploads/useanyfont/180114082415Myriad-Set-Pro-Text.eot') format('embedded-opentype'), url('/qa/globalsax/webecommerce/wp-content/uploads/useanyfont/180114082415Myriad-Set-Pro-Text.woff') format('woff');
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 			}
             
             .et_gf_myriad-set-pro-text{background:none !important;font-family:myriad-set-pro-text;text-indent:0 !important;font-size:25px;}
@@ -10,12 +15,18 @@
 					@font-face {
 				font-family: 'myriad-set-pro-thin';
 				font-style: normal;
+<<<<<<< HEAD
 				src: url('//globalsax.com/demo/wp-content/uploads/useanyfont/180215033405Myriad-Set-Pro-Thin.eot');
 				src: local('myriad-set-pro-thin'), url('//globalsax.com/demo/wp-content/uploads/useanyfont/180215033405Myriad-Set-Pro-Thin.eot') format('embedded-opentype'), url('//globalsax.com/demo/wp-content/uploads/useanyfont/180215033405Myriad-Set-Pro-Thin.woff') format('woff');
+=======
+				src: url('/qa/globalsax/webecommerce/wp-content/uploads/useanyfont/180215033405Myriad-Set-Pro-Thin.eot');
+				src: local('myriad-set-pro-thin'), url('/qa/globalsax/webecommerce/wp-content/uploads/useanyfont/180215033405Myriad-Set-Pro-Thin.eot') format('embedded-opentype'), url('/qa/globalsax/webecommerce/wp-content/uploads/useanyfont/180215033405Myriad-Set-Pro-Thin.woff') format('woff');
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 			}
             
             .et_gf_myriad-set-pro-thin{background:none !important;font-family:myriad-set-pro-thin;text-indent:0 !important;font-size:25px;}
             
+<<<<<<< HEAD
 					@font-face {
 				font-family: 'myriad-ultralight';
 				font-style: normal;
@@ -52,4 +63,6 @@
             
             .et_gf_myriad-semibold{background:none !important;font-family:myriad-semibold;text-indent:0 !important;font-size:25px;}
             
+=======
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 		

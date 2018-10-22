@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 <?php
 if (!defined('WFWAF_VIEW_RENDERING')) { exit; }
 ?>
+=======
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +16,7 @@ if (!defined('WFWAF_VIEW_RENDERING')) { exit; }
 			color: #333;
 			background-color: #fff;
 		}
+<<<<<<< HEAD
 
 		body {
 			padding: 2rem;
@@ -118,6 +122,113 @@ if (!defined('WFWAF_VIEW_RENDERING')) { exit; }
 			pointer-events: none
 		}
 
+=======
+
+		body {
+			padding: 2rem;
+		}
+
+		a {
+			color:#00709e;
+		}
+
+		h1, h2, h3, h4, h45, h6 {
+			font-weight: 500;
+			line-height: 1.1;
+		}
+
+		h1 { font-size: 36px; }
+		h2 { font-size: 30px; }
+		h3 { font-size: 24px; }
+		h4 { font-size: 18px; }
+		h5 { font-size: 14px; }
+		h6 { font-size: 12px; }
+
+		h1, h2, h3 {
+			margin-top: 20px;
+			margin-bottom: 10px;
+		}
+		h4, h5, h6 {
+			margin-top: 10px;
+			margin-bottom: 10px;
+		}
+
+		.wf-btn {
+			display: inline-block;
+			margin-bottom: 0;
+			font-weight: normal;
+			text-align: center;
+			vertical-align: middle;
+			touch-action: manipulation;
+			cursor: pointer;
+			background-image: none;
+			border: 1px solid transparent;
+			white-space: nowrap;
+			text-transform: uppercase;
+			padding: .4rem 1rem;
+			font-size: .875rem;
+			line-height: 1.3125rem;
+			border-radius: 4px;
+			-webkit-user-select: none;
+			-moz-user-select: none;
+			-ms-user-select: none;
+			user-select: none
+		}
+
+		@media (min-width: 768px) {
+			.wf-btn {
+				padding: .5rem 1.25rem;
+				font-size: .875rem;
+				line-height: 1.3125rem;
+				border-radius: 4px
+			}
+		}
+
+		.wf-btn:focus,
+		.wf-btn.wf-focus,
+		.wf-btn:active:focus,
+		.wf-btn:active.wf-focus,
+		.wf-btn.wf-active:focus,
+		.wf-btn.wf-active.wf-focus {
+			outline: 5px auto -webkit-focus-ring-color;
+			outline-offset: -2px
+		}
+
+		.wf-btn:hover,
+		.wf-btn:focus,
+		.wf-btn.wf-focus {
+			color: #00709e;
+			text-decoration: none
+		}
+
+		.wf-btn:active,
+		.wf-btn.wf-active {
+			outline: 0;
+			background-image: none;
+			-webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+			box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125)
+		}
+
+		.wf-btn.wf-disabled,
+		.wf-btn[disabled],
+		.wf-btn[readonly],
+		fieldset[disabled] .wf-btn {
+			cursor: not-allowed;
+			-webkit-box-shadow: none;
+			box-shadow: none
+		}
+
+		a.wf-btn {
+			text-decoration: none
+		}
+
+		a.wf-btn.wf-disabled,
+		fieldset[disabled] a.wf-btn {
+			cursor: not-allowed;
+			pointer-events: none
+		}
+
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 		.wf-btn-default {
 			color: #00709e;
 			background-color: #fff;

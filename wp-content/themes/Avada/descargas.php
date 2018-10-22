@@ -117,5 +117,10 @@ $cargados = array();
     }
   }
     echo "<div style='display:none;' id='cont'></div>";
+<<<<<<< HEAD
     
+=======
+
+
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 ?>
