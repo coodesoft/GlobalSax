@@ -2,7 +2,7 @@
 
     define( 'SHORTINIT', true );
     require_once( $_SERVER['DOCUMENT_ROOT'] . '/demo/wp-load.php' );
-
+  
   $file_id = $_POST['file_id'];
   $user_id = $_POST['user_id'];
   global $wpdb;
@@ -21,3 +21,4 @@
   $resultado = $wpdb->query($consulta);
 
  ?>
+

@@ -1,6 +1,6 @@
-<?php
-
-class N2SmartsliderBackendSlidesView extends N2ViewBase
-{
-
+<?php
+
+class N2SmartsliderBackendSlidesView extends N2ViewBase
+{
+
 } 

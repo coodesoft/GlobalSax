@@ -802,108 +802,108 @@
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/restaurant/?page_id=9</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pasta.jpg' attachment='349' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='custom' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Welcome to <strong>Enfold Restaurant</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-The best gourmet restaurant available in Manhatten
-Book <a href="#">online</a> or call <a href="tel:5551234567">(555)123-4567</a>
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' id='']
-
-[av_two_third first]
-
-[av_slideshow size='magazine' animation='fade' autoplay='true' interval='5']
-[av_slide id='352'][/av_slide]
-[av_slide id='350'][/av_slide]
-[av_slide id='349'][/av_slide]
-[/av_slideshow]
-
-[/av_two_third][av_one_third]
-
-[av_heading tag='h2' padding='0' heading='Amazing meals &amp; <strong>great entertainment</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-We hope to see you soon!
-[/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
-Venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
-<blockquote>Nulla consequat massa quis enim. Doncus ut, imperdiet a.</blockquote>
-[/av_textblock]
-
-[/av_one_third][av_one_third first]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza-845x684.jpg' attachment='350' attachment_size='gallery' align='center' animation='pop-up' link='page,26' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
-Learn more....
-[/av_image]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='The best ingredients' link='' linktarget='' linkelement='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-[/av_icon_box]
-
-[/av_one_third][av_one_third]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/burger-845x684.jpg' attachment='345' attachment_size='gallery' align='center' animation='pop-up' link='page,18' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
-Book now!
-[/av_image]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Reservations' link='' linktarget='' linkelement='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-[/av_icon_box]
-
-[/av_one_third][av_one_third]
-
-[/av_one_third][/av_section][av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/kitchen_chef_edit.jpg' attachment='348' attachment_size='full' attach='parallax' position='top center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-shadow' id='']
-[av_hr class='invisible' height='250' shadow='no-shadow' position='center']
-
-[av_heading tag='h1' padding='0' heading='Kitchen <strong>Team</strong>' color='custom-color-heading' style='blockquote modern-quote' custom_font='#0a0202' size='60' subheading_active='subheading_below' subheading_size='20' custom_class='']
-Award winning meals, delivered by an amazing team
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
-[av_one_fourth first]
-
-[av_heading heading='Marcus <strong>Cole</strong>' tag='h3' color='' custom_font='#382410' style='blockquote modern-quote' size='' subheading_active='subheading_below' subheading_size='16' padding='0']
-GRILL CHEF
-[/av_heading]
-
-[av_textblock]
-Aenean commodo ligula eget dolor. Aenean massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-[/av_textblock]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_heading tag='h3' padding='0' heading='Lisa <strong>Cole</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
-EXECUTIVE CHEF
-[/av_heading]
-
-[av_textblock]
-Lorem <strong>ipsum</strong> dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-[/av_textblock]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_heading tag='h3' padding='0' heading='Lara <strong>Langford</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
-CHEF DE CUISINE
-[/av_heading]
-
-[av_textblock]
-Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris.
-[/av_textblock]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_heading tag='h3' padding='0' heading='Alex <strong>Deer</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
-SOUS CHEF
-[/av_heading]
-
-[av_textblock]
-Phasellus ullamcorper ipsum rutrum nunc. Nunc <strong>nonummy</strong> metus. Vestibulum volutpat pretium libero. Cras id dui.
-[/av_textblock]
-
-[/av_one_fourth]
+		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pasta.jpg' attachment='349' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='custom' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Welcome to <strong>Enfold Restaurant</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+The best gourmet restaurant available in Manhatten
+Book <a href="#">online</a> or call <a href="tel:5551234567">(555)123-4567</a>
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' id='']
+
+[av_two_third first]
+
+[av_slideshow size='magazine' animation='fade' autoplay='true' interval='5']
+[av_slide id='352'][/av_slide]
+[av_slide id='350'][/av_slide]
+[av_slide id='349'][/av_slide]
+[/av_slideshow]
+
+[/av_two_third][av_one_third]
+
+[av_heading tag='h2' padding='0' heading='Amazing meals &amp; <strong>great entertainment</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+We hope to see you soon!
+[/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
+Venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+<blockquote>Nulla consequat massa quis enim. Doncus ut, imperdiet a.</blockquote>
+[/av_textblock]
+
+[/av_one_third][av_one_third first]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza-845x684.jpg' attachment='350' attachment_size='gallery' align='center' animation='pop-up' link='page,26' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
+Learn more....
+[/av_image]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='The best ingredients' link='' linktarget='' linkelement='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+[/av_icon_box]
+
+[/av_one_third][av_one_third]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/burger-845x684.jpg' attachment='345' attachment_size='gallery' align='center' animation='pop-up' link='page,18' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
+Book now!
+[/av_image]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Reservations' link='' linktarget='' linkelement='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+[/av_icon_box]
+
+[/av_one_third][av_one_third]
+
+[/av_one_third][/av_section][av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/kitchen_chef_edit.jpg' attachment='348' attachment_size='full' attach='parallax' position='top center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-shadow' id='']
+[av_hr class='invisible' height='250' shadow='no-shadow' position='center']
+
+[av_heading tag='h1' padding='0' heading='Kitchen <strong>Team</strong>' color='custom-color-heading' style='blockquote modern-quote' custom_font='#0a0202' size='60' subheading_active='subheading_below' subheading_size='20' custom_class='']
+Award winning meals, delivered by an amazing team
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
+[av_one_fourth first]
+
+[av_heading heading='Marcus <strong>Cole</strong>' tag='h3' color='' custom_font='#382410' style='blockquote modern-quote' size='' subheading_active='subheading_below' subheading_size='16' padding='0']
+GRILL CHEF
+[/av_heading]
+
+[av_textblock]
+Aenean commodo ligula eget dolor. Aenean massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_heading tag='h3' padding='0' heading='Lisa <strong>Cole</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
+EXECUTIVE CHEF
+[/av_heading]
+
+[av_textblock]
+Lorem <strong>ipsum</strong> dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_heading tag='h3' padding='0' heading='Lara <strong>Langford</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
+CHEF DE CUISINE
+[/av_heading]
+
+[av_textblock]
+Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_heading tag='h3' padding='0' heading='Alex <strong>Deer</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
+SOUS CHEF
+[/av_heading]
+
+[av_textblock]
+Phasellus ullamcorper ipsum rutrum nunc. Nunc <strong>nonummy</strong> metus. Vestibulum volutpat pretium libero. Cras id dui.
+[/av_textblock]
+
+[/av_one_fourth]
 [/av_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>15</wp:post_id>
@@ -928,110 +928,110 @@ Phasellus ullamcorper ipsum rutrum nunc. Nunc <strong>nonummy</strong> metus. Ve
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pasta.jpg' attachment='349' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='custom' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Welcome to <strong>Enfold Restaurant</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-The best gourmet restaurant available in Manhatten
-Book <a href='#'>online</a> or call <a href="tel:5551234567">(555)123-4567</a>
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' id='']
-
-[av_two_third first]
-
-[av_slideshow size='magazine' animation='fade' autoplay='true' interval='5']
-[av_slide id='352'][/av_slide]
-[av_slide id='350'][/av_slide]
-[av_slide id='349'][/av_slide]
-[/av_slideshow]
-
-[/av_two_third][av_one_third]
-
-[av_heading tag='h2' padding='0' heading='Amazing meals & <strong>great entertainment</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-We hope to see you soon!
-[/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
-Venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
-<blockquote>Nulla consequat massa quis enim. Doncus ut, imperdiet a.</blockquote>
-[/av_textblock]
-
-[/av_one_third][av_one_third first]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza-845x684.jpg' attachment='350' attachment_size='gallery' align='center' animation='pop-up' link='page,26' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
-Learn more....
-[/av_image]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='The best ingredients' link='' linktarget='' linkelement='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-[/av_icon_box]
-
-[/av_one_third][av_one_third]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/burger-845x684.jpg' attachment='345' attachment_size='gallery' align='center' animation='pop-up' link='page,18' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
-Book now!
-[/av_image]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Reservations' link='' linktarget='' linkelement='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
-[/av_icon_box]
-
-[/av_one_third][av_one_third]
-
-[/av_one_third][/av_section][av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/kitchen_chef_edit.jpg' attachment='348' attachment_size='full' attach='parallax' position='top center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-shadow' id='']
-[av_hr class='invisible' height='250' shadow='no-shadow' position='center']
-
-[av_heading tag='h1' padding='0' heading='Kitchen <strong>Team</strong>' color='custom-color-heading' style='blockquote modern-quote' custom_font='#0a0202' size='60' subheading_active='subheading_below' subheading_size='20' custom_class='']
-Award winning meals, delivered by an amazing team
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
-[av_one_fourth first]
-
-[av_heading heading='Marcus <strong>Cole</strong>' tag='h3' color='' custom_font='#382410' style='blockquote modern-quote' size='' subheading_active='subheading_below' subheading_size='16' padding='0']
-GRILL CHEF
-[/av_heading]
-
-[av_textblock]
-Aenean commodo ligula eget dolor. Aenean massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-[/av_textblock]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_heading tag='h3' padding='0' heading='Lisa <strong>Cole</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
-EXECUTIVE CHEF
-[/av_heading]
-
-[av_textblock]
-Lorem <strong>ipsum</strong> dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-[/av_textblock]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_heading tag='h3' padding='0' heading='Lara <strong>Langford</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
-CHEF DE CUISINE
-[/av_heading]
-
-[av_textblock]
-Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris.
-[/av_textblock]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_heading tag='h3' padding='0' heading='Alex <strong>Deer</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
-SOUS CHEF
-[/av_heading]
-
-[av_textblock]
-Phasellus ullamcorper ipsum rutrum nunc. Nunc <strong>nonummy</strong> metus. Vestibulum volutpat pretium libero. Cras id dui.
-[/av_textblock]
-
-[/av_one_fourth]
-[/av_section]
-
+			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pasta.jpg' attachment='349' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='custom' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Welcome to <strong>Enfold Restaurant</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+The best gourmet restaurant available in Manhatten
+Book <a href='#'>online</a> or call <a href="tel:5551234567">(555)123-4567</a>
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' id='']
+
+[av_two_third first]
+
+[av_slideshow size='magazine' animation='fade' autoplay='true' interval='5']
+[av_slide id='352'][/av_slide]
+[av_slide id='350'][/av_slide]
+[av_slide id='349'][/av_slide]
+[/av_slideshow]
+
+[/av_two_third][av_one_third]
+
+[av_heading tag='h2' padding='0' heading='Amazing meals & <strong>great entertainment</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+We hope to see you soon!
+[/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
+Venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
+<blockquote>Nulla consequat massa quis enim. Doncus ut, imperdiet a.</blockquote>
+[/av_textblock]
+
+[/av_one_third][av_one_third first]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza-845x684.jpg' attachment='350' attachment_size='gallery' align='center' animation='pop-up' link='page,26' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
+Learn more....
+[/av_image]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='The best ingredients' link='' linktarget='' linkelement='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+[/av_icon_box]
+
+[/av_one_third][av_one_third]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/burger-845x684.jpg' attachment='345' attachment_size='gallery' align='center' animation='pop-up' link='page,18' target='' styling='' caption='yes' font_size='20' appearance='on-hover']
+Book now!
+[/av_image]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Reservations' link='' linktarget='' linkelement='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.
+[/av_icon_box]
+
+[/av_one_third][av_one_third]
+
+[/av_one_third][/av_section][av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/kitchen_chef_edit.jpg' attachment='348' attachment_size='full' attach='parallax' position='top center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='large' shadow='no-shadow' id='']
+[av_hr class='invisible' height='250' shadow='no-shadow' position='center']
+
+[av_heading tag='h1' padding='0' heading='Kitchen <strong>Team</strong>' color='custom-color-heading' style='blockquote modern-quote' custom_font='#0a0202' size='60' subheading_active='subheading_below' subheading_size='20' custom_class='']
+Award winning meals, delivered by an amazing team
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
+[av_one_fourth first]
+
+[av_heading heading='Marcus <strong>Cole</strong>' tag='h3' color='' custom_font='#382410' style='blockquote modern-quote' size='' subheading_active='subheading_below' subheading_size='16' padding='0']
+GRILL CHEF
+[/av_heading]
+
+[av_textblock]
+Aenean commodo ligula eget dolor. Aenean massa. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_heading tag='h3' padding='0' heading='Lisa <strong>Cole</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
+EXECUTIVE CHEF
+[/av_heading]
+
+[av_textblock]
+Lorem <strong>ipsum</strong> dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_heading tag='h3' padding='0' heading='Lara <strong>Langford</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
+CHEF DE CUISINE
+[/av_heading]
+
+[av_textblock]
+Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris.
+[/av_textblock]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_heading tag='h3' padding='0' heading='Alex <strong>Deer</strong>' color='' style='blockquote modern-quote' custom_font='#382410' size='' subheading_active='subheading_below' subheading_size='16' custom_class='']
+SOUS CHEF
+[/av_heading]
+
+[av_textblock]
+Phasellus ullamcorper ipsum rutrum nunc. Nunc <strong>nonummy</strong> metus. Vestibulum volutpat pretium libero. Cras id dui.
+[/av_textblock]
+
+[/av_one_fourth]
+[/av_section]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1096,167 +1096,167 @@ Phasellus ullamcorper ipsum rutrum nunc. Nunc <strong>nonummy</strong> metus. Ve
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/restaurant/?page_id=12</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Our <strong>Menu</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Everything we have to offer at one glance
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-
-[av_heading tag='h2' padding='25' heading='<strong>Menu</strong> of the day' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_fifth first]
-
-[/av_one_fifth][av_three_fifth]
-
-[av_catalogue]
-[av_catalogue_item title='Sesame crusted scotch fillet' price='7.50$' id='345' link='lightbox' target='']
-with honeyed Pedro Ximenez sauce and potato cake
-[/av_catalogue_item]
-[av_catalogue_item title='Roast Rack of Lamb' price='7.50$' id='350' link='lightbox' target='']
-with herb crust and fruity mesclun salad and straw potato
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_three_fifth][av_one_fifth]
-
-[/av_one_fifth][av_heading tag='h2' padding='25' heading='Break<strong>fast</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_half first]
-
-[av_catalogue]
-[av_catalogue_item title='Eggs Benedict' price='21$']
-with either bacon or salmon
-[/av_catalogue_item]
-[av_catalogue_item title='Enfold’s famous Crepes' price='16$']
-with fresh fruit, bacon and maple syrup
-[/av_catalogue_item]
-[av_catalogue_item title='French Toasted Brioche' price='17$']
-with grilled banana, bacon, rosewater mascarpone and maple syrup
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_one_half]
-
-[av_catalogue]
-[av_catalogue_item title='Low Carb Breakfast' price='13$' link='' target='' disabled='']
-grilled chicken breast with veggies
-[/av_catalogue_item]
-[av_catalogue_item title='Bagel' price='8.50$' link='' target='']
-with salmon, cream cheese and salsa
-[/av_catalogue_item]
-[av_catalogue_item title='American Pancakes' price='21$' link='' target='' disabled='']
-with chocolate  sauce or maple syrup, honey and cream
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='Lunch<strong>Time</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_half first]
-
-[av_catalogue]
-[av_catalogue_item title='Spiced Pigeon' price='38$']
-Ale &amp; artichokes
-[/av_catalogue_item]
-[av_catalogue_item title='Ribeye Steak' price='42$']
-Mushroom ketchup &amp; fries
-[/av_catalogue_item]
-[av_catalogue_item title='Duck Breast' price='35$']
-Smoked confit fennel &amp; umbles
-[/av_catalogue_item]
-[av_catalogue_item title='Roast Turbot' price='22$']
-Mussel &amp; seaweed ketchup, salmon roe &amp; sea rosemary
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_one_half]
-
-[av_catalogue]
-[av_catalogue_item title='Linefish' price='27$']
-Pan fried line fish, herbed nicola potato and mussel salad
-[/av_catalogue_item]
-[av_catalogue_item title='Autumn Lamb' price='33$']
-Pan seared lamb loin, slow roasted lamb shanks
-[/av_catalogue_item]
-[av_catalogue_item title='Duck' price='75$']
-Confit duck leg, mushroom and liver stuffing and onions
-[/av_catalogue_item]
-[av_catalogue_item title='Homedried Tomato' price='22$']
-with sesame, aubergine puree and burnt aubergine jelly
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='Wine <strong>Selection</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_half first]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine-845x684.jpg' attachment='352' attachment_size='gallery' align='center' animation='pop-up' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[/av_one_half][av_one_half]
-
-[av_catalogue]
-[av_catalogue_item title='Grechetto, Poggio Della Costa' price='23$' link='' target='' disabled='']
-2011, Umbria, Italy (B) 13|49
-[/av_catalogue_item]
-[av_catalogue_item title='Muskateller, Heidi Schrock' price='45$' link='' target='' disabled='']
-2010, Neusiedlersee-Huggeland, Austria (B) 52
-[/av_catalogue_item]
-[av_catalogue_item title='Posip, Zlatan Otok Winery' price='12$' link='' target='' disabled='']
-2012, Island of Hvar, Croatia (B) 53
-[/av_catalogue_item]
-[av_catalogue_item title='Chenin Blanc, Nicolas Joly' price='33$' link='' target='' disabled='']
-2010, Loire, France (B) 65
-[/av_catalogue_item]
-[av_catalogue_item title='Petite Chablis, F. Bachelier' price='32.90$' link='' target='' disabled='']
-2011, Chablis, France (O) 44
-[/av_catalogue_item]
-[av_catalogue_item title='Prosecco, Jeio' price='22$' link='' target='' disabled='']
-NV, Italy (O) 11|37
-[/av_catalogue_item]
-[av_catalogue_item title='Cava Brut, Campasso' price='33$' link='' target='' disabled='']
-NV, Spain (O) 11|41
-[/av_catalogue_item]
-[av_catalogue_item title='Sparkling Rosé, Trevisio' price='44$' link='' target='' disabled='aviaTBaviaTBdisabled']
-NV, Veneto, Italy (O) 11|41
-[/av_catalogue_item]
-[av_catalogue_item title='Sauvignon Blanc, Urlar' price='23$' link='' target='' disabled='aviaTBaviaTBdisabled']
-2011, Wairarapa, New Zealand (B) 12|45
-[/av_catalogue_item]
-[av_catalogue_item title='Pinot Grigio, Scarbolo' price='35.50$' link='' target='' disabled='aviaTBaviaTBdisabled']
-2012, Friuli, Italy (B) 12|45
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='Non alcoholic <strong>Beverages</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_third first]
-
-[av_catalogue]
-[av_catalogue_item title='7UP' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Root Beer' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Apple Juice' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Orange Juice' price='3.90$'][/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_third][av_one_third]
-
-[av_catalogue]
-[av_catalogue_item title='Coke' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Pepsi' price='2.90$'][/av_catalogue_item]
-[av_catalogue_item title='Red Bull' price='4.90$'][/av_catalogue_item]
-[av_catalogue_item title='Bitter Lemon' price='2.95$'][/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_third][av_one_third]
-
-[av_catalogue]
-[av_catalogue_item title='Crush' price='2.70$'][/av_catalogue_item]
-[av_catalogue_item title='Crystal Light' price='5.90$'][/av_catalogue_item]
-[av_catalogue_item title='Banana Shake' price='5.90$'][/av_catalogue_item]
-[av_catalogue_item title='Pineapple shake ' price='7.95$'][/av_catalogue_item]
-[/av_catalogue]
-
+		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Our <strong>Menu</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Everything we have to offer at one glance
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+
+[av_heading tag='h2' padding='25' heading='<strong>Menu</strong> of the day' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_fifth first]
+
+[/av_one_fifth][av_three_fifth]
+
+[av_catalogue]
+[av_catalogue_item title='Sesame crusted scotch fillet' price='7.50$' id='345' link='lightbox' target='']
+with honeyed Pedro Ximenez sauce and potato cake
+[/av_catalogue_item]
+[av_catalogue_item title='Roast Rack of Lamb' price='7.50$' id='350' link='lightbox' target='']
+with herb crust and fruity mesclun salad and straw potato
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_three_fifth][av_one_fifth]
+
+[/av_one_fifth][av_heading tag='h2' padding='25' heading='Break<strong>fast</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_half first]
+
+[av_catalogue]
+[av_catalogue_item title='Eggs Benedict' price='21$']
+with either bacon or salmon
+[/av_catalogue_item]
+[av_catalogue_item title='Enfold’s famous Crepes' price='16$']
+with fresh fruit, bacon and maple syrup
+[/av_catalogue_item]
+[av_catalogue_item title='French Toasted Brioche' price='17$']
+with grilled banana, bacon, rosewater mascarpone and maple syrup
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_one_half]
+
+[av_catalogue]
+[av_catalogue_item title='Low Carb Breakfast' price='13$' link='' target='' disabled='']
+grilled chicken breast with veggies
+[/av_catalogue_item]
+[av_catalogue_item title='Bagel' price='8.50$' link='' target='']
+with salmon, cream cheese and salsa
+[/av_catalogue_item]
+[av_catalogue_item title='American Pancakes' price='21$' link='' target='' disabled='']
+with chocolate  sauce or maple syrup, honey and cream
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='Lunch<strong>Time</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_half first]
+
+[av_catalogue]
+[av_catalogue_item title='Spiced Pigeon' price='38$']
+Ale &amp; artichokes
+[/av_catalogue_item]
+[av_catalogue_item title='Ribeye Steak' price='42$']
+Mushroom ketchup &amp; fries
+[/av_catalogue_item]
+[av_catalogue_item title='Duck Breast' price='35$']
+Smoked confit fennel &amp; umbles
+[/av_catalogue_item]
+[av_catalogue_item title='Roast Turbot' price='22$']
+Mussel &amp; seaweed ketchup, salmon roe &amp; sea rosemary
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_one_half]
+
+[av_catalogue]
+[av_catalogue_item title='Linefish' price='27$']
+Pan fried line fish, herbed nicola potato and mussel salad
+[/av_catalogue_item]
+[av_catalogue_item title='Autumn Lamb' price='33$']
+Pan seared lamb loin, slow roasted lamb shanks
+[/av_catalogue_item]
+[av_catalogue_item title='Duck' price='75$']
+Confit duck leg, mushroom and liver stuffing and onions
+[/av_catalogue_item]
+[av_catalogue_item title='Homedried Tomato' price='22$']
+with sesame, aubergine puree and burnt aubergine jelly
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='Wine <strong>Selection</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_half first]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine-845x684.jpg' attachment='352' attachment_size='gallery' align='center' animation='pop-up' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[/av_one_half][av_one_half]
+
+[av_catalogue]
+[av_catalogue_item title='Grechetto, Poggio Della Costa' price='23$' link='' target='' disabled='']
+2011, Umbria, Italy (B) 13|49
+[/av_catalogue_item]
+[av_catalogue_item title='Muskateller, Heidi Schrock' price='45$' link='' target='' disabled='']
+2010, Neusiedlersee-Huggeland, Austria (B) 52
+[/av_catalogue_item]
+[av_catalogue_item title='Posip, Zlatan Otok Winery' price='12$' link='' target='' disabled='']
+2012, Island of Hvar, Croatia (B) 53
+[/av_catalogue_item]
+[av_catalogue_item title='Chenin Blanc, Nicolas Joly' price='33$' link='' target='' disabled='']
+2010, Loire, France (B) 65
+[/av_catalogue_item]
+[av_catalogue_item title='Petite Chablis, F. Bachelier' price='32.90$' link='' target='' disabled='']
+2011, Chablis, France (O) 44
+[/av_catalogue_item]
+[av_catalogue_item title='Prosecco, Jeio' price='22$' link='' target='' disabled='']
+NV, Italy (O) 11|37
+[/av_catalogue_item]
+[av_catalogue_item title='Cava Brut, Campasso' price='33$' link='' target='' disabled='']
+NV, Spain (O) 11|41
+[/av_catalogue_item]
+[av_catalogue_item title='Sparkling Rosé, Trevisio' price='44$' link='' target='' disabled='aviaTBaviaTBdisabled']
+NV, Veneto, Italy (O) 11|41
+[/av_catalogue_item]
+[av_catalogue_item title='Sauvignon Blanc, Urlar' price='23$' link='' target='' disabled='aviaTBaviaTBdisabled']
+2011, Wairarapa, New Zealand (B) 12|45
+[/av_catalogue_item]
+[av_catalogue_item title='Pinot Grigio, Scarbolo' price='35.50$' link='' target='' disabled='aviaTBaviaTBdisabled']
+2012, Friuli, Italy (B) 12|45
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='Non alcoholic <strong>Beverages</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_third first]
+
+[av_catalogue]
+[av_catalogue_item title='7UP' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Root Beer' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Apple Juice' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Orange Juice' price='3.90$'][/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_third][av_one_third]
+
+[av_catalogue]
+[av_catalogue_item title='Coke' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Pepsi' price='2.90$'][/av_catalogue_item]
+[av_catalogue_item title='Red Bull' price='4.90$'][/av_catalogue_item]
+[av_catalogue_item title='Bitter Lemon' price='2.95$'][/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_third][av_one_third]
+
+[av_catalogue]
+[av_catalogue_item title='Crush' price='2.70$'][/av_catalogue_item]
+[av_catalogue_item title='Crystal Light' price='5.90$'][/av_catalogue_item]
+[av_catalogue_item title='Banana Shake' price='5.90$'][/av_catalogue_item]
+[av_catalogue_item title='Pineapple shake ' price='7.95$'][/av_catalogue_item]
+[/av_catalogue]
+
 [/av_one_third][/av_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
@@ -1285,167 +1285,167 @@ NV, Veneto, Italy (O) 11|41
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Our <strong>Menu</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Everything we have to offer at one glance
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-
-[av_heading tag='h2' padding='25' heading='<strong>Menu</strong> of the day' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_fifth first]
-
-[/av_one_fifth][av_three_fifth]
-
-[av_catalogue]
-[av_catalogue_item title='Sesame crusted scotch fillet' price='7.50$' id='345' link='lightbox' target='']
-with honeyed Pedro Ximenez sauce and potato cake
-[/av_catalogue_item]
-[av_catalogue_item title='Roast Rack of Lamb' price='7.50$' id='350' link='lightbox' target='']
-with herb crust and fruity mesclun salad and straw potato
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_three_fifth][av_one_fifth]
-
-[/av_one_fifth][av_heading tag='h2' padding='25' heading='Break<strong>fast</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_half first]
-
-[av_catalogue]
-[av_catalogue_item title='Eggs Benedict' price='21$']
-with either bacon or salmon
-[/av_catalogue_item]
-[av_catalogue_item title='Enfold’s famous Crepes' price='16$']
-with fresh fruit, bacon and maple syrup
-[/av_catalogue_item]
-[av_catalogue_item title='French Toasted Brioche' price='17$']
-with grilled banana, bacon, rosewater mascarpone and maple syrup
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_one_half]
-
-[av_catalogue]
-[av_catalogue_item title='Low Carb Breakfast' price='13$' link='' target='' disabled='']
-grilled chicken breast with veggies
-[/av_catalogue_item]
-[av_catalogue_item title='Bagel' price='8.50$' link='' target='']
-with salmon, cream cheese and salsa
-[/av_catalogue_item]
-[av_catalogue_item title='American Pancakes' price='21$' link='' target='' disabled='']
-with chocolate  sauce or maple syrup, honey and cream
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='Lunch<strong>Time</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_half first]
-
-[av_catalogue]
-[av_catalogue_item title='Spiced Pigeon' price='38$']
-Ale & artichokes
-[/av_catalogue_item]
-[av_catalogue_item title='Ribeye Steak' price='42$']
-Mushroom ketchup & fries
-[/av_catalogue_item]
-[av_catalogue_item title='Duck Breast' price='35$']
-Smoked confit fennel & umbles
-[/av_catalogue_item]
-[av_catalogue_item title='Roast Turbot' price='22$']
-Mussel & seaweed ketchup, salmon roe & sea rosemary
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_one_half]
-
-[av_catalogue]
-[av_catalogue_item title='Linefish' price='27$']
-Pan fried line fish, herbed nicola potato and mussel salad
-[/av_catalogue_item]
-[av_catalogue_item title='Autumn Lamb' price='33$']
-Pan seared lamb loin, slow roasted lamb shanks
-[/av_catalogue_item]
-[av_catalogue_item title='Duck' price='75$']
-Confit duck leg, mushroom and liver stuffing and onions
-[/av_catalogue_item]
-[av_catalogue_item title='Homedried Tomato' price='22$']
-with sesame, aubergine puree and burnt aubergine jelly
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='Wine <strong>Selection</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_half first]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine-845x684.jpg' attachment='352' attachment_size='gallery' align='center' animation='pop-up' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[/av_one_half][av_one_half]
-
-[av_catalogue]
-[av_catalogue_item title='Grechetto, Poggio Della Costa' price='23$' link='' target='' disabled='']
-2011, Umbria, Italy (B) 13|49
-[/av_catalogue_item]
-[av_catalogue_item title='Muskateller, Heidi Schrock' price='45$' link='' target='' disabled='']
-2010, Neusiedlersee-Huggeland, Austria (B) 52
-[/av_catalogue_item]
-[av_catalogue_item title='Posip, Zlatan Otok Winery' price='12$' link='' target='' disabled='']
-2012, Island of Hvar, Croatia (B) 53
-[/av_catalogue_item]
-[av_catalogue_item title='Chenin Blanc, Nicolas Joly' price='33$' link='' target='' disabled='']
-2010, Loire, France (B) 65
-[/av_catalogue_item]
-[av_catalogue_item title='Petite Chablis, F. Bachelier' price='32.90$' link='' target='' disabled='']
-2011, Chablis, France (O) 44
-[/av_catalogue_item]
-[av_catalogue_item title='Prosecco, Jeio' price='22$' link='' target='' disabled='']
-NV, Italy (O) 11|37
-[/av_catalogue_item]
-[av_catalogue_item title='Cava Brut, Campasso' price='33$' link='' target='' disabled='']
-NV, Spain (O) 11|41
-[/av_catalogue_item]
-[av_catalogue_item title='Sparkling Rosé, Trevisio' price='44$' link='' target='' disabled='aviaTBaviaTBdisabled']
-NV, Veneto, Italy (O) 11|41
-[/av_catalogue_item]
-[av_catalogue_item title='Sauvignon Blanc, Urlar' price='23$' link='' target='' disabled='aviaTBaviaTBdisabled']
-2011, Wairarapa, New Zealand (B) 12|45
-[/av_catalogue_item]
-[av_catalogue_item title='Pinot Grigio, Scarbolo' price='35.50$' link='' target='' disabled='aviaTBaviaTBdisabled']
-2012, Friuli, Italy (B) 12|45
-[/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='Non alcoholic <strong>Beverages</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_one_third first]
-
-[av_catalogue]
-[av_catalogue_item title='7UP' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Root Beer' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Apple Juice' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Orange Juice' price='3.90$'][/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_third][av_one_third]
-
-[av_catalogue]
-[av_catalogue_item title='Coke' price='3.90$'][/av_catalogue_item]
-[av_catalogue_item title='Pepsi' price='2.90$'][/av_catalogue_item]
-[av_catalogue_item title='Red Bull' price='4.90$'][/av_catalogue_item]
-[av_catalogue_item title='Bitter Lemon' price='2.95$'][/av_catalogue_item]
-[/av_catalogue]
-
-[/av_one_third][av_one_third]
-
-[av_catalogue]
-[av_catalogue_item title='Crush' price='2.70$'][/av_catalogue_item]
-[av_catalogue_item title='Crystal Light' price='5.90$'][/av_catalogue_item]
-[av_catalogue_item title='Banana Shake' price='5.90$'][/av_catalogue_item]
-[av_catalogue_item title='Pineapple shake ' price='7.95$'][/av_catalogue_item]
-[/av_catalogue]
-
+			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Our <strong>Menu</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Everything we have to offer at one glance
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+
+[av_heading tag='h2' padding='25' heading='<strong>Menu</strong> of the day' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_fifth first]
+
+[/av_one_fifth][av_three_fifth]
+
+[av_catalogue]
+[av_catalogue_item title='Sesame crusted scotch fillet' price='7.50$' id='345' link='lightbox' target='']
+with honeyed Pedro Ximenez sauce and potato cake
+[/av_catalogue_item]
+[av_catalogue_item title='Roast Rack of Lamb' price='7.50$' id='350' link='lightbox' target='']
+with herb crust and fruity mesclun salad and straw potato
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_three_fifth][av_one_fifth]
+
+[/av_one_fifth][av_heading tag='h2' padding='25' heading='Break<strong>fast</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_half first]
+
+[av_catalogue]
+[av_catalogue_item title='Eggs Benedict' price='21$']
+with either bacon or salmon
+[/av_catalogue_item]
+[av_catalogue_item title='Enfold’s famous Crepes' price='16$']
+with fresh fruit, bacon and maple syrup
+[/av_catalogue_item]
+[av_catalogue_item title='French Toasted Brioche' price='17$']
+with grilled banana, bacon, rosewater mascarpone and maple syrup
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_one_half]
+
+[av_catalogue]
+[av_catalogue_item title='Low Carb Breakfast' price='13$' link='' target='' disabled='']
+grilled chicken breast with veggies
+[/av_catalogue_item]
+[av_catalogue_item title='Bagel' price='8.50$' link='' target='']
+with salmon, cream cheese and salsa
+[/av_catalogue_item]
+[av_catalogue_item title='American Pancakes' price='21$' link='' target='' disabled='']
+with chocolate  sauce or maple syrup, honey and cream
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='Lunch<strong>Time</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_half first]
+
+[av_catalogue]
+[av_catalogue_item title='Spiced Pigeon' price='38$']
+Ale & artichokes
+[/av_catalogue_item]
+[av_catalogue_item title='Ribeye Steak' price='42$']
+Mushroom ketchup & fries
+[/av_catalogue_item]
+[av_catalogue_item title='Duck Breast' price='35$']
+Smoked confit fennel & umbles
+[/av_catalogue_item]
+[av_catalogue_item title='Roast Turbot' price='22$']
+Mussel & seaweed ketchup, salmon roe & sea rosemary
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_one_half]
+
+[av_catalogue]
+[av_catalogue_item title='Linefish' price='27$']
+Pan fried line fish, herbed nicola potato and mussel salad
+[/av_catalogue_item]
+[av_catalogue_item title='Autumn Lamb' price='33$']
+Pan seared lamb loin, slow roasted lamb shanks
+[/av_catalogue_item]
+[av_catalogue_item title='Duck' price='75$']
+Confit duck leg, mushroom and liver stuffing and onions
+[/av_catalogue_item]
+[av_catalogue_item title='Homedried Tomato' price='22$']
+with sesame, aubergine puree and burnt aubergine jelly
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='Wine <strong>Selection</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_half first]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine-845x684.jpg' attachment='352' attachment_size='gallery' align='center' animation='pop-up' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[/av_one_half][av_one_half]
+
+[av_catalogue]
+[av_catalogue_item title='Grechetto, Poggio Della Costa' price='23$' link='' target='' disabled='']
+2011, Umbria, Italy (B) 13|49
+[/av_catalogue_item]
+[av_catalogue_item title='Muskateller, Heidi Schrock' price='45$' link='' target='' disabled='']
+2010, Neusiedlersee-Huggeland, Austria (B) 52
+[/av_catalogue_item]
+[av_catalogue_item title='Posip, Zlatan Otok Winery' price='12$' link='' target='' disabled='']
+2012, Island of Hvar, Croatia (B) 53
+[/av_catalogue_item]
+[av_catalogue_item title='Chenin Blanc, Nicolas Joly' price='33$' link='' target='' disabled='']
+2010, Loire, France (B) 65
+[/av_catalogue_item]
+[av_catalogue_item title='Petite Chablis, F. Bachelier' price='32.90$' link='' target='' disabled='']
+2011, Chablis, France (O) 44
+[/av_catalogue_item]
+[av_catalogue_item title='Prosecco, Jeio' price='22$' link='' target='' disabled='']
+NV, Italy (O) 11|37
+[/av_catalogue_item]
+[av_catalogue_item title='Cava Brut, Campasso' price='33$' link='' target='' disabled='']
+NV, Spain (O) 11|41
+[/av_catalogue_item]
+[av_catalogue_item title='Sparkling Rosé, Trevisio' price='44$' link='' target='' disabled='aviaTBaviaTBdisabled']
+NV, Veneto, Italy (O) 11|41
+[/av_catalogue_item]
+[av_catalogue_item title='Sauvignon Blanc, Urlar' price='23$' link='' target='' disabled='aviaTBaviaTBdisabled']
+2011, Wairarapa, New Zealand (B) 12|45
+[/av_catalogue_item]
+[av_catalogue_item title='Pinot Grigio, Scarbolo' price='35.50$' link='' target='' disabled='aviaTBaviaTBdisabled']
+2012, Friuli, Italy (B) 12|45
+[/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='Non alcoholic <strong>Beverages</strong>' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_one_third first]
+
+[av_catalogue]
+[av_catalogue_item title='7UP' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Root Beer' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Apple Juice' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Orange Juice' price='3.90$'][/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_third][av_one_third]
+
+[av_catalogue]
+[av_catalogue_item title='Coke' price='3.90$'][/av_catalogue_item]
+[av_catalogue_item title='Pepsi' price='2.90$'][/av_catalogue_item]
+[av_catalogue_item title='Red Bull' price='4.90$'][/av_catalogue_item]
+[av_catalogue_item title='Bitter Lemon' price='2.95$'][/av_catalogue_item]
+[/av_catalogue]
+
+[/av_one_third][av_one_third]
+
+[av_catalogue]
+[av_catalogue_item title='Crush' price='2.70$'][/av_catalogue_item]
+[av_catalogue_item title='Crystal Light' price='5.90$'][/av_catalogue_item]
+[av_catalogue_item title='Banana Shake' price='5.90$'][/av_catalogue_item]
+[av_catalogue_item title='Pineapple shake ' price='7.95$'][/av_catalogue_item]
+[/av_catalogue]
+
 [/av_one_third][/av_section]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1484,105 +1484,105 @@ NV, Veneto, Italy (O) 11|41
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/restaurant/?page_id=14</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown.jpg' attachment='353' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Make a <strong>Reservation</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Parties of up to 60 guests are welcome
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
-
-[av_one_half first]
-
-[av_heading tag='h2' padding='0' heading='Select a table &amp; <strong>book now</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-We will confirm your order via E-Mail
-[/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-[/av_textblock]
-
-[av_contact email='' title='' button='Book now' on_send='' sent='Thanks you!
-Your reservation has been sent!
-You should receive a confirmation soon!' link='manually,http://' subject='' autorespond='We will confirm your reservation as soon as possible ;)' captcha='']
-[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Date' type='datepicker' options='' check='is_empty' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Time' type='select' options='17:30,18:00,18:30,19:00,19:30,20:00,20:30,21:00,21:30' check='is_empty' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Seats' type='select' options='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20' check='is_empty' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Table' type='select' options='Any,1,2,3,4,5,6,7,8' check='is_empty' width='element_fourth'][/av_contact_field]
-[/av_contact]
-
-[av_heading tag='h2' padding='0' heading='Order by <strong>Phone</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock]
-Prefer to make your reservation via phone? <strong>Give us a call!</strong> You can contact us between 10am and 22pm ever day of the week. Our Phone number is <strong>(555) 784 332</strong>
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_image_hotspot src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/floor_plan.png' attachment='357' attachment_size='full' animation='fade-in' hotspot_layout='blank']
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='25.9,19.3']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='42.6,19.3']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,54.9']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,83.8']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,43.8']
-For up to 4 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,60.6']
-For up to 4 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,76.2']
-For up to 4 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,91.9']
-For up to 4 persons
-[/av_image_spot]
-[/av_image_hotspot]
-
-[/av_one_half][/av_section][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-
-[av_one_half first]
-
-[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Dining Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-For up to 20 persons
-[/av_heading]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown-845x321.jpg' attachment='353' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[av_textblock]
-Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis
-
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Party Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-For up to 60 persons
-[/av_heading]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_wide-845x321.jpg' attachment='354' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-[/av_textblock]
-
-[/av_one_half][/av_section][av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_promobox button='yes' label='Show Gallery' link='page,25' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue87d' font='entypo-fontello']
-Our Private Room Partys are legendary! Check out the pictures in our Gallery!If you need any more details give us a call!
-We will be happy to answer all your questions
-[/av_promobox]
+		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown.jpg' attachment='353' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Make a <strong>Reservation</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Parties of up to 60 guests are welcome
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
+
+[av_one_half first]
+
+[av_heading tag='h2' padding='0' heading='Select a table &amp; <strong>book now</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+We will confirm your order via E-Mail
+[/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+[/av_textblock]
+
+[av_contact email='' title='' button='Book now' on_send='' sent='Thanks you!
+Your reservation has been sent!
+You should receive a confirmation soon!' link='manually,http://' subject='' autorespond='We will confirm your reservation as soon as possible ;)' captcha='']
+[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Date' type='datepicker' options='' check='is_empty' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Time' type='select' options='17:30,18:00,18:30,19:00,19:30,20:00,20:30,21:00,21:30' check='is_empty' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Seats' type='select' options='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20' check='is_empty' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Table' type='select' options='Any,1,2,3,4,5,6,7,8' check='is_empty' width='element_fourth'][/av_contact_field]
+[/av_contact]
+
+[av_heading tag='h2' padding='0' heading='Order by <strong>Phone</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock]
+Prefer to make your reservation via phone? <strong>Give us a call!</strong> You can contact us between 10am and 22pm ever day of the week. Our Phone number is <strong>(555) 784 332</strong>
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_image_hotspot src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/floor_plan.png' attachment='357' attachment_size='full' animation='fade-in' hotspot_layout='blank']
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='25.9,19.3']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='42.6,19.3']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,54.9']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,83.8']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,43.8']
+For up to 4 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,60.6']
+For up to 4 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,76.2']
+For up to 4 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,91.9']
+For up to 4 persons
+[/av_image_spot]
+[/av_image_hotspot]
+
+[/av_one_half][/av_section][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+
+[av_one_half first]
+
+[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Dining Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+For up to 20 persons
+[/av_heading]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown-845x321.jpg' attachment='353' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[av_textblock]
+Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis
+
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Party Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+For up to 60 persons
+[/av_heading]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_wide-845x321.jpg' attachment='354' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+[/av_textblock]
+
+[/av_one_half][/av_section][av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_promobox button='yes' label='Show Gallery' link='page,25' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue87d' font='entypo-fontello']
+Our Private Room Partys are legendary! Check out the pictures in our Gallery!If you need any more details give us a call!
+We will be happy to answer all your questions
+[/av_promobox]
 [/av_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>18</wp:post_id>
@@ -1607,105 +1607,105 @@ We will be happy to answer all your questions
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown.jpg' attachment='353' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Make a <strong>Reservation</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Parties of up to 60 guests are welcome
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
-
-[av_one_half first]
-
-[av_heading tag='h2' padding='0' heading='Select a table & <strong>book now</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-We will confirm your order via E-Mail
-[/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-[/av_textblock]
-
-[av_contact email='' title='' button='Book now' on_send='' sent='Thanks you! <br/>Your reservation has been sent! <br/>You should receive a confirmation soon!' link='manually,http://' subject='' autorespond='We will confirm your reservation as soon as possible ;)' captcha='']
-[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Date' type='datepicker' options='' check='is_empty' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Time' type='select' options='17:30,18:00,18:30,19:00,19:30,20:00,20:30,21:00,21:30' check='is_empty' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Seats' type='select' options='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20' check='is_empty' width='element_fourth'][/av_contact_field]
-[av_contact_field label='Table' type='select' options='Any,1,2,3,4,5,6,7,8' check='is_empty' width='element_fourth'][/av_contact_field]
-[/av_contact]
-
-[av_heading tag='h2' padding='0' heading='Order by <strong>Phone</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock]
-Prefer to make your reservation via phone? <strong>Give us a call!</strong> You can contact us between 10am and 22pm ever day of the week. Our Phone number is <strong>(555) 784 332</strong>
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_image_hotspot src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/floor_plan.png' attachment='357' attachment_size='full' animation='fade-in' hotspot_layout='blank']
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='25.9,19.3']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='42.6,19.3']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,54.9']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,83.8']
-For up to 8 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,43.8']
-For up to 4 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,60.6']
-For up to 4 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,76.2']
-For up to 4 persons
-[/av_image_spot]
-[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,91.9']
-For up to 4 persons
-[/av_image_spot]
-[/av_image_hotspot]
-
-[/av_one_half][/av_section][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-
-[av_one_half first]
-
-[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Dining Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-For up to 20 persons
-[/av_heading]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown-845x321.jpg' attachment='353' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[av_textblock]
-Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis
-
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Party Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-For up to 60 persons
-[/av_heading]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_wide-845x321.jpg' attachment='354' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-[/av_textblock]
-
-[/av_one_half][/av_section][av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_promobox button='yes' label='Show Gallery' link='page,25' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue87d' font='entypo-fontello']
-Our Private Room Partys are legendary! Check out the pictures in our Gallery!If you need any more details give us a call!
-We will be happy to answer all your questions
-[/av_promobox]
-[/av_section]
-
+			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown.jpg' attachment='353' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Make a <strong>Reservation</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Parties of up to 60 guests are welcome
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' padding='large' shadow='no-border-styling' id='']
+
+[av_one_half first]
+
+[av_heading tag='h2' padding='0' heading='Select a table & <strong>book now</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+We will confirm your order via E-Mail
+[/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+[/av_textblock]
+
+[av_contact email='' title='' button='Book now' on_send='' sent='Thanks you! <br/>Your reservation has been sent! <br/>You should receive a confirmation soon!' link='manually,http://' subject='' autorespond='We will confirm your reservation as soon as possible ;)' captcha='']
+[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Date' type='datepicker' options='' check='is_empty' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Time' type='select' options='17:30,18:00,18:30,19:00,19:30,20:00,20:30,21:00,21:30' check='is_empty' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Seats' type='select' options='1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20' check='is_empty' width='element_fourth'][/av_contact_field]
+[av_contact_field label='Table' type='select' options='Any,1,2,3,4,5,6,7,8' check='is_empty' width='element_fourth'][/av_contact_field]
+[/av_contact]
+
+[av_heading tag='h2' padding='0' heading='Order by <strong>Phone</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock]
+Prefer to make your reservation via phone? <strong>Give us a call!</strong> You can contact us between 10am and 22pm ever day of the week. Our Phone number is <strong>(555) 784 332</strong>
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_image_hotspot src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/floor_plan.png' attachment='357' attachment_size='full' animation='fade-in' hotspot_layout='blank']
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='25.9,19.3']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='42.6,19.3']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,54.9']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='28.9,83.8']
+For up to 8 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,43.8']
+For up to 4 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,60.6']
+For up to 4 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,76.2']
+For up to 4 persons
+[/av_image_spot]
+[av_image_spot tooltip_pos='av-tt-pos-above av-tt-align-centered' tooltip_width='av-tt-default-width' tooltip_style='transparent_dark' hotspot_color='custom' custom_bg='#724019' custom_font='#ffffff' custom_pulse='#a1300d' hotspot_pos='50.3,91.9']
+For up to 4 persons
+[/av_image_spot]
+[/av_image_hotspot]
+
+[/av_one_half][/av_section][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+
+[av_one_half first]
+
+[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Dining Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+For up to 20 persons
+[/av_heading]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_hotel_brown-845x321.jpg' attachment='353' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[av_textblock]
+Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis
+
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_heading tag='h2' padding='20' heading='Separate Room: <strong>Party Room</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+For up to 60 persons
+[/av_heading]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/restaurant_wide-845x321.jpg' attachment='354' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+[/av_textblock]
+
+[/av_one_half][/av_section][av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_promobox button='yes' label='Show Gallery' link='page,25' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' icon_select='no' icon='ue87d' font='entypo-fontello']
+Our Private Room Partys are legendary! Check out the pictures in our Gallery!If you need any more details give us a call!
+We will be happy to answer all your questions
+[/av_promobox]
+[/av_section]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1748,12 +1748,12 @@ We will be happy to answer all your questions
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/restaurant/?page_id=16</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza.jpg' attachment='350' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Latest <strong>News</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Kitchen Chat and more...
-[/av_heading]
-[/av_section]
-
+		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza.jpg' attachment='350' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Latest <strong>News</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Kitchen Chat and more...
+[/av_heading]
+[/av_section]
+
 [av_blog blog_type='posts' link='category' blog_style='single-small' columns='3' contents='excerpt' content_length='content' preview_mode='auto' image_size='portfolio' items='3' offset='0' paginate='yes']]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>19</wp:post_id>
@@ -1778,14 +1778,14 @@ Kitchen Chat and more...
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza.jpg' attachment='350' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Latest <strong>News</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Kitchen Chat and more...
-[/av_heading]
-[/av_section]
-
-[av_blog blog_type='posts' link='category' blog_style='single-small' columns='3' contents='excerpt' content_length='content' preview_mode='auto' image_size='portfolio' items='3' offset='0' paginate='yes']
-
+			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/pizza.jpg' attachment='350' attachment_size='full' attach='parallax' position='center center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Latest <strong>News</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Kitchen Chat and more...
+[/av_heading]
+[/av_section]
+
+[av_blog blog_type='posts' link='category' blog_style='single-small' columns='3' contents='excerpt' content_length='content' preview_mode='auto' image_size='portfolio' items='3' offset='0' paginate='yes']
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1828,101 +1828,101 @@ Kitchen Chat and more...
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/restaurant/?page_id=18</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine.jpg' attachment='352' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Where to <strong>find us</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-All locations open Mon – Fri, 10am – 12pm &amp; Sat – Sun, 11am – 04am
-[/av_heading]
-[/av_section]
-
-[av_one_fourth first]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Detroit' link='' linktarget='' linkelement='']
-4870 Cass Ave
-Detroit, MI, United States
-
-(555) 389 976
-<a href="mailto:detroit@enfold-restaurant.com">detroit@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='4870 Cass Ave Detroit, MI, United States' city='' country='' long='-83.06618029999998' lat='42.35521869999999' marker='355' imagesize='60'][/av_gmap_location]
-
-[/av_google_map]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold L.A.' link='' linktarget='' linkelement='']
-1818 N Vermont Ave
-Los Angeles, CA, United States
-
-(555) 774 433
-<a href="mailto:california@enfold-restaurant.com">LA@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='1818 N Vermont Ave' city='Los Angeles' country='' long='-118.29148800000002' lat='34.104216' marker='355' imagesize='60'][/av_gmap_location]
-
-[/av_google_map]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Seattle' link='' linktarget='' linkelement='']
-4326 University Way NE
-Seattle, WA, United States
-
-(555) 345 888
-<a href="mailto:seattle@enfold-restaurant.com">seattle@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='4326 University Way NE Seattle, WA, United States' city='' country='' long='-122.3128231' lat='47.660654' marker='355' imagesize='60'][/av_gmap_location]
-
-[/av_google_map]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Dallas' link='' linktarget='' linkelement='']
-11311 Harry Hines Blvd
-Dallas, TX, United States
-
-(555) 389 976
-<a href="mailto:dallas@enfold-restaurant.com">dallas@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='11311 Harry Hines BlvdDallas, TX 75229' city='' country='' long='-96.89169570000001' lat='32.8935073' marker='355' imagesize='60'][/av_gmap_location]
-
-[/av_google_map]
-
-[/av_one_fourth][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_heading tag='h1' padding='10' heading='Get <strong>in touch</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.
-[/av_textblock]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit-845x321.jpg' attachment='347' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
-Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_heading tag='h1' padding='10' heading='Mail <strong>US</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_contact email='' title='' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
-[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_half'][/av_contact_field]
-[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
-[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
-[/av_contact]
-
-[/av_one_half]
+		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine.jpg' attachment='352' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Where to <strong>find us</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+All locations open Mon – Fri, 10am – 12pm &amp; Sat – Sun, 11am – 04am
+[/av_heading]
+[/av_section]
+
+[av_one_fourth first]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Detroit' link='' linktarget='' linkelement='']
+4870 Cass Ave
+Detroit, MI, United States
+
+(555) 389 976
+<a href="mailto:detroit@enfold-restaurant.com">detroit@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='4870 Cass Ave Detroit, MI, United States' city='' country='' long='-83.06618029999998' lat='42.35521869999999' marker='355' imagesize='60'][/av_gmap_location]
+
+[/av_google_map]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold L.A.' link='' linktarget='' linkelement='']
+1818 N Vermont Ave
+Los Angeles, CA, United States
+
+(555) 774 433
+<a href="mailto:california@enfold-restaurant.com">LA@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='1818 N Vermont Ave' city='Los Angeles' country='' long='-118.29148800000002' lat='34.104216' marker='355' imagesize='60'][/av_gmap_location]
+
+[/av_google_map]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Seattle' link='' linktarget='' linkelement='']
+4326 University Way NE
+Seattle, WA, United States
+
+(555) 345 888
+<a href="mailto:seattle@enfold-restaurant.com">seattle@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='4326 University Way NE Seattle, WA, United States' city='' country='' long='-122.3128231' lat='47.660654' marker='355' imagesize='60'][/av_gmap_location]
+
+[/av_google_map]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Dallas' link='' linktarget='' linkelement='']
+11311 Harry Hines Blvd
+Dallas, TX, United States
+
+(555) 389 976
+<a href="mailto:dallas@enfold-restaurant.com">dallas@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='11311 Harry Hines BlvdDallas, TX 75229' city='' country='' long='-96.89169570000001' lat='32.8935073' marker='355' imagesize='60'][/av_gmap_location]
+
+[/av_google_map]
+
+[/av_one_fourth][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_heading tag='h1' padding='10' heading='Get <strong>in touch</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.
+[/av_textblock]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit-845x321.jpg' attachment='347' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
+Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_heading tag='h1' padding='10' heading='Mail <strong>US</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_contact email='' title='' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
+[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_half'][/av_contact_field]
+[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
+[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
+[/av_contact]
+
+[/av_one_half]
 [/av_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>20</wp:post_id>
@@ -1947,107 +1947,107 @@ Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine.jpg' attachment='352' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Where to <strong>find us</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-All locations open Mon – Fri, 10am – 12pm & Sat – Sun, 11am – 04am
-[/av_heading]
-[/av_section]
-
-[av_one_fourth first]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Detroit' link='' linktarget='' linkelement='']
-4870 Cass Ave
-Detroit, MI, United States
-
-(555) 389 976
-<a href="mailto:detroit@enfold-restaurant.com">detroit@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='4870 Cass Ave Detroit, MI, United States' city='' country='' long='-83.06618029999998' lat='42.35521869999999' marker='355' imagesize='60'][/av_gmap_location]
-
-
-[/av_google_map]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold L.A.' link='' linktarget='' linkelement='']
-1818 N Vermont Ave
-Los Angeles, CA, United States
-
-(555) 774 433
-<a href="mailto:california@enfold-restaurant.com">LA@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='1818 N Vermont Ave' city='Los Angeles' country='' long='-118.29148800000002' lat='34.104216' marker='355' imagesize='60'][/av_gmap_location]
-
-
-[/av_google_map]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Seattle' link='' linktarget='' linkelement='']
-4326 University Way NE
-Seattle, WA, United States
-
-(555) 345 888
-<a href="mailto:seattle@enfold-restaurant.com">seattle@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='4326 University Way NE Seattle, WA, United States' city='' country='' long='-122.3128231' lat='47.660654' marker='355' imagesize='60'][/av_gmap_location]
-
-
-[/av_google_map]
-
-[/av_one_fourth][av_one_fourth]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Dallas' link='' linktarget='' linkelement='']
-11311 Harry Hines Blvd
-Dallas, TX, United States
-
-(555) 389 976
-<a href="mailto:dallas@enfold-restaurant.com">dallas@enfold-restaurant.com</a>
-[/av_icon_box]
-
-[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
-[av_gmap_location address='11311 Harry Hines BlvdDallas, TX 75229' city='' country='' long='-96.89169570000001' lat='32.8935073' marker='355' imagesize='60'][/av_gmap_location]
-
-
-[/av_google_map]
-
-[/av_one_fourth][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_heading tag='h1' padding='10' heading='Get <strong>in touch</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.
-[/av_textblock]
-
-[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit-845x321.jpg' attachment='347' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
-Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_heading tag='h1' padding='10' heading='Mail <strong>US</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_contact email='' title='' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
-[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_half'][/av_contact_field]
-[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
-[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
-[/av_contact]
-
-[/av_one_half]
-[/av_section]
-
+			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/wine.jpg' attachment='352' attachment_size='full' attach='parallax' position='bottom center' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Where to <strong>find us</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+All locations open Mon – Fri, 10am – 12pm & Sat – Sun, 11am – 04am
+[/av_heading]
+[/av_section]
+
+[av_one_fourth first]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Detroit' link='' linktarget='' linkelement='']
+4870 Cass Ave
+Detroit, MI, United States
+
+(555) 389 976
+<a href="mailto:detroit@enfold-restaurant.com">detroit@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='4870 Cass Ave Detroit, MI, United States' city='' country='' long='-83.06618029999998' lat='42.35521869999999' marker='355' imagesize='60'][/av_gmap_location]
+
+
+[/av_google_map]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold L.A.' link='' linktarget='' linkelement='']
+1818 N Vermont Ave
+Los Angeles, CA, United States
+
+(555) 774 433
+<a href="mailto:california@enfold-restaurant.com">LA@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='1818 N Vermont Ave' city='Los Angeles' country='' long='-118.29148800000002' lat='34.104216' marker='355' imagesize='60'][/av_gmap_location]
+
+
+[/av_google_map]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Seattle' link='' linktarget='' linkelement='']
+4326 University Way NE
+Seattle, WA, United States
+
+(555) 345 888
+<a href="mailto:seattle@enfold-restaurant.com">seattle@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='4326 University Way NE Seattle, WA, United States' city='' country='' long='-122.3128231' lat='47.660654' marker='355' imagesize='60'][/av_gmap_location]
+
+
+[/av_google_map]
+
+[/av_one_fourth][av_one_fourth]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Enfold Dallas' link='' linktarget='' linkelement='']
+11311 Harry Hines Blvd
+Dallas, TX, United States
+
+(555) 389 976
+<a href="mailto:dallas@enfold-restaurant.com">dallas@enfold-restaurant.com</a>
+[/av_icon_box]
+
+[av_google_map height='1:1.5' zoom='16' saturation='' hue='#342f29' mobile_drag_control='aviaTBmobile_drag_control']
+[av_gmap_location address='11311 Harry Hines BlvdDallas, TX 75229' city='' country='' long='-96.89169570000001' lat='32.8935073' marker='355' imagesize='60'][/av_gmap_location]
+
+
+[/av_google_map]
+
+[/av_one_fourth][av_section color='alternate_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_heading tag='h1' padding='10' heading='Get <strong>in touch</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient.
+[/av_textblock]
+
+[av_image src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit-845x321.jpg' attachment='347' attachment_size='entry_with_sidebar' align='center' animation='no-animation' link='' target='' styling='' caption='' font_size='' appearance=''][/av_image]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
+Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_heading tag='h1' padding='10' heading='Mail <strong>US</strong>' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_contact email='' title='' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
+[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_half'][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_half'][/av_contact_field]
+[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
+[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
+[/av_contact]
+
+[/av_one_half]
+[/av_section]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -2445,74 +2445,74 @@ Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, v
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/restaurant/?page_id=25</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='top left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='About us &amp; Photo Gallery' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Take a look at the place, the people and the food...
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_heading tag='h2' padding='20' heading='A few words <strong>about us</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-Let us introduce ourselves
-[/av_heading]
-
-[av_textblock]
-Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. <strong>Ut varius tincidunt</strong> libero. Phasellus dolor. Maecenas vestibulum mollis
-
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_heading tag='h2' padding='20' heading='A place to wine, a place <strong>to dine</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-How it all came to be...
-[/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-<blockquote>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</blockquote>
-Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-[/av_textblock]
-
-[/av_one_half]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_fifth first]
-
-[av_animated_numbers number='17' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Years of experience
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='34' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Team Members
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='12500' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Customers served
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='75' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Dishes
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='200+' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Wines
-[/av_animated_numbers]
-
-[/av_one_fifth]
-[/av_section]
-
+		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='top left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='About us &amp; Photo Gallery' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Take a look at the place, the people and the food...
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_heading tag='h2' padding='20' heading='A few words <strong>about us</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+Let us introduce ourselves
+[/av_heading]
+
+[av_textblock]
+Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. <strong>Ut varius tincidunt</strong> libero. Phasellus dolor. Maecenas vestibulum mollis
+
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_heading tag='h2' padding='20' heading='A place to wine, a place <strong>to dine</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+How it all came to be...
+[/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+<blockquote>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</blockquote>
+Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+[/av_textblock]
+
+[/av_one_half]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_fifth first]
+
+[av_animated_numbers number='17' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Years of experience
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='34' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Team Members
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='12500' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Customers served
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='75' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Dishes
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='200+' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Wines
+[/av_animated_numbers]
+
+[/av_one_fifth]
+[/av_section]
+
 [av_masonry_gallery ids='346,351,345,347,352,350,349,353,354,348' items='24' paginate='load_more' size='fixed masonry' gap='no' overlay_fx='' caption_elements='title excerpt' caption_display='on-hover' container_links='active' id='']]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
@@ -2537,76 +2537,76 @@ Wines
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='top left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='About us & Photo Gallery' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Take a look at the place, the people and the food...
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_heading tag='h2' padding='20' heading='A few words <strong>about us</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-Let us introduce ourselves
-[/av_heading]
-
-[av_textblock]
-Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. <strong>Ut varius tincidunt</strong> libero. Phasellus dolor. Maecenas vestibulum mollis
-
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-[/av_textblock]
-
-[/av_one_half][av_one_half]
-
-[av_heading tag='h2' padding='20' heading='A place to wine, a place <strong>to dine</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
-How it all came to be...
-[/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
-<blockquote>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</blockquote>
-Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-[/av_textblock]
-
-[/av_one_half]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_fifth first]
-
-[av_animated_numbers number='17' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Years of experience
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='34' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Team Members
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='12500' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Customers served
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='75' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Dishes
-[/av_animated_numbers]
-
-[/av_one_fifth][av_one_fifth]
-
-[av_animated_numbers number='200+' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-Wines
-[/av_animated_numbers]
-
-[/av_one_fifth]
-[/av_section]
-
-[av_masonry_gallery ids='346,351,345,347,352,350,349,353,354,348' items='24' paginate='load_more' size='fixed masonry' gap='no' overlay_fx='' caption_elements='title excerpt' caption_display='on-hover' container_links='active' id='']
-
+			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/coffee.jpg' attachment='346' attachment_size='full' attach='parallax' position='top left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='About us & Photo Gallery' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Take a look at the place, the people and the food...
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_heading tag='h2' padding='20' heading='A few words <strong>about us</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+Let us introduce ourselves
+[/av_heading]
+
+[av_textblock]
+Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc. Vestibulia Curae; Fusce id purus. <strong>Ut varius tincidunt</strong> libero. Phasellus dolor. Maecenas vestibulum mollis
+
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+[/av_textblock]
+
+[/av_one_half][av_one_half]
+
+[av_heading tag='h2' padding='20' heading='A place to wine, a place <strong>to dine</strong>' color='' style='blockquote modern-quote' custom_font='#ffffff' size='' subheading_active='subheading_below' subheading_size='15' custom_class='']
+How it all came to be...
+[/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis.
+<blockquote>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</blockquote>
+Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+[/av_textblock]
+
+[/av_one_half]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_fifth first]
+
+[av_animated_numbers number='17' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Years of experience
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='34' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Team Members
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='12500' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Customers served
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='75' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Dishes
+[/av_animated_numbers]
+
+[/av_one_fifth][av_one_fifth]
+
+[av_animated_numbers number='200+' icon_select='no' icon='ue80b' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+Wines
+[/av_animated_numbers]
+
+[/av_one_fifth]
+[/av_section]
+
+[av_masonry_gallery ids='346,351,345,347,352,350,349,353,354,348' items='24' paginate='load_more' size='fixed masonry' gap='no' overlay_fx='' caption_elements='title excerpt' caption_display='on-hover' container_links='active' id='']
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3120,32 +3120,32 @@ Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vit
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/restaurant/?page_id=129</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/cheese.jpg' attachment='344' attachment_size='full' attach='parallax' position='center left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Eat at <strong>Home</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Delivery avialable Mon – Fri, 10am – 16pm
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Order with Woocommerce' link='' linktarget='' linkelement='']
-You can power your own online ordering system with the free <strong>Woocommerce Plugin</strong>. You will receive an E-Mail for each order and can change the payment settings to accept anything from credit card, to paypal to bank deposit. The number of products you can add <strong>have no limit</strong>. Even variations are possible
-[/av_icon_box]
-
-[/av_one_half][av_one_half]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Additional Information' link='' linktarget='' linkelement='']
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, <strong>pellentesque</strong> eu, pretium quis, sem.
-[/av_icon_box]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='<strong>Click</strong> to add to cart' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_productlist columns='2' items='10' offset='0' sort='0' paginate='yes' link_behavior='add_cart' show_images='yes']
-
-[av_heading tag='h2' padding='25' heading='<strong>Are you</strong> done?' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_button label='Show Cart &amp; Checkout' link='page,323' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello']
+		<content:encoded><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/cheese.jpg' attachment='344' attachment_size='full' attach='parallax' position='center left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Eat at <strong>Home</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Delivery avialable Mon – Fri, 10am – 16pm
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Order with Woocommerce' link='' linktarget='' linkelement='']
+You can power your own online ordering system with the free <strong>Woocommerce Plugin</strong>. You will receive an E-Mail for each order and can change the payment settings to accept anything from credit card, to paypal to bank deposit. The number of products you can add <strong>have no limit</strong>. Even variations are possible
+[/av_icon_box]
+
+[/av_one_half][av_one_half]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Additional Information' link='' linktarget='' linkelement='']
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, <strong>pellentesque</strong> eu, pretium quis, sem.
+[/av_icon_box]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='<strong>Click</strong> to add to cart' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_productlist columns='2' items='10' offset='0' sort='0' paginate='yes' link_behavior='add_cart' show_images='yes']
+
+[av_heading tag='h2' padding='25' heading='<strong>Are you</strong> done?' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_button label='Show Cart &amp; Checkout' link='page,323' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello']
 [/av_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>129</wp:post_id>
@@ -3174,34 +3174,34 @@ Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenea
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/cheese.jpg' attachment='344' attachment_size='full' attach='parallax' position='center left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
-[av_heading heading='Eat at <strong>Home</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
-Delivery avialable Mon – Fri, 10am – 16pm
-[/av_heading]
-[/av_section]
-
-[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Order with Woocommerce' link='' linktarget='' linkelement='']
-You can power your own online ordering system with the free <strong>Woocommerce Plugin</strong>. You will receive an E-Mail for each order and can change the payment settings to accept anything from credit card, to paypal to bank deposit. The number of products you can add <strong>have no limit</strong>. Even variations are possible
-[/av_icon_box]
-
-[/av_one_half][av_one_half]
-
-[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Additional Information' link='' linktarget='' linkelement='']
-Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, <strong>pellentesque</strong> eu, pretium quis, sem.
-[/av_icon_box]
-
-[/av_one_half][av_heading tag='h2' padding='25' heading='<strong>Click</strong> to add to cart' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_productlist columns='2' items='10' offset='0' sort='0' paginate='yes' link_behavior='add_cart' show_images='yes']
-
-[av_heading tag='h2' padding='25' heading='<strong>Are you</strong> done?' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_button label='Show Cart & Checkout' link='page,323' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello']
-[/av_section]
-
+			<wp:meta_value><![CDATA[[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/cheese.jpg' attachment='344' attachment_size='full' attach='parallax' position='center left' repeat='stretch' video='' video_ratio='16:9' min_height='' min_height_px='600' padding='default' shadow='no-shadow' id='']
+[av_heading heading='Eat at <strong>Home</strong>' tag='h1' color='custom-color-heading' custom_font='#ffffff' style='blockquote modern-quote' size='60' subheading_active='subheading_below' subheading_size='18' padding='0']
+Delivery avialable Mon – Fri, 10am – 16pm
+[/av_heading]
+[/av_section]
+
+[av_section color='main_color' custom_bg='' src='http://www.kriesi.at/themes/enfold-restaurant/files/2014/07/fruit_bg.jpg' attachment='356' attachment_size='full' attach='scroll' position='bottom right' repeat='no-repeat' video='' video_ratio='16:9' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Order with Woocommerce' link='' linktarget='' linkelement='']
+You can power your own online ordering system with the free <strong>Woocommerce Plugin</strong>. You will receive an E-Mail for each order and can change the payment settings to accept anything from credit card, to paypal to bank deposit. The number of products you can add <strong>have no limit</strong>. Even variations are possible
+[/av_icon_box]
+
+[/av_one_half][av_one_half]
+
+[av_icon_box icon='ue808' font='entypo-fontello' position='left' title='Additional Information' link='' linktarget='' linkelement='']
+Lorem ipsum dolor sit amet, <strong>consectetuer</strong> adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, <strong>pellentesque</strong> eu, pretium quis, sem.
+[/av_icon_box]
+
+[/av_one_half][av_heading tag='h2' padding='25' heading='<strong>Click</strong> to add to cart' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_productlist columns='2' items='10' offset='0' sort='0' paginate='yes' link_behavior='add_cart' show_images='yes']
+
+[av_heading tag='h2' padding='25' heading='<strong>Are you</strong> done?' color='' style='blockquote modern-quote modern-centered' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_button label='Show Cart & Checkout' link='page,323' link_target='' color='theme-color' custom_bg='#444444' custom_font='#ffffff' size='large' position='center' icon_select='no' icon='ue800' font='entypo-fontello']
+[/av_section]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>

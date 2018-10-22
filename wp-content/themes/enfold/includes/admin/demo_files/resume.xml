@@ -221,208 +221,208 @@
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://test.kriesi.at/enfold-cv/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_layout_row border='' min_height='0' color='main_color' mobile='av-fixed-cells' id='']
-[av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#a0cdd2' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
-
-[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#88aeb3' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
-
-[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#697e81' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
-
-[/av_cell_one_third]
-[/av_layout_row]
-
-[av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-
-[av_one_fifth first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_image src='http://www.kriesi.at/themes/enfold-resume/files/2016/02/logo-profile-1.jpg' attachment='116' attachment_size='full' align='left' styling='circle' hover='' link='lightbox' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
-
-[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_heading tag='h3' padding='0' heading='James T. Enfold' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='subheading_below' subheading_size='18' custom_class='']
-iOS &amp; Android Developer
-[/av_heading]
-
-[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_textblock size='13' font_color='' color='']
-Email: <a href="mailto:me@at-enfold.com">me@jt-enfold.com</a>
-Phone: <a href="tel:(555) 4167890">(555) 4167890</a>
-Web: <a href="http://www.kriesi.at">www.kriesi.at</a>
-[/av_textblock]
-
-[/av_one_fifth][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Introduction' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
-
-Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-[/av_textblock]
-
-[av_image src='http://test.kriesi.at/enfold-cv/wp-content/uploads/sites/15/2016/02/signature-1.png' attachment='77' attachment_size='full' align='left' styling='no-styling' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Professional Profile' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
-[/av_textblock]
-
-[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-[/av_textblock]
-
-[/av_one_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_heading tag='h1' padding='0' heading='Recent Work' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_masonry_gallery ids='89,90,91,92' items='8' columns='2' paginate='none' size='fixed' gap='large' overlay_fx='active' caption_elements='none' caption_display='always' container_links='active' id='']
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Recent Jobs' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_heading tag='h1' padding='0' heading='Senior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2015 - now
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
-<ul>
-	<li>Integer tincidunt. Cras dapibus.</li>
-	<li>Vivamus elementum semper nisi.</li>
-	<li>Aenean vulputate eleifend tellus.</li>
-</ul>
-[/av_textblock]
-
-[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Junior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2012 - 2015
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
-<ul>
-	<li>Nullaollis pretium.</li>
-	<li>Vivamus elementum semper nisi.</li>
-</ul>
-[/av_textblock]
-
-[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading=' iOS Trainee' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2008 - 2012
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
-<ul>
-	<li>Integer tincidunt. Cras dapibus.</li>
-	<li>Vivamus elementum semper nisi.</li>
-	<li>Aenean vulputate eleifend tellus.</li>
-</ul>
-[/av_textblock]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Skills' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, <strong>nascetur</strong> ridiculus mus.
-[/av_textblock]
-
-[av_progress bar_styling='av-striped-bar' bar_animation='av-animated-bar']
-[av_progress_bar title='iOS Development' progress='90' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
-[av_progress_bar title='Android Development' progress='80' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[av_progress_bar title='HTML &amp; CSS' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[av_progress_bar title='Javascript' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[av_progress_bar title='PHP' progress='60' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[/av_progress]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Education' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_heading tag='h1' padding='0' heading='Some Ivy League College' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2004 - 2008
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
-[/av_textblock]
-
-[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Some funky Highschool in Jersey' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2000 - 2004
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
-[/av_textblock]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Social Media' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_font_icon icon='ue8f3' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
-
-[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_font_icon icon='ue8f1' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
-
-[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_font_icon icon='ue8fc' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
-
-[/av_one_fifth][/av_section][av_google_map height='400px' zoom='16' saturation='-50' hue='#a0cdd2' zoom_control='aviaTBzoom_control']
-[av_gmap_location address='5th Avenue' city='' country='New York' long='-73.96537339999998' lat='40.7747314' marker='112' imagesize='40' tooltip_display=''][/av_gmap_location]
+		<content:encoded><![CDATA[[av_layout_row border='' min_height='0' color='main_color' mobile='av-fixed-cells' id='']
+[av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#a0cdd2' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
+
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#88aeb3' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
+
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#697e81' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
+
+[/av_cell_one_third]
+[/av_layout_row]
+
+[av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
+[av_one_fifth first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_image src='http://www.kriesi.at/themes/enfold-resume/files/2016/02/logo-profile-1.jpg' attachment='116' attachment_size='full' align='left' styling='circle' hover='' link='lightbox' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
+
+[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_heading tag='h3' padding='0' heading='James T. Enfold' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='subheading_below' subheading_size='18' custom_class='']
+iOS &amp; Android Developer
+[/av_heading]
+
+[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_textblock size='13' font_color='' color='']
+Email: <a href="mailto:me@at-enfold.com">me@jt-enfold.com</a>
+Phone: <a href="tel:(555) 4167890">(555) 4167890</a>
+Web: <a href="http://www.kriesi.at">www.kriesi.at</a>
+[/av_textblock]
+
+[/av_one_fifth][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Introduction' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+
+Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+[/av_textblock]
+
+[av_image src='http://test.kriesi.at/enfold-cv/wp-content/uploads/sites/15/2016/02/signature-1.png' attachment='77' attachment_size='full' align='left' styling='no-styling' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Professional Profile' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+[/av_textblock]
+
+[/av_one_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_heading tag='h1' padding='0' heading='Recent Work' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_masonry_gallery ids='89,90,91,92' items='8' columns='2' paginate='none' size='fixed' gap='large' overlay_fx='active' caption_elements='none' caption_display='always' container_links='active' id='']
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Recent Jobs' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_heading tag='h1' padding='0' heading='Senior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2015 - now
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
+<ul>
+	<li>Integer tincidunt. Cras dapibus.</li>
+	<li>Vivamus elementum semper nisi.</li>
+	<li>Aenean vulputate eleifend tellus.</li>
+</ul>
+[/av_textblock]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Junior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2012 - 2015
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
+<ul>
+	<li>Nullaollis pretium.</li>
+	<li>Vivamus elementum semper nisi.</li>
+</ul>
+[/av_textblock]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading=' iOS Trainee' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2008 - 2012
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
+<ul>
+	<li>Integer tincidunt. Cras dapibus.</li>
+	<li>Vivamus elementum semper nisi.</li>
+	<li>Aenean vulputate eleifend tellus.</li>
+</ul>
+[/av_textblock]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Skills' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, <strong>nascetur</strong> ridiculus mus.
+[/av_textblock]
+
+[av_progress bar_styling='av-striped-bar' bar_animation='av-animated-bar']
+[av_progress_bar title='iOS Development' progress='90' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
+[av_progress_bar title='Android Development' progress='80' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[av_progress_bar title='HTML &amp; CSS' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[av_progress_bar title='Javascript' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[av_progress_bar title='PHP' progress='60' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[/av_progress]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Education' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_heading tag='h1' padding='0' heading='Some Ivy League College' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2004 - 2008
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
+[/av_textblock]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Some funky Highschool in Jersey' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2000 - 2004
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
+[/av_textblock]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Social Media' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_font_icon icon='ue8f3' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
+
+[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_font_icon icon='ue8f1' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
+
+[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_font_icon icon='ue8fc' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
+
+[/av_one_fifth][/av_section][av_google_map height='400px' zoom='16' saturation='-50' hue='#a0cdd2' zoom_control='aviaTBzoom_control']
+[av_gmap_location address='5th Avenue' city='' country='New York' long='-73.96537339999998' lat='40.7747314' marker='112' imagesize='40' tooltip_display=''][/av_gmap_location]
 [/av_google_map]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>12</wp:post_id>
@@ -447,210 +447,210 @@ Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_aviaLayoutBuilderCleanData]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[av_layout_row border='' min_height='0' color='main_color' mobile='av-fixed-cells' id='']
-[av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#a0cdd2' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
-
-[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#88aeb3' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
-
-[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#697e81' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
-
-[/av_cell_one_third]
-[/av_layout_row]
-
-[av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-
-[av_one_fifth first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_image src='http://www.kriesi.at/themes/enfold-resume/files/2016/02/logo-profile-1.jpg' attachment='116' attachment_size='full' align='left' styling='circle' hover='' link='lightbox' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
-
-[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_heading tag='h3' padding='0' heading='James T. Enfold' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='subheading_below' subheading_size='18' custom_class='']
-iOS & Android Developer
-[/av_heading]
-
-[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_textblock size='13' font_color='' color='']
-Email: <a href="mailto:me@at-enfold.com">me@jt-enfold.com</a>
-Phone: <a href="tel:(555) 4167890">(555) 4167890</a>
-Web: <a href="http://www.kriesi.at">www.kriesi.at</a>
-[/av_textblock]
-
-[/av_one_fifth][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Introduction' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
-
-Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-[/av_textblock]
-
-[av_image src='http://test.kriesi.at/enfold-cv/wp-content/uploads/sites/15/2016/02/signature-1.png' attachment='77' attachment_size='full' align='left' styling='no-styling' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Professional Profile' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
-[/av_textblock]
-
-[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-[/av_textblock]
-
-[/av_one_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_heading tag='h1' padding='0' heading='Recent Work' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_masonry_gallery ids='89,90,91,92' items='8' columns='2' paginate='none' size='fixed' gap='large' overlay_fx='active' caption_elements='none' caption_display='always' container_links='active' id='']
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Recent Jobs' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_heading tag='h1' padding='0' heading='Senior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2015 - now
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
-<ul>
-	<li>Integer tincidunt. Cras dapibus.</li>
-	<li>Vivamus elementum semper nisi.</li>
-	<li>Aenean vulputate eleifend tellus.</li>
-</ul>
-[/av_textblock]
-
-[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Junior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2012 - 2015
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
-<ul>
-	<li>Nullaollis pretium.</li>
-	<li>Vivamus elementum semper nisi.</li>
-</ul>
-[/av_textblock]
-
-[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading=' iOS Trainee' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2008 - 2012
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
-<ul>
-	<li>Integer tincidunt. Cras dapibus.</li>
-	<li>Vivamus elementum semper nisi.</li>
-	<li>Aenean vulputate eleifend tellus.</li>
-</ul>
-[/av_textblock]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Skills' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_textblock size='' font_color='' color='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, <strong>nascetur</strong> ridiculus mus.
-[/av_textblock]
-
-[av_progress bar_styling='av-striped-bar' bar_animation='av-animated-bar']
-[av_progress_bar title='iOS Development' progress='90' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
-[av_progress_bar title='Android Development' progress='80' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[av_progress_bar title='HTML & CSS' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[av_progress_bar title='Javascript' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[av_progress_bar title='PHP' progress='60' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
-[/av_progress]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Education' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
-
-[av_heading tag='h1' padding='0' heading='Some Ivy League College' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2004 - 2008
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
-[/av_textblock]
-
-[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Some funky Highschool in Jersey' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
-2000 - 2004
-[/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
-[/av_textblock]
-
-[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_heading tag='h1' padding='0' heading='Social Media' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[/av_one_third][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_font_icon icon='ue8f3' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
-
-[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_font_icon icon='ue8f1' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
-
-[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_font_icon icon='ue8fc' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
-
-[/av_one_fifth][/av_section][av_google_map height='400px' zoom='16' saturation='-50' hue='#a0cdd2' zoom_control='aviaTBzoom_control']
-[av_gmap_location address='5th Avenue' city='' country='New York' long='-73.96537339999998' lat='40.7747314' marker='112' imagesize='40' tooltip_display=''][/av_gmap_location]
-[/av_google_map]
-
+			<wp:meta_value><![CDATA[[av_layout_row border='' min_height='0' color='main_color' mobile='av-fixed-cells' id='']
+[av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#a0cdd2' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
+
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#88aeb3' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
+
+[/av_cell_one_third][av_cell_one_third vertical_align='top' padding='3px,0px,0px,0px' background_color='#697e81' src='' attachment='' attachment_size='' background_attachment='scroll' background_position='top left' background_repeat='no-repeat']
+
+[/av_cell_one_third]
+[/av_layout_row]
+
+[av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
+[av_one_fifth first min_height='av-equal-height-column' vertical_alignment='av-align-middle' space='no_margin' custom_margin='aviaTBcustom_margin' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_image src='http://www.kriesi.at/themes/enfold-resume/files/2016/02/logo-profile-1.jpg' attachment='116' attachment_size='full' align='left' styling='circle' hover='' link='lightbox' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
+
+[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px,20px,0px,0px' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_heading tag='h3' padding='0' heading='James T. Enfold' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='subheading_below' subheading_size='18' custom_class='']
+iOS & Android Developer
+[/av_heading]
+
+[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_textblock size='13' font_color='' color='']
+Email: <a href="mailto:me@at-enfold.com">me@jt-enfold.com</a>
+Phone: <a href="tel:(555) 4167890">(555) 4167890</a>
+Web: <a href="http://www.kriesi.at">www.kriesi.at</a>
+[/av_textblock]
+
+[/av_one_fifth][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Introduction' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+
+Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+[/av_textblock]
+
+[av_image src='http://test.kriesi.at/enfold-cv/wp-content/uploads/sites/15/2016/02/signature-1.png' attachment='77' attachment_size='full' align='left' styling='no-styling' hover='' link='' target='' caption='' font_size='' appearance='' overlay_opacity='0.4' overlay_color='#000000' overlay_text_color='#ffffff' animation='no-animation'][/av_image]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Professional Profile' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+[/av_textblock]
+
+[/av_one_third][av_one_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, <strong>enim</strong>. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+[/av_textblock]
+
+[/av_one_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_heading tag='h1' padding='0' heading='Recent Work' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_masonry_gallery ids='89,90,91,92' items='8' columns='2' paginate='none' size='fixed' gap='large' overlay_fx='active' caption_elements='none' caption_display='always' container_links='active' id='']
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Recent Jobs' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_heading tag='h1' padding='0' heading='Senior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2015 - now
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
+<ul>
+	<li>Integer tincidunt. Cras dapibus.</li>
+	<li>Vivamus elementum semper nisi.</li>
+	<li>Aenean vulputate eleifend tellus.</li>
+</ul>
+[/av_textblock]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Junior iOS Developer' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2012 - 2015
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
+<ul>
+	<li>Nullaollis pretium.</li>
+	<li>Vivamus elementum semper nisi.</li>
+</ul>
+[/av_textblock]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading=' iOS Trainee' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2008 - 2012
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
+<ul>
+	<li>Integer tincidunt. Cras dapibus.</li>
+	<li>Vivamus elementum semper nisi.</li>
+	<li>Aenean vulputate eleifend tellus.</li>
+</ul>
+[/av_textblock]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-32' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Skills' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_textblock size='' font_color='' color='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, <strong>nascetur</strong> ridiculus mus.
+[/av_textblock]
+
+[av_progress bar_styling='av-striped-bar' bar_animation='av-animated-bar']
+[av_progress_bar title='iOS Development' progress='90' color='theme-color' icon_select='no' icon='43' font='entypo-fontello']
+[av_progress_bar title='Android Development' progress='80' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[av_progress_bar title='HTML & CSS' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[av_progress_bar title='Javascript' progress='70' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[av_progress_bar title='PHP' progress='60' color='theme-color' icon_select='no' icon='ue800' font='entypo-fontello']
+[/av_progress]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Education' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_two_third min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='fade-in']
+
+[av_heading tag='h1' padding='0' heading='Some Ivy League College' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2004 - 2008
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullaollis pretium.
+[/av_textblock]
+
+[av_hr class='custom' height='50' shadow='no-shadow' position='left' custom_border='av-border-fat' custom_width='50px' custom_border_color='' custom_margin_top='10px' custom_margin_bottom='30px' icon_select='no' custom_icon_color='' icon='ue8bf' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Some funky Highschool in Jersey' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='subheading_above' subheading_size='15' custom_class='']
+2000 - 2004
+[/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Aenean vulputate eleifend tellus. Donec pede justo, <strong>fringilla</strong> vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, ju.
+[/av_textblock]
+
+[/av_two_third][av_hr class='big' height='50' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_one_third first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_hr class='invisible' height='-28' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_heading tag='h1' padding='0' heading='Social Media' color='' style='blockquote modern-quote' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[/av_one_third][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_font_icon icon='ue8f3' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
+
+[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_font_icon icon='ue8f1' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
+
+[/av_one_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_font_icon icon='ue8fc' font='entypo-fontello' style='border' caption='' link='manually,#' linktarget='' size='40px' position='center' color=''][/av_font_icon]
+
+[/av_one_fifth][/av_section][av_google_map height='400px' zoom='16' saturation='-50' hue='#a0cdd2' zoom_control='aviaTBzoom_control']
+[av_gmap_location address='5th Avenue' city='' country='New York' long='-73.96537339999998' lat='40.7747314' marker='112' imagesize='40' tooltip_display=''][/av_gmap_location]
+[/av_google_map]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>

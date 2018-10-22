@@ -38,7 +38,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 			?>
 			<?php if ( ! is_page_template( 'blank.php' ) ) : ?>
 				<?php $footer_parallax_class = ( 'footer_parallax_effect' == Avada()->settings->get( 'footer_special_effects' ) ) ? ' fusion-footer-parallax' : ''; ?>
-<?php 
+<?php
 echo do_shortcode('[sc name="footer1sh"]');
 ?>
 				<div class="fusion-footer<?php echo esc_attr( $footer_parallax_class ); ?>">
@@ -53,8 +53,8 @@ echo do_shortcode('[sc name="footer1sh"]');
 						<?php $footer_widget_area_center_class = ( Avada()->settings->get( 'footer_widgets_center_content' ) ) ? ' fusion-footer-widget-area-center' : ''; ?>
 
 						<footer role="contentinfo" class="fusion-footer-widget-area fusion-widget-area<?php echo esc_attr( $footer_widget_area_center_class ); ?>">
-							<div class="fusion-row">
-								<div class="fusion-columns fusion-columns-<?php echo esc_attr( Avada()->settings->get( 'footer_widgets_columns' ) ); ?> fusion-widget-area">
+							<div class="fusion-row"> 
+								<div class="footer-class fusion-columns fusion-columns-<?php echo esc_attr( Avada()->settings->get( 'footer_widgets_columns' ) ); ?> fusion-widget-area">
 									<?php
 									/**
 									 * Check the column width based on the amount of columns chosen in Theme Options.

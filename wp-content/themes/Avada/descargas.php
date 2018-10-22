@@ -29,8 +29,16 @@ jQuery("#cont").load( "/demo/wp-content/themes/Avada/procesar_file_id.php" , {fi
 }
 </script>
 <?php
-//echo "algo";
+
 $tipos = array(
+  '0' => 'JPG',
+  '1' => '1X1',
+  '2' => 'PDF',
+  '3' => 'L. Precios',
+  '4' => 'N. Pedidos',
+  '5' => 'Video');
+
+$files_type = array(
   '0' => 'JPG',
   '1' => '1X1',
   '2' => 'pdf',
@@ -62,10 +70,11 @@ foreach($resultado as $index => $row){
     if($row->file_type < 3) {
       $src = home_url('/wp-content/uploads/2018/04/'. $producto .'_pdf_2017.svg');
     } else {
-      $src = home_url('/wp-content/uploads/2018/04/'. $producto .'_'. $tipos[$row->file_type] .'.svg');
+      $src = home_url('/wp-content/uploads/2018/04/'. $producto .'_'. $files_type[$row->file_type] .'.svg');
     }
-    $link ="<span class='fusion-imageframe imageframe-none imageframe-1 hover-type-none icon folder'><a class='fusion-no-lightbox'target='_blank' aria-label='' rel='noopener noreferrer' href='".$file_dir . $filename ."'><img src= $src width='' height='' alt='' class='img-responsive wp-image-11977 cont' onclick='insertar_con_js($row->file_id, $user_id);' ></a>";
+    $link ="<span class='fusion-imageframe imageframe-none imageframe-1 hover-type-none icon folder'><a class='fusion-no-lightbox'target='_blank' aria-label='' rel='noopener noreferrer' href='".$file_dir . $filename ."'><img src= $src width='' height='' alt='' class='img-responsive wp-image-11977 cont' onclick='insertar_con_js($row->file_id, $user_id);' ></a></span>";
     $insert = array("producto" => $producto, "link" => $link, "tipo" => $row->file_type);
+    
 
    array_push($files_array, $insert);
    array_push($productos, $producto);
@@ -88,19 +97,25 @@ $cargados = array();
   for ($i=0; $i <= sizeof($productos); $i++) {
   if (!(in_array($productos[$i], $cargados))){
 
-  echo '<h2 style="text-align: left" data-fontsize="18" data-lineheight="27"><strong><span style="color: '.$colores[$productos[$i]].'">'. $reemprod[$productos[$i]] . '</span></strong></h2>';
+  echo '<h2 style="text-align:left;padding-left:15px;padding-top:10px;" data-fontsize="18" data-lineheight="27"><strong><span style="color: '.$colores[$productos[$i]].'">'. $reemprod[$productos[$i]] . '</span></strong></h2>';
   echo "<div class='fusion-column-content-centered'><div class='fusion-column-content'>";
   $actual = $productos[$i];
-    for ($j=1; $j <= sizeof($files_array); $j++) {
+    for ($j=0; $j <= sizeof($files_array); $j++) {
       if ($files_array[$j-1]["producto"] == $actual) {
+        echo "<div class='fusion-layout-column fusion_builder_column fusion_builder_column_1_6  fusion-one-sixth 1_6' style = 'margin-top:0px;margin-bottom:20px;width:16%;width:calc(16.66% - ( ( 4% + 4% + 4% + 4% + 4% ) * 0.1666 ) );margin-right: 3%;'>";
+        echo "<div class='fusion-column-wrapper' style='background-position:left top;background-repeat:no-repeat;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;'>";
+        echo "<div class='fusion-column-content-centered'><div class='fusion-column-content'>";
         echo $files_array[$j-1]["link"];
+        echo '<p style="text-align: left; padding-left: 25%;">';
+        echo $tipos[$files_array[$j-1]["tipo"]];
+        echo '</p>';
+        echo "</div></div></div></div>";
             }
     }
     echo "</div></div>";
     array_push($cargados, $productos[$i]);
     }
   }
-    echo "<div id='cont'></div>";
-    echo "<div style='hidden=true;height=0px;' id='cont'></div>";
-
+    echo "<div style='display:none;' id='cont'></div>";
+    
 ?>

@@ -10751,46 +10751,46 @@ Aenean commodo ligula eget dolor. <strong>Aenean</strong> massa. Cum sociis nato
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://test.kriesi.at/new-spa/?post_type=product&#038;p=441</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_slideshow_full size='no scaling' stretch='' animation='fade' autoplay='false' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll']
-[av_slide_full slide_type='image' id='332' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='Book your class now' custom_title_size='30' custom_content_size='' caption_pos='caption_right' link_apply='' link='lightbox' link_target='' button_label='Register' button_color='light' link1='manually,#' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-[/av_slide_full]
-[/av_slideshow_full]
-
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-
-[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_heading tag='h1' padding='20' heading='Bookable Products -
-a woocommerce bookings feature' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-[/av_textblock]
-
-[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_product_button]
-
-[/av_one_half][av_hr class='invisible' height='70' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_masonry_gallery ids='315,316,375,319,320,317' items='-1' columns='3' paginate='none' size='fixed' gap='large' overlay_fx='active' container_links='active' id='' caption_elements='none' caption_styling='' caption_display='always']
-
-[/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='#e8b8b8' src='http://test.kriesi.at/new-spa/wp-content/uploads/sites/11/2015/07/spa-gallery-5-2-300x200.jpg' attachment='225' attachment_size='medium' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-[av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='bottom-to-top']
-
-[av_heading tag='h1' padding='20' heading='Stay up to date with our Newsletter' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='25' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_contact email='' title='' button='Subscribe' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='' hide_labels='aviaTBhide_labels' form_align='centered' color='av-custom-form-color av-light-form']
-[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_third'][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_third'][/av_contact_field]
-[/av_contact]
-
-[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[/av_one_fifth]
+		<content:encoded><![CDATA[[av_slideshow_full size='no scaling' stretch='' animation='fade' autoplay='false' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll']
+[av_slide_full slide_type='image' id='332' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='Book your class now' custom_title_size='30' custom_content_size='' caption_pos='caption_right' link_apply='' link='lightbox' link_target='' button_label='Register' button_color='light' link1='manually,#' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+[/av_slide_full]
+[/av_slideshow_full]
+
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
+[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_heading tag='h1' padding='20' heading='Bookable Products -
+a woocommerce bookings feature' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+[/av_textblock]
+
+[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_product_button]
+
+[/av_one_half][av_hr class='invisible' height='70' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_masonry_gallery ids='315,316,375,319,320,317' items='-1' columns='3' paginate='none' size='fixed' gap='large' overlay_fx='active' container_links='active' id='' caption_elements='none' caption_styling='' caption_display='always']
+
+[/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='#e8b8b8' src='http://test.kriesi.at/new-spa/wp-content/uploads/sites/11/2015/07/spa-gallery-5-2-300x200.jpg' attachment='225' attachment_size='medium' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+[av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='bottom-to-top']
+
+[av_heading tag='h1' padding='20' heading='Stay up to date with our Newsletter' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='25' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_contact email='' title='' button='Subscribe' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='' hide_labels='aviaTBhide_labels' form_align='centered' color='av-custom-form-color av-light-form']
+[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_third'][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_third'][/av_contact_field]
+[/av_contact]
+
+[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[/av_one_fifth]
 [/av_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.]]></excerpt:encoded>
 		<wp:post_id>441</wp:post_id>
@@ -11060,47 +11060,47 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_aviaLayoutBuilderCleanData]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[av_slideshow_full size='no scaling' stretch='' animation='fade' autoplay='false' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll']
-[av_slide_full slide_type='image' id='332' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='Book your class now' custom_title_size='30' custom_content_size='' caption_pos='caption_right' link_apply='' link='lightbox' link_target='' button_label='Register' button_color='light' link1='manually,#' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-[/av_slide_full]
-[/av_slideshow_full]
-
-[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-
-[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_heading tag='h1' padding='20' heading='Bookable Products -<br/>a woocommerce bookings feature' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
-[/av_textblock]
-
-[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[av_product_button]
-
-[/av_one_half][av_hr class='invisible' height='70' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
-
-[av_masonry_gallery ids='315,316,375,319,320,317' items='-1' columns='3' paginate='none' size='fixed' gap='large' overlay_fx='active' container_links='active' id='' caption_elements='none' caption_styling='' caption_display='always']
-
-[/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='#e8b8b8' src='http://test.kriesi.at/new-spa/wp-content/uploads/sites/11/2015/07/spa-gallery-5-2-300x200.jpg' attachment='225' attachment_size='medium' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
-[av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='bottom-to-top']
-
-[av_heading tag='h1' padding='20' heading='Stay up to date with our Newsletter' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='25' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_contact email='' title='' button='Subscribe' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='' hide_labels='aviaTBhide_labels' form_align='centered' color='av-custom-form-color av-light-form']
-[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_third'][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_third'][/av_contact_field]
-[/av_contact]
-
-[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
-
-[/av_one_fifth]
-[/av_section]
-
+			<wp:meta_value><![CDATA[[av_slideshow_full size='no scaling' stretch='' animation='fade' autoplay='false' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll']
+[av_slide_full slide_type='image' id='332' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='Book your class now' custom_title_size='30' custom_content_size='' caption_pos='caption_right' link_apply='' link='lightbox' link_target='' button_label='Register' button_color='light' link1='manually,#' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content='' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+[/av_slide_full]
+[/av_slideshow_full]
+
+[av_section min_height='' min_height_px='500px' padding='huge' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='' src='' attachment='' attachment_size='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+
+[av_one_half first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_heading tag='h1' padding='20' heading='Bookable Products -<br/>a woocommerce bookings feature' color='' style='blockquote modern-quote' custom_font='' size='40' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.
+[/av_textblock]
+
+[/av_one_half][av_one_half min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[av_product_button]
+
+[/av_one_half][av_hr class='invisible' height='70' shadow='no-shadow' position='center' custom_border='av-border-thin' custom_width='50px' custom_border_color='' custom_margin_top='30px' custom_margin_bottom='30px' icon_select='yes' custom_icon_color='' icon='ue808' font='entypo-fontello']
+
+[av_masonry_gallery ids='315,316,375,319,320,317' items='-1' columns='3' paginate='none' size='fixed' gap='large' overlay_fx='active' container_links='active' id='' caption_elements='none' caption_styling='' caption_display='always']
+
+[/av_section][av_section min_height='' min_height_px='500px' padding='large' shadow='no-border-styling' bottom_border='no-border-styling' id='' color='main_color' custom_bg='#e8b8b8' src='http://test.kriesi.at/new-spa/wp-content/uploads/sites/11/2015/07/spa-gallery-5-2-300x200.jpg' attachment='225' attachment_size='medium' attach='scroll' position='center left' repeat='no-repeat' video='' video_ratio='16:9' overlay_opacity='0.5' overlay_color='' overlay_pattern='' overlay_custom_pattern='']
+[av_one_fifth first min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[/av_one_fifth][av_three_fifth min_height='' vertical_alignment='av-align-top' space='' margin='0px' margin_sync='true' padding='0px' padding_sync='true' border='' border_color='' radius='0px' radius_sync='true' background_color='' src='' attachment='' attachment_size='' background_position='top left' background_repeat='no-repeat' animation='bottom-to-top']
+
+[av_heading tag='h1' padding='20' heading='Stay up to date with our Newsletter' color='custom-color-heading' style='blockquote modern-quote modern-centered' custom_font='#ffffff' size='25' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_contact email='' title='' button='Subscribe' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='' hide_labels='aviaTBhide_labels' form_align='centered' color='av-custom-form-color av-light-form']
+[av_contact_field label='Name' type='text' options='' check='is_empty' width='element_third'][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' options='' check='is_email' width='element_third'][/av_contact_field]
+[/av_contact]
+
+[/av_three_fifth][av_one_fifth min_height='' vertical_alignment='' space='' custom_margin='' margin='0px' padding='0px' border='' border_color='' radius='0px' background_color='' src='' background_position='top left' background_repeat='no-repeat' animation='']
+
+[/av_one_fifth]
+[/av_section]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>

@@ -37,7 +37,14 @@ function createUploadForn(){
   <div id="actionResult">
     <p><?php echo $result = $_GET['assign_status'] ? 'La carga de archivos se completó exitosamente':'Se produjo un error inesperado durante la carga de archivos'?></p>
   </div>
-<?php } ?>
+<?php }
+$nombres_productos = array(
+  'belen' => 'Belen',
+  'bakhou' => 'Bakhou',
+  'lara_teens' => 'Lara Teens',
+  'sigry' => 'Sigry',
+);
+?>
 
 
     <div id="uploadWrapper">
@@ -52,7 +59,7 @@ function createUploadForn(){
               <select name="product" required>
                   <option value="" disabled selected>Producto</option>
                 <?php foreach ($products as $product => $id) { ?>
-                  <option value="<?php echo $id?>"><?php echo $product ?></option>
+                  <option value="<?php echo $id?>"><?php echo $nombres_productos[$product] ?></option>
                 <?php } ?>
               </select>
             </div>
@@ -87,7 +94,7 @@ function createUploadForn(){
         <h3>Archivos Subidos</h3>
         <div id="fileTree" class="uc-upload-block">
           <button id="ucGoBack">Volver</button>
-          <div class="list">
+          <div class="uc-list">
             <?php cu_show_files_tree() ?>
           </div>
         </div>

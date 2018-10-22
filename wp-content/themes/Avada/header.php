@@ -10,6 +10,22 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit( 'Direct script access denied.' );
 }
+
+if( get_role('RRHH') ){
+      remove_role( 'RRHH' );
+}
+
+$result = add_role(
+    'RRHH',
+    __( 'RRHH' ),
+    array(
+        'read'         => true,  // true allows this capability
+        'edit_posts'   => false,
+        'delete_posts' => false, // Use false to explicitly deny
+				'RRHH' => true,
+    )
+);
+
 ?>
 <!DOCTYPE html>
 <?php global $woocommerce; ?>
@@ -51,7 +67,6 @@ if ( 'modern' === Avada()->settings->get( 'mobile_menu_design' ) ) {
 		$mobile_logo_pos = 'left';
 	}
 }
-
 ?>
 <body <?php body_class(); ?>>
 	<?php do_action( 'avada_before_body_content' );

@@ -860,33 +860,33 @@ As a new WordPress user, you should go to <a href="http://www.kriesi.at/themes/e
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/enfold-blog/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_slideshow_full size='featured' stretch='' animation='fade' autoplay='true' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll' custom_class='']
-[av_slide_full slide_type='image' id='70' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
-[av_slide_full slide_type='image' id='71' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
-[/av_slideshow_full]
-
-[av_heading tag='h1' padding='10' heading='Hi, I am Emily' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
-[/av_textblock]
-
-[av_section color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_animated_numbers number='312' icon_select='av-icon-after' icon='ue836' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-posts written
-[/av_animated_numbers]
-
-[/av_one_half][av_one_half]
-
-[av_animated_numbers number='25400' icon_select='av-icon-after' icon='ue806' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-visitors entertained
-[/av_animated_numbers]
-
-[/av_one_half]
+		<content:encoded><![CDATA[[av_slideshow_full size='featured' stretch='' animation='fade' autoplay='true' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll' custom_class='']
+[av_slide_full slide_type='image' id='70' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
+[av_slide_full slide_type='image' id='71' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
+[/av_slideshow_full]
+
+[av_heading tag='h1' padding='10' heading='Hi, I am Emily' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>
+Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
+[/av_textblock]
+
+[av_section color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_animated_numbers number='312' icon_select='av-icon-after' icon='ue836' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+posts written
+[/av_animated_numbers]
+
+[/av_one_half][av_one_half]
+
+[av_animated_numbers number='25400' icon_select='av-icon-after' icon='ue806' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+visitors entertained
+[/av_animated_numbers]
+
+[/av_one_half]
 [/av_section]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
@@ -911,35 +911,35 @@ visitors entertained
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_slideshow_full size='featured' stretch='' animation='fade' autoplay='true' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll' custom_class='']
-[av_slide_full slide_type='image' id='70' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
-[av_slide_full slide_type='image' id='71' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
-[/av_slideshow_full]
-
-[av_heading tag='h1' padding='10' heading='Hi, I am Emily' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock size='' font_color='' color='']
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
-[/av_textblock]
-
-[av_section color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
-[av_one_half first]
-
-[av_animated_numbers number='312' icon_select='av-icon-after' icon='ue836' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-posts written
-[/av_animated_numbers]
-
-[/av_one_half][av_one_half]
-
-[av_animated_numbers number='25400' icon_select='av-icon-after' icon='ue806' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
-visitors entertained
-[/av_animated_numbers]
-
-[/av_one_half]
-[/av_section]
-
+			<wp:meta_value><![CDATA[[av_slideshow_full size='featured' stretch='' animation='fade' autoplay='true' interval='5' control_layout='av-control-minimal' src='' attachment='' attachment_size='' position='top left' repeat='no-repeat' attach='scroll' custom_class='']
+[av_slide_full slide_type='image' id='70' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
+[av_slide_full slide_type='image' id='71' video='http://' mobile_image='' video_format='' video_ratio='16:9' title='' custom_title_size='' custom_content_size='' caption_pos='caption_bottom' link_apply='' link='lightbox' link_target='' button_label='Click me' button_color='light' link1='manually,http://' link_target1='' button_label2='Click me' button_color2='light' link2='manually,http://' link_target2='' font_color='' custom_title='' custom_content=''][/av_slide_full]
+[/av_slideshow_full]
+
+[av_heading tag='h1' padding='10' heading='Hi, I am Emily' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock size='' font_color='' color='']
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</blockquote>
+Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.
+[/av_textblock]
+
+[av_section color='main_color' custom_bg='' src='' attach='scroll' position='top left' repeat='no-repeat' video='' video_ratio='16:9' video_mobile_disabled='' min_height='' min_height_px='500px' padding='default' shadow='no-shadow' id='']
+[av_one_half first]
+
+[av_animated_numbers number='312' icon_select='av-icon-after' icon='ue836' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+posts written
+[/av_animated_numbers]
+
+[/av_one_half][av_one_half]
+
+[av_animated_numbers number='25400' icon_select='av-icon-after' icon='ue806' font='entypo-fontello' color='' custom_color='#444444' font_size='' font_size_description='' link='' linktarget='no']
+visitors entertained
+[/av_animated_numbers]
+
+[/av_one_half]
+[/av_section]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -982,21 +982,21 @@ visitors entertained
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/enfold-blog/?page_id=13</guid>
 		<description></description>
-		<content:encoded><![CDATA[[av_heading tag='h1' padding='10' heading='Get in touch' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
-Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
-[/av_textblock]
-
-[av_hr class='invisible' height='50' shadow='no-shadow' position='center']
-
-[av_contact email='mail@enfold-blog.com' title='Send me mail' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
-[av_contact_field label='Name' type='text' check='is_empty' options='' width=''][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' check='is_email' options='' width=''][/av_contact_field]
-[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
-[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
+		<content:encoded><![CDATA[[av_heading tag='h1' padding='10' heading='Get in touch' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
+Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+[/av_textblock]
+
+[av_hr class='invisible' height='50' shadow='no-shadow' position='center']
+
+[av_contact email='mail@enfold-blog.com' title='Send me mail' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
+[av_contact_field label='Name' type='text' check='is_empty' options='' width=''][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' check='is_email' options='' width=''][/av_contact_field]
+[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
+[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
 [/av_contact]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>17</wp:post_id>
@@ -1021,23 +1021,23 @@ Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, v
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_aviaLayoutBuilderCleanData</wp:meta_key>
-			<wp:meta_value><![CDATA[[av_heading tag='h1' padding='10' heading='Get in touch' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
-
-[av_textblock]
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-
-Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
-[/av_textblock]
-
-[av_hr class='invisible' height='50' shadow='no-shadow' position='center']
-
-[av_contact email='mail@enfold-blog.com' title='Send me mail' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
-[av_contact_field label='Name' type='text' check='is_empty' options='' width=''][/av_contact_field]
-[av_contact_field label='E-Mail' type='text' check='is_email' options='' width=''][/av_contact_field]
-[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
-[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
-[/av_contact]
-
+			<wp:meta_value><![CDATA[[av_heading tag='h1' padding='10' heading='Get in touch' color='' style='' custom_font='' size='' subheading_active='' subheading_size='15' custom_class=''][/av_heading]
+
+[av_textblock]
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
+Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
+[/av_textblock]
+
+[av_hr class='invisible' height='50' shadow='no-shadow' position='center']
+
+[av_contact email='mail@enfold-blog.com' title='Send me mail' button='Submit' on_send='' sent='Your message has been sent!' link='manually,http://' subject='' autorespond='' captcha='']
+[av_contact_field label='Name' type='text' check='is_empty' options='' width=''][/av_contact_field]
+[av_contact_field label='E-Mail' type='text' check='is_email' options='' width=''][/av_contact_field]
+[av_contact_field label='Subject' type='text' check='is_empty' options='' width=''][/av_contact_field]
+[av_contact_field label='Message' type='textarea' check='is_empty' options='' width=''][/av_contact_field]
+[/av_contact]
+
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -1135,16 +1135,16 @@ Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, v
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/enfold-blog/?p=55</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</blockquote>
-<!--more-->
-
-Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor.
-<ul>
-	<li>Donec posuere vulputate arcu.</li>
-	<li>Phasellus accumsan cursus velit.</li>
-	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
-	<li>Sed aliquam, nisi quis porttitor congue</li>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</blockquote>
+<!--more-->
+
+Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor.
+<ul>
+	<li>Donec posuere vulputate arcu.</li>
+	<li>Phasellus accumsan cursus velit.</li>
+	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
+	<li>Sed aliquam, nisi quis porttitor congue</li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>55</wp:post_id>
@@ -1202,16 +1202,16 @@ Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/enfold-blog/?p=1</guid>
 		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</blockquote>
-<!--more-->
-
-Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor.
-<ul>
-	<li>Donec posuere vulputate arcu.</li>
-	<li>Phasellus accumsan cursus velit.</li>
-	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
-	<li>Sed aliquam, nisi quis porttitor congue</li>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.</blockquote>
+<!--more-->
+
+Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor.
+<ul>
+	<li>Donec posuere vulputate arcu.</li>
+	<li>Phasellus accumsan cursus velit.</li>
+	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
+	<li>Sed aliquam, nisi quis porttitor congue</li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
@@ -1287,19 +1287,19 @@ Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/enfold-blog/?p=40</guid>
 		<description></description>
-		<content:encoded><![CDATA[[gallery link="file" columns="5" ids="72,71,70,69,68"]
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-<ul>
-	<li>Nulla consequat massa quis enim.</li>
-	<li>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</li>
-	<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</li>
-	<li>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</li>
-</ul>
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
-
-<!--more-->
-
+		<content:encoded><![CDATA[[gallery link="file" columns="5" ids="72,71,70,69,68"]
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+<ul>
+	<li>Nulla consequat massa quis enim.</li>
+	<li>Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</li>
+	<li>In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.</li>
+	<li>Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.</li>
+</ul>
+Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
+
+<!--more-->
+
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nlor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>40</wp:post_id>
@@ -1488,24 +1488,24 @@ Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam acc
 		<dc:creator><![CDATA[Kriesi]]></dc:creator>
 		<guid isPermaLink="false">http://192.168.1.104/enfold-blog/?p=51</guid>
 		<description></description>
-		<content:encoded><![CDATA[[audio mp3="http://www.archive.org/download/Macroform2011/Macroform-600LightYears.mp3" preload="auto"][/audio]
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer.</blockquote>
-<ul>
-	<li>Donec posuere vulputate arcu.</li>
-	<li>Phasellus accumsan cursus velit.</li>
-	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
-	<li>Sed aliquam, nisi quis porttitor congue</li>
-</ul>
-<!--more-->
-
-Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor.
-<ul>
-	<li>Donec posuere vulputate arcu.</li>
-	<li>Phasellus accumsan cursus velit.</li>
-	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
-	<li>Sed aliquam, nisi quis porttitor congue</li>
+		<content:encoded><![CDATA[[audio mp3="http://www.archive.org/download/Macroform2011/Macroform-600LightYears.mp3" preload="auto"][/audio]
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+<blockquote>Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer.</blockquote>
+<ul>
+	<li>Donec posuere vulputate arcu.</li>
+	<li>Phasellus accumsan cursus velit.</li>
+	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
+	<li>Sed aliquam, nisi quis porttitor congue</li>
+</ul>
+<!--more-->
+
+Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor.
+<ul>
+	<li>Donec posuere vulputate arcu.</li>
+	<li>Phasellus accumsan cursus velit.</li>
+	<li>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</li>
+	<li>Sed aliquam, nisi quis porttitor congue</li>
 </ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>51</wp:post_id>
@@ -1555,9 +1555,9 @@ Nunc nec neque. Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>enclosure</wp:meta_key>
-			<wp:meta_value><![CDATA[http://www.archive.org/download/Macroform2011/Macroform-600LightYears.mp3
-161
-audio/mpeg
+			<wp:meta_value><![CDATA[http://www.archive.org/download/Macroform2011/Macroform-600LightYears.mp3
+161
+audio/mpeg
 ]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>

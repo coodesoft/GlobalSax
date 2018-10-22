@@ -829,9 +829,15 @@ function woocommerce_clear_cart_url() {
  * Proper way to enqueue scripts and styles.
  */
 function wpdocs_theme_name_scripts() {
-	wp_enqueue_script( 'masonry', get_template_directory_uri() . '/js/masonry.pkgd.min.js', array(), '1.0.0', true );
+	//wp_enqueue_script( 'masonry', get_template_directory_uri() . '/js/masonry.pkgd.min.js', array(), '1.0.0', true );
 }
 add_action( 'wp_enqueue_scripts', 'wpdocs_theme_name_scripts' );
+/*function get_string($link){
+	$inicio = strpos($link, '>') + 1;
+
+	return substr($link, $inicio, strlen($link) - 4);
+}*/
+
 function busca_edad($fecha_nacimiento){
 $dia=date("d");
 $mes=date("m");
@@ -878,8 +884,11 @@ if( is_user_logged_in()  ) {
 	$user = wp_get_current_user();
 	if ( in_array( 'RRHH', (array) $user->roles ) ) {
     $args['menu'] = 'logged-in';
+	} else if ( in_array( 'customer', (array) $user->roles ) )
+	{
+	   $args['menu'] = 'cliente';
 	}
-	} else {
+	} else  {
 		$args['menu'] = 'GRUPOBK MENU';
 	}
 

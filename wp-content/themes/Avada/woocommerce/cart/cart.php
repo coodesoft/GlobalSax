@@ -23,113 +23,109 @@ if ( ! defined( 'ABSPATH' ) ) {
 wc_print_notices();
 
 do_action( 'woocommerce_before_cart' ); ?>
-
+    <p class="woocommerce-store-notice demo_store"> Su pedido es un compromiso de compra </p>
 <form class="woocommerce-cart-form" action="<?php echo esc_url( wc_get_cart_url() ); ?>" method="post">
-	<?php do_action( 'woocommerce_before_cart_table' ); ?>
 
-	<table class="shop_table shop_table_responsive cart woocommerce-cart-form__contents" cellspacing="0">
-		<thead>
-			<tr>
-				<?php // ThemeFusion edit for Avada theme: change table layout and columns. ?>
-				<th class="product-name"><?php _e( 'Product', 'woocommerce' ); ?></th>
-				<th class="product-price"><?php _e( 'Price', 'woocommerce' ); ?></th>
-				<th class="product-quantity"><?php _e( 'Quantity', 'woocommerce' ); ?></th>
-				<th class="product-subtotal"><?php _e( 'Total', 'woocommerce' ); ?></th>
-				<th class="product-remove">&nbsp;</th>
-			</tr>
-		</thead>
-		<tbody>
-			<?php do_action( 'woocommerce_before_cart_contents' ); ?>
+    <div class="datos_user_cart">
+    	<?php
+global $wpdb;
+//si el usuario esta loggeado
+if( is_user_logged_in()  ) {
+	//obtengo el usuario
+	$user = wp_get_current_user();
+	echo "<label style='padding-left:10%;'> Pedido de: " . $user->display_name . "</label>";
+  $table = $wpdb->prefix . ('usermeta');
+	//si el rol del usuario es Cliente
+	if ( in_array( 'customer', (array) $user->roles ) ) {
+		//obtengo los datos de la tabla wd_usermeta, que contiene id_sucursal
+    $queryStr = "SELECT * FROM ". $table ." WHERE user_id = " . $user->ID . " AND meta_key LIKE 'id_sucursal' ";
+    $sucursales =  $wpdb->get_results($queryStr, ARRAY_A);
+		//si tiene mas de 1 sucursal asignada carga el selector de sucursales
 
-			<?php
-			foreach ( WC()->cart->get_cart() as $cart_item_key => $cart_item ) {
+    if (sizeof($sucursales) > 0){
+
+      ?>
+      <div id="sucursalSelection">
+          <div>Seleccione la sucursal:</div>
+
+          <form id="sucursalesByClienForm">
+            <div id="sucursalesList">
+              <select name="sucursal" style="margin-left:5%;" required>
+                  <option value="" disabled selected>Seleccione una sucursal</option>
+                <?php
+                foreach ($sucursales as $key => $sucursal) {
+                    foreach ($sucursal as $k_suc => $v_suc) {
+                        if ($k_suc == 'meta_value'){
+                ?>
+                  <option value="<?php echo $v_suc?>"><?php echo $v_suc ?></option>
+                <?php }}} ?>
+              </select>
+            </div>
+            </form>
+      </div>
+<?php
+	} //cierre del sizeof($sucursales)
+	}}
+	?>
+	</div>
+	<div class="cart_style">
+		<?php
+
+		//echo json_encode(WC()->cart->get_cart());
+			$product_list = [];
+			foreach ( WC()->cart->get_cart() as $cart_item_key => $cart_item ){
 				$_product   = apply_filters( 'woocommerce_cart_item_product', $cart_item['data'], $cart_item, $cart_item_key );
 				$product_id = apply_filters( 'woocommerce_cart_item_product_id', $cart_item['product_id'], $cart_item, $cart_item_key );
 
-				if ( $_product && $_product->exists() && $cart_item['quantity'] > 0 && apply_filters( 'woocommerce_cart_item_visible', true, $cart_item, $cart_item_key ) ) {
-					$product_permalink = apply_filters( 'woocommerce_cart_item_permalink', $_product->is_visible() ? $_product->get_permalink( $cart_item ) : '', $cart_item, $cart_item_key );
-					?>
-					<tr class="woocommerce-cart-form__cart-item <?php echo esc_attr( apply_filters( 'woocommerce_cart_item_class', 'cart_item', $cart_item, $cart_item_key ) ); ?>">
+				$product_cat = get_the_terms($product_id, 'product_cat');
+				$product_cat = $product_cat[0]->name;
 
-						<td class="product-name">
-							<?php // ThemeFusion edit for Avada theme: add thumbnail to product name column. ?>
-							<span class="product-thumbnail">
-								<?php
-									$thumbnail = apply_filters( 'woocommerce_cart_item_thumbnail', $_product->get_image(), $cart_item, $cart_item_key );
-
-									if ( ! $product_permalink ) {
-										echo $thumbnail;
-									} else {
-										printf( '<a href="%s">%s</a>', esc_url( $product_permalink ), $thumbnail );
-									}
-								?>
-							</span>
-							<div class="product-info">
-								<?php
-								if ( ! $product_permalink ) {
-									echo apply_filters( 'woocommerce_cart_item_name', $_product->get_name(), $cart_item, $cart_item_key ) . '&nbsp;';
-								} else {
-									echo apply_filters( 'woocommerce_cart_item_name', sprintf( '<a href="%s">%s</a>', esc_url( $product_permalink ), $_product->get_name() ), $cart_item, $cart_item_key );
-								}
-
-								// Meta data
-								echo WC()->cart->get_item_data( $cart_item );
-
-								// Backorder notification
-								if ( $_product->backorders_require_notification() && $_product->is_on_backorder( $cart_item['quantity'] ) ) {
-									echo '<p class="backorder_notification">' . esc_html__( 'Available on backorder', 'woocommerce' ) . '</p>';
-								}
-								?>
-							</div>
-						</td>
-
-						<td class="product-price" data-title="<?php esc_attr_e( 'Price', 'woocommerce' ); ?>">
-							<?php
-								echo apply_filters( 'woocommerce_cart_item_price', WC()->cart->get_product_price( $_product ), $cart_item, $cart_item_key );
-							?>
-						</td>
-
-						<td class="product-quantity" data-title="<?php esc_attr_e( 'Quantity', 'woocommerce' ); ?>">
-							<?php
-								if ( $_product->is_sold_individually() ) {
-									$product_quantity = sprintf( '1 <input type="hidden" name="cart[%s][qty]" value="1" />', $cart_item_key );
-								} else {
-									$product_quantity = woocommerce_quantity_input( array(
-										'input_name'  => "cart[{$cart_item_key}][qty]",
-										'input_value' => $cart_item['quantity'],
-										'max_value'   => $_product->get_max_purchase_quantity(),
-										'min_value'   => '0',
-									), $_product, false );
-								}
-
-								echo apply_filters( 'woocommerce_cart_item_quantity', $product_quantity, $cart_item_key, $cart_item );
-							?>
-						</td>
-
-						<td class="product-subtotal" data-title="<?php esc_attr_e( 'Total', 'woocommerce' ); ?>">
-							<?php
-								echo apply_filters( 'woocommerce_cart_item_subtotal', WC()->cart->get_product_subtotal( $_product, $cart_item['quantity'] ), $cart_item, $cart_item_key );
-							?>
-						</td>
-
-						<?php // ThemeFusion edit for Avada theme: customize item removal. ?>
-						<td class="product-remove">
-							<?php
-								echo apply_filters( 'woocommerce_cart_item_remove_link', sprintf(
-									'<a href="%s" class="remove" aria-label="%s" data-product_id="%s" data-product_sku="%s">&times;</a>',
-									esc_url( WC()->cart->get_remove_url( $cart_item_key ) ),
-									__( 'Remove this item', 'woocommerce' ),
-									esc_attr( $product_id ),
-									esc_attr( $_product->get_sku() )
-								), $cart_item_key );
-							?>
-						</td>
-
-					</tr>
-					<?php
+				if (array_key_exists($product_cat, $product_list)){
+					if ( $_product && $_product->exists() && $cart_item['quantity'] > 0 && apply_filters( 'woocommerce_cart_item_visible', true, $cart_item, $cart_item_key ) )
+						$product_list[$product_cat]['cant'] += $cart_item['quantity'];
+				} else{
+					$product_list[$product_cat] = [];
+					$product_list[$product_cat]['name'] = $product_cat;
+					$product_list[$product_cat]['cant'] = $cart_item['quantity'];
 				}
+
+			}
+			$cant_total = 0;
+			foreach ($product_list as $key => $category) {
+			    $cant_total += $category['cant'];
 			}
 			?>
+			<?php echo '<h2 data-fontsize="18" data-lineheight="27"> Tiene '. $cant_total .' elementos en su Carrito </h2>'; ?>
+    <table class="shop_table shop_table_responsive cart woocommerce-cart-form__contents" cellspacing="0">
+		<thead>
+
+			<tr>
+				<?php // ThemeFusion edit for Avada theme: change table layout and columns. ?>
+				<th class="product-name"><?php _e( 'Category', 'woocommerce' ); ?></th>
+				<th class="product-quantity"><?php _e( 'Quantity', 'woocommerce' ); ?></th>
+
+			</tr>
+		</thead>
+
+		<tbody>
+			<?php do_action( 'woocommerce_before_cart_contents' ); ?>
+
+		<?php
+			foreach ($product_list as $key => $category) { ?>
+				<tr>
+					<td class="product_name">
+						<div class="product-info">
+							<a href="#" class="product-title"><?php echo strtoupper($category['name']) ?> </span>
+						</div>
+					</td>
+					<td class="product-quantity">
+						<div class="quantity"><?php echo $category['cant'] ?></div>
+					</td>
+				</tr>
+
+
+			<?php } ?>
+
 
 			<?php do_action( 'woocommerce_cart_contents' ); ?>
 
@@ -153,7 +149,12 @@ do_action( 'woocommerce_before_cart' ); ?>
 			<?php do_action( 'woocommerce_after_cart_contents' ); ?>
 		</tbody>
 	</table>
-
+	<div><p></p></div>
+	<div class="do_pedido" style="display:flex;font-size:1.2em;padding-left:34%;padding-top:2%;border-top:solid 0.2px;">
+        <input type="radio" name="pedido" value="G" checked> Guardar pedido<br>
+	    <input type="radio" name="pedido" value="A" style="margin-left:10%"> Anular pedido<br>
+    </div>
+    </div>
 	<?php do_action( 'woocommerce_after_cart_table' ); ?>
 
 </form>
@@ -166,7 +167,8 @@ do_action( 'woocommerce_before_cart' ); ?>
 		 * @hooked woocommerce_cross_sell_display
 		 * @hooked woocommerce_cart_totals - 10
 		 */
-	 	do_action( 'woocommerce_cart_collaterals' );
+	 //	do_action( 'woocommerce_cart_collaterals' );
+
 	?>
 </div>
 
