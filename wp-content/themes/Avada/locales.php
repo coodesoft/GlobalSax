@@ -120,9 +120,7 @@ $resp      = json_decode($resp_json, true);
      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242211.64174373038!2d-58.44772574163197!3d-34.64593114556312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbcb7595281d9%3A0x4ad309fcdcf0a144!2sBuenos+Aires!5e0!3m2!1ses-419!2sar!4v1534285720746" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
    </div>
 
-<<<<<<< HEAD
-   <div class="info_list">
-=======
+
   <div class="info_list">
       <select name="menu-prov" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
         <option value="">---</option>
@@ -152,7 +150,6 @@ $resp      = json_decode($resp_json, true);
         <option value="Tierra del Fuego">Tierra del Fuego</option>
         <option value="Tucuman">Tucuman</option></select>
 
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
      <ul>
       <div class="item_list"><img class="locales_img" src="/demo/img/locales_sitio_web.svg"><span>Sitio Web </span></div>
       <div class="item_list"><img class="locales_img" src="/demo/img/locales_venta_mayorista.svg"><span>Venta Mayorista </span></div>
