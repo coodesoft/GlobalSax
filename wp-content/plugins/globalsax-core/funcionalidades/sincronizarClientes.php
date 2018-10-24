@@ -1,29 +1,35 @@
 <?php
 
-$cantidadImportar = get_user_meta(1,"importar_productos",true);
-$totalImportar = get_user_meta(1,"total_importar_productos",true);
+$cantidadImportar = get_user_meta(1,"importar_clients",true);
+$totalImportar = get_user_meta(1,"total_importar_clients",true);
 //echo 'Cantidad total: '.$cantidadImportar;
 /**LLAMADA AJAX**/
-add_action('wp_ajax_get_sincronizar_producto', 'ajax_get_sincronizar_producto');
-add_action('wp_ajax_nopriv_get_sincronizar_producto', 'ajax_get_sincronizar_producto');
+add_action('wp_ajax_get_sincronizar_cliente', 'ajax_get_sincronizar_cliente');
+add_action('wp_ajax_nopriv_get_sincronizar_cliente', 'ajax_get_sincronizar_cliente');
 
-function ajax_get_sincronizar_producto(){
-	//update_user_meta(1,'importar_productos',-99);
-	//get_sincronizar_producto();
-  //console_log('funciona');
-  echo "algo";
+function console_log( $data ){
+  echo '<script>';
+  echo 'console.log('. json_encode( $data ) .')';
+  echo '</script>';
 }
-function get_sincronizar_producto(){
+
+function ajax_get_sincronizar_cliente(){
+	//update_user_meta(1,'importar_clients',-99);
+	//get_sincronizar_cliente();
+  console_log('funciona');
+
+}
+function get_sincronizar_cliente(){
 
 
-	$cantidadImportar = get_user_meta(1,"importar_productos",true);
+	$cantidadImportar = get_user_meta(1,"importar_clients",true);
 
 	if($cantidadImportar == -99 || $cantidadImportar > 0){
 
 
 		/**Obtener el archivo JSON**/
 
-		$url = 'http://askipusax.dyndns.biz:65300/api/Product';
+		$url = 'http://askipusax.dyndns.biz:65300/api/Client';
 
 		$ch = curl_init();
 
@@ -53,20 +59,20 @@ function get_sincronizar_producto(){
 
 		/**Convertir a JSON**/
 
-		$products = json_decode($json, true);
+		$clients = json_decode($json, true);
 
-		$valor = (int) sizeof($products);
+		$amount = (int) sizeof($clients);
 
 
-		update_user_meta(1,'total_importar_productos',$valor);
+		update_user_meta(1,'total_importar_clients',$amount);
 
 		/**Crear los atributos si no existen**/
 
-		create_att($products);
+		create_att($clients);
 
 		/**Insertar los productos**/
 
-		insert_products($products);
+		insert_clients($clients);
 
 		/**********************************************************************************************************************/
 
@@ -80,34 +86,34 @@ function get_sincronizar_producto(){
 
 }
 
-function insert_products ($products)
+function insert_clients ($clients)
 
 {
 
-  if (!empty($products)) // No point proceeding if there are no products
+  if (!empty($clients)) // No point proceeding if there are no products
 
     {
 
         //array_map('insert_product', $products);
 
-		$comienzoImportado = get_user_meta(1,"importar_productos",true);
+		$comienzoImportado = get_user_meta(1,"importar_clients",true);
 
 		if($comienzoImportado == -99) $comienzoImportado = 0;
 
 
-		$cantidadFija = sizeof($products);
+		$cantidadFija = sizeof($clients);
 
 		$finImportado = $comienzoImportado + $cantidadFija;
 
 		$i = 0;
 
-		foreach ($products as $product_data) // Go through each attribute
+		foreach ($clients as $client_data) // Go through each attribute
 
 		{
 
 			if($i >= $comienzoImportado and $i<= $finImportado){
 
-				insert_product($product_data);
+				insert_product($client_data);
 
 			}
 
@@ -117,17 +123,17 @@ function insert_products ($products)
 
 		}
 
-		$totalImportar = get_user_meta(1,"total_importar_productos",true);
+		$totalImportar = get_user_meta(1,"total_importar_clients",true);
 
 		if($finImportado >=  $totalImportar){
 
-			update_user_meta(1,'importar_productos',0);
+			update_user_meta(1,'importar_clients',0);
 
-			update_user_meta(1,'total_importar_productos',0);
+			update_user_meta(1,'total_importar_clients',0);
 
 		}else{
 
-			update_user_meta(1,'importar_productos',$finImportado);
+			update_user_meta(1,'importar_clients',$finImportado);
 
 		}
 
@@ -137,134 +143,38 @@ function insert_products ($products)
 
 /**/
 
-function insert_product($product_data)
-
+function client($client_data)
 {
-
-	$IdWp = get_user_meta(1,'key_'.$product_data['Product_Id'], true);
-
+	$IdWp = get_user_meta(1,'key_'.$client_data['Client_Id'], true);
 
 	if(empty($IdWp)){
-
-		$post = array(
-
+		/*$post = array(
 			'post_author'  => 1,
-
 			'post_content' => $product_data['Description'],
-
 			'post_status'  => 'publish',
-
 			'post_title'   => $product_data['Name'],
-
 			'post_parent'  => '',
-
 			'post_type'    => 'product'
-
 		);
-
 		$post_id = wp_insert_post($post);
-
-
-		insert_product_category($post_id, $product_category);
-		update_user_meta(1,'key_'.$product_data['Product_Id'],$post_id);
-
+		insert_product_category($post_id, $product_category);*/
+		update_user_meta(1,'key_'.$product_data['Client_Id']);//,$post_id);
 	} else {
-
-		$post = array(
-
+		/*$post = array(
 			'ID'  => $IdWp,
-
 			'post_author'  => 1,
-
 			'post_content' => $product_data['Description'],
-
 			'post_status'  => 'publish',
-
 			'post_title'   => $product_data['Name'],
-
 			'post_parent'  => '',
-
 			'post_type'    => 'product'
-
-		);
-
-		$post_id = wp_update_post($post);
-
+		);*/
+		/*$post_id = wp_update_post($post);
 		$product_category = $product_data['Category'];
-		borrarVariacionesProductos($post_id);
-
+		borrarVariacionesProductos($post_id);*/
 	}
-
-	//echo $post_id.'-';
-
-    if (!$post_id) // If there is no post id something has gone wrong so don't proceed
-
-    {
-
-        return false;
-
-    }
-
-    update_post_meta($post_id,'_sku',$product_data['Product_Id']); // Set its SKU
-
-    update_post_meta($post_id,'_visibility','visible'); // Set the product to visible, if not it won't show on the front end
-
-	if(count($product_data['Variations']) > 0){
-
-		wp_set_object_terms($post_id, 'variable', 'product_type');
-
-		$available_attributes = get_available_attributes($product_data);
-
-		$variations = get_variations($product_data);
-
-
-		insert_product_attributes($post_id, $available_attributes, $variations);
-
-		insert_product_variations($post_id, $variations);
-
-	}
-
-	else{
-
-		wp_set_object_terms($post_id, 'simple', 'product_type');
-
-	}
-
 }
 
-/**/
-
-function borrarVariacionesProductos($post_id){
-
-	$variations = new WP_Query( array(
-
-        'post_type' => 'product_variation',
-
-        'posts_per_page' => -1,
-
-		'post_parent' => $post_id,
-
-    ) );
-
-    if ( $variations->have_posts() ) {
-
-
-
-        while ( $variations->have_posts() ) {
-
-            $variations->the_post();
-
-			wp_delete_post( get_the_id(), true );
-
-        }
-
-    }
-
-    wp_reset_postdata();
-
-}
-
-/***/
 
 function insert_product_attributes ($post_id, $available_attributes, $variations)
 
@@ -431,7 +341,7 @@ function create_att($products)
     {
 
 
-		$comienzoImportado = get_user_meta(1,"importar_productos",true);
+		$comienzoImportado = get_user_meta(1,"importar_clients",true);
 
 		if($comienzoImportado == -99) $comienzoImportado = 0;
 
