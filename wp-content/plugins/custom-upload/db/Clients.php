@@ -13,10 +13,7 @@ class Clients{
   }
 
   static function update($id, $name){
-<<<<<<< HEAD
-=======
-/*<<<<<<< HEAD
-=======
+/*
     global $wpdb;
 
     return $wpdb->update(self::TABLE, ['nombre_cliente' => $name], ['cliente_id' => $id], ['%s'], ['%d']);
@@ -38,9 +35,9 @@ class Clients{
     }
   }
 
-  static function addSucursal($cliente_id, $sucursal_id){
->>>>>>> 72ca023bd227db0b090d0bebe34c05ae89b39354*/
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
+  static function addSucursal($cliente_id, $sucursal_id){*/
+
+
     global $wpdb;
 
     return $wpdb->update(self::TABLE, ['nombre_cliente' => $name], ['cliente_id' => $id], ['%s'], ['%d']);

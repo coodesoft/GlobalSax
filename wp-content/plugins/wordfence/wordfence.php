@@ -15,16 +15,16 @@ Network: true
 if(defined('WP_INSTALLING') && WP_INSTALLING){
 	return;
 }
-<<<<<<< HEAD
+//<<<<<<< HEAD
 if (!defined('ABSPATH')) {
 	exit;
 }
 define('WORDFENCE_VERSION', '7.1.16');
 define('WORDFENCE_BUILD_NUMBER', '1539704326');
-=======
+/*=======
 define('WORDFENCE_VERSION', '7.1.11');
 define('WORDFENCE_BUILD_NUMBER', '1534873799');
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
+>>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4*/
 define('WORDFENCE_BASENAME', function_exists('plugin_basename') ? plugin_basename(__FILE__) :
 	basename(dirname(__FILE__)) . '/' . basename(__FILE__));
 
@@ -51,11 +51,11 @@ if(! defined('WORDFENCE_VERSIONONLY_MODE')){ //Used to get version from file.
 	$maxMemory = @ini_get('memory_limit');
 	$last = strtolower(substr($maxMemory, -1));
 	$maxMemory = (int) $maxMemory;
-	
+
 	if ($last == 'g') { $maxMemory = $maxMemory * 1024 * 1024 * 1024; }
 	else if ($last == 'm') { $maxMemory = $maxMemory * 1024 * 1024; }
 	else if ($last == 'k') { $maxMemory = $maxMemory * 1024; }
-	
+
 	if ($maxMemory < 134217728 /* 128 MB */ && $maxMemory > 0 /* Unlimited */) {
 		if (strpos(ini_get('disable_functions'), 'ini_set') === false) {
 			@ini_set('memory_limit', '128M'); //Some hosts have ini set at as little as 32 megs. 128 is the min sane amount of memory.
