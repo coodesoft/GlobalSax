@@ -113,15 +113,39 @@ function display_theme_panel_fields()
 add_action("admin_init", "display_theme_panel_fields");
 
 
-function get_GS_user(){
+function get_GS_clients_from_WP_users($condition){
+
   global $wpdb;
+
   $gs_client_table = $wpdb->prefix . ('gs_clients');
-  $query = 'SELECT * FROM ' . $gs_client_table . ' WHERE NOT ISNULL(user_id) ';
+
+  $query = 'SELECT * FROM ' . $gs_client_table . ' WHERE ' . $condition . ' ISNULL(user_id) ';
+
   return $wpdb->get_results($query);
+
+}
+
+function update_GS_user($GS_client_id, $WP_user_id){
+
+  global $wpdb;
+
+  $gs_client_table = $wpdb->prefix . ('gs_clients');
+
+  return $wpdb->update($gs_client_table, ['user_id' => $WP_user_id], ['Client_ID'=> $GS_client_id], ['%d'], ['%d']);
+
 }
 
 function assignClient(){
+  if (!empty($_POST['client'])){
+    if (!empty($_POST['user'])) {
+      update_GS_user($_POST['client'], $_POST['user']);
+    }
+    else update_GS_user($_POST['client'], NULL);
+
+  }
+
 ?>
+
   <table>
       <tr>
         <th>Cliente</th>
@@ -130,20 +154,48 @@ function assignClient(){
       </tr>
       <tr>
         <?php
-        $clientes = get_GS_user();
+        $users_assigned = array();
+        $clientes = get_GS_clients_from_WP_users('NOT');
         foreach ($clientes as $key => $cliente) {
           $userByID = get_user_by('ID', $cliente->user_id);
+          if (!in_array($users_assigned, $userByID->ID)){
+          array_push($users_assigned, $userByID->ID);
+          }
           ?>
-        <td><?php echo $cliente->Name; ?></td>
-        <td><?php echo $userByID->display_name; ?></td>
-        <td><?php echo '$userByID'; ?></td>
+          <form class="" method="post">
+            <td><?php echo $cliente->Name; ?></td>
+            <td><?php echo $userByID->display_name; ?></td>
+            <td><button type="submit" name="client" value="<?php echo $cliente->Client_ID?>"=>Borrar</button></td>
+        </form>
       </tr>
     <?php } ?>
   </table>
-    <div class="cu-submit-button cu-text-center">
-      <button type="submit">Editar características</button>
-      <div class="cu-loader"></div>
+  <form class="" method="post">
+    <div id="clientsList">
+    <select name="client" id="client" required>
+      <option value="" disabled selected>Seleccione un cliente</option>
+      <?php
+      $clientes = get_GS_clients_from_WP_users('');
+      foreach ($clientes as $key => $cliente) {
+        ?>
+                <option value="<?php echo $cliente->Client_ID?>"><?php echo $cliente->Name ?></option>
+      <?php } ?>
+  </select>
+  <select name="user" id="user" required>
+    <option value="" disabled selected>Seleccione un usuario de Wordpress</option>
+    <?php
+    $users_not_assigned = get_users( array ('exclude' => $users_assigned));
+    foreach ($users_not_assigned as $key => $user_not_assigned) {
+      ?>
+              <option value="<?php echo $user_not_assigned->ID?>"><?php echo $user_not_assigned->display_name ?></option>
+    <?php } ?>
+  </select>
+        <div>
+          <button type="submit" name="Sincronizar" value="Sincronizar">Sincronizar</button>
+        </div>
     </div>
+  </form>
+
 <?php
 }
 
