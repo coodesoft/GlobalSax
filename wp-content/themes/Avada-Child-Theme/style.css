@@ -80,21 +80,17 @@ Text Domain:  Avada
 }
 
 .grupobk-descripcion {
-<<<<<<< HEAD
     width: 60%;
     margin:0 auto!important;
 	max-width:900px;
-=======
     width: 70%;
     margin-left: 15% !important;
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 }
 
 #grupobk-button {
     width: 100% !important;
     text-transform:none;
 	font-size:1.2em;
-<<<<<<< HEAD
 	border-radius:5px!important;
 }
 
@@ -109,8 +105,6 @@ div#n2-ss-2-align {
 
 h3.marcas {
 	margin-top:20%;
-=======
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 }
 
 input.wpcf7-form-control.wpcf7-text.uploadtextfield {
@@ -197,7 +191,6 @@ img.img-responsive.wp-image-12084 {
     width: 48%;
 }
 
-<<<<<<< HEAD
 .marcas_container{
 	max-width:1100px!important;
 	margin:0 auto!important;
@@ -208,8 +201,6 @@ img.img-responsive.wp-image-12084 {
 	margin:0 0!important;
 }
 
-=======
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 .fusion-layout-column.fusion-one-half {
     width: 42%!important;
 }
@@ -309,7 +300,7 @@ div#contacto_tab {
 	border-radius: 5px;
     margin-top: -1px;
 	border: 1px solid #dadada;
-	
+
 }
 .botontrescol input:hover{
 	background-color: #3c8b43;
@@ -336,12 +327,8 @@ div#contacto_tab {
 	padding: 5px 0px;
 }
 
-<<<<<<< HEAD
 #menu-grupobk-menu, #menu-logged-in, #menu-cliente {
-=======
-#menu-grupobk-menu, #menu-logged-in {
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
-  	width: auto;
+	width: auto;
 	max-width: 1100px;
 	margin: 0 auto;
 	display: flex;
@@ -450,10 +437,10 @@ input#buscar {
 	height:33px;
 }
 
-input#abrir-cerrar { 
-	visibility:hidden; 
-	position: absolute; 
-	top: -9999px; 
+input#abrir-cerrar {
+	visibility:hidden;
+	position: absolute;
+	top: -9999px;
 }
 
 div#hidden-info {
@@ -500,26 +487,26 @@ img.locales_img {
 	right:3px;
 }
 
-input[type=date]::-webkit-inner-spin-button, 
+input[type=date]::-webkit-inner-spin-button,
 input[type=date]::-webkit-outer-spin-button{
-	-webkit-appearance: none!important; 
+	-webkit-appearance: none!important;
 	-moz-appearance: none!important;
 }
-  
+
 @media only screen and (max-width: 700px) {
   	#main {
     	padding-left: 5px !important;
 		padding-right: 5px !important;
  	}
-	
+
 	div#contacto_tab {
     	margin: 0px 0em;
 	}
-	
+
 	.fusion-tabs .nav {
     	display:flex!important;
 	}
-	
+
 	ul.nav-tabs.nav-justified{
 		display:inline-flex;
 	}
@@ -593,7 +580,7 @@ input[type=date]::-webkit-outer-spin-button{
 	.fusion-is-sticky .fusion-sticky-logo-1.fusion-header-v5 .fusion-mobile-logo-1x {
     	display: block;
 	}
-	
+
 	img.img-responsive.wp-image-1101,
 	img.img-responsive.wp-image-1111,
 	img.img-responsive.wp-image-1100,
@@ -601,11 +588,11 @@ input[type=date]::-webkit-outer-spin-button{
     	width: 100%;
 		margin: 0 auto;
 	}
-	
+
 	span.fusion-imageframe.imageframe-none.imageframe-4.hover-type-zoomin.grupobk-img-catalogo {
 		border-radius:3%;
 	}
-	
+
 	fusion-column-wrapper h3 {
     	margin-left: 10%!important;
 	}
@@ -634,7 +621,6 @@ input[type=date]::-webkit-outer-spin-button{
 }
 .fupload{
 	width:98%!important;
-<<<<<<< HEAD
 }
 .products-3>li{
 	width: 31.6%!important;
@@ -651,6 +637,4 @@ input[type=date]::-webkit-outer-spin-button{
 #gbsCatalog{
 	width: 80%;
     padding-left: 9%;
-=======
->>>>>>> 7a748c35116bae2b616de9f523cfdf404a2ed1f4
 }
