@@ -122,6 +122,19 @@ class Clients{
     return $wpdb->get_results($queryStr, ARRAY_A);
   }
 
+  static function getSucursalesByProvincia($provincia){
+    global $wpdb;
+
+    $queryStr = 'SELECT * FROM ' .self::RELATED. ' WHERE provincia LIKE %s';
+
+    $str = $wpdb->esc_like($provincia);
+    $str = '%' . $str . '%';
+
+    $query = $wpdb->prepare($queryStr, array($str));
+    return $wpdb->get_results($queryStr, ARRAY_A);
+
+  }
+
 
 
 }
