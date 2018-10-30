@@ -40,7 +40,7 @@
 
 	$(root).on('click', '.ciudad', function(){
     	$(this).siblings(".sucursal").toggleClass("mostrar", 1000, "easeOutSine");
-  	});
+	});
 
 	$('.trescol').on('click', 'span.uploadtextfield', function(){
 		$(this).siblings(".file-archivo").children('.file-archivo').click();

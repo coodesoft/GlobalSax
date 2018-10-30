@@ -127,21 +127,7 @@ input.wpcf7-form-control.wpcf7-text.uploadtextfield {
 	background-color:#3c8b43!important;
 }
 
-.del_button {
-	height: 40px;
-    width: 40px;
-    padding: 0 0;
-    border: none;
-    border-radius: 5px;
-    background-color: #626262;
-    color: #fff;
-    font-size: 100%;
-    float:right!important;
-}
 
-.del_button:hover {
-	 background-color: #383838;
-}
 
 .fusion-slider-loading {
 	display:none!important
@@ -625,16 +611,99 @@ input[type=date]::-webkit-outer-spin-button{
 .products-3>li{
 	width: 31.6%!important;
 }
-.datos_user_cart{
-	display:flex;
-	padding-top:2%;
+
+#sucursalSelection,
+#clienteSelection{
+  float: right;
 }
+
 #sucursalSelection{
-	display:flex;
-	padding-left: 40%;
-    padding-bottom: 1%;
+  margin-left: 20px;
 }
+
 #gbsCatalog{
 	width: 80%;
     padding-left: 9%;
+}
+
+#gbsCheckout{
+  padding-top: 20px;
+}
+
+#gbsCheckout .demo_store{
+  position: relative;
+}
+
+#gbsCheckout .datos_user_cart{
+  padding-top: 32px;
+}
+
+#gbsCheckout .datos_user_cart::after{
+  content: "";
+  clear: both;
+  display: block;
+}
+
+#gbsCheckout .order-owner{
+  float: left;
+  padding-top: 15px;
+}
+
+
+#gbsCheckout .total-ordered,
+#gbsCheckout .shop_table .product-name,
+#gbsCheckout .product_name .product-info,
+#gbsCheckout .user-actions{
+  text-align: center;
+}
+
+#gbsCheckout .user-actions{
+  margin-top: 20px;
+}
+
+#gbsCheckout .user-actions div{
+  display: inline-block;
+}
+
+#gbsCheckout .user-actions .save-order{
+  margin-right: 20px;
+}
+
+#gbsCheckout .cart-actions{
+  text-align: center;
+}
+
+#gbsCheckout .cart-actions .action-elements{
+  display: inline-block;
+  margin-top: 20px;
+}
+.del_button {
+	height: 40px;
+    width: 40px;
+    padding: 0 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #626262;
+    color: #fff;
+    font-size: 100%;
+    float:right!important;
+    cursor: pointer;
+}
+
+.del_button:hover {
+	 background-color: #383838;
+}
+
+a#gbsEnviarPedido{
+  background-color: #5BC965;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+a#gbsEnviarPedido:hover{
+  background: #3c8b43;
 }
