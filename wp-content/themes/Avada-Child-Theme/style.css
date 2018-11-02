@@ -125,21 +125,7 @@ input.wpcf7-form-control.wpcf7-text.uploadtextfield {
 	background-color:#3c8b43!important;
 }
 
-.del_button {
-	height: 40px;
-    width: 40px;
-    padding: 0 0;
-    border: none;
-    border-radius: 5px;
-    background-color: #626262;
-    color: #fff;
-    font-size: 100%;
-    float:right!important;
-}
 
-.del_button:hover {
-	 background-color: #383838;
-}
 
 .fusion-slider-loading {
 	display:none!important
@@ -675,11 +661,14 @@ input[type=date]::-webkit-outer-spin-button{
 .products-3>li{
 	width: 31.6%!important;
 }
-.datos_user_cart{
-	display:flex;
-	padding-top:2%;
+
+#sucursalSelection,
+#clienteSelection{
+  float: right;
 }
+
 #sucursalSelection{
+<<<<<<< HEAD
 	display:flex;
 	padding-left: 40%;
     padding-bottom: 1%;
@@ -711,6 +700,11 @@ li.fusion-custom-menu-item.fusion-menu-cart.fusion-main-menu-cart.fusion-widget-
 	display: none;
 }
 
+=======
+  margin-left: 20px;
+}
+
+>>>>>>> 963e33feb96e01b310d9829b53e305503b49c47b
 #gbsCatalog{
 	width: 80%;
     padding-left: 9%;
@@ -797,7 +791,10 @@ a#gbsEnviarPedido{
 a#gbsEnviarPedido:hover{
   background: #3c8b43;
 }
+<<<<<<< HEAD
 
 li.fusion-custom-menu-item.fusion-menu-cart.fusion-main-menu-cart.fusion-widget-cart-counter{
 	display:none;
 }
+=======
+>>>>>>> 963e33feb96e01b310d9829b53e305503b49c47b
