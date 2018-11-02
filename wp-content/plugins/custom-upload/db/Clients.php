@@ -125,14 +125,21 @@ class Clients{
   static function getSucursalesByProvincia($provincia){
     global $wpdb;
 
-    $queryStr = 'SELECT * FROM ' .self::RELATED. ' WHERE provincia LIKE %s';
-
-    $str = $wpdb->esc_like($provincia);
-    $str = '%' . $str . '%';
+    $queryStr = 'SELECT * FROM ' .self::RELATED. ' WHERE provincia = "'. $provincia. '"';
+    /*$str = $wpdb->esc_like($provincia);
+    $str = '%' . $str . '%';*/
 
     $query = $wpdb->prepare($queryStr, array($str));
     return $wpdb->get_results($queryStr, ARRAY_A);
+  }
 
+  static function getSucursalesByCategory($category){
+    global $wpdb;
+
+    $queryStr = 'SELECT * FROM ' .self::RELATED. ' WHERE '. $category.' = 1';
+
+    $query = $wpdb->prepare($queryStr, array($category));
+    return $wpdb->get_results($queryStr, ARRAY_A);
   }
 
 
