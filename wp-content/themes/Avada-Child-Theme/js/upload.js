@@ -26,25 +26,31 @@
      });
   }
 
-  initialize();
+	var loadUserContentCallback = function(form, action, target, callback){
+    var data = {
+      'user': $(form).serialize(),
+      'action': action,
+    }
+    $.post(ajaxurl, data, function(data){
+      $(target).html(data);
 
+      if (callback != undefined)
+        callback(data);
+    })
+  }
 
-	let root = '.sucursales_div';
-	let element = '.nombre_cliente';
+	var loadCatContentCallback = function(category, action, target, callback){
+		var data = {
+			'cat': category,
+			'action': action,
+		}
+		$.post(ajaxurl, data, function(data){
+			$(target).html(data);
 
-	$(root).off().on('click', element, function(){
-		let address = $(this).data('address');
-		codeAddress(address);
-	})
-
-
-	$(root).on('click', '.ciudad', function(){
-    	$(this).siblings(".sucursal").toggleClass("mostrar", 1000, "easeOutSine");
-  	});
-
-	$('.trescol').on('click', 'span.uploadtextfield', function(){
-		$(this).siblings(".file-archivo").children('.file-archivo').click();
-	});
+			if (callback != undefined)
+				callback(data);
+		})
+	}
 
 	let showPreloadFile = function(input){
 		//var input = $('input.file-archivo')[0];
@@ -53,9 +59,37 @@
 		output.val(input.files.item(0).name);
 		console.log(input.files.item(0).name);
 	}
+
+  /*initialize();*/
+
+
+	let root = '#body';
+	let element = '.nombre_cliente';
+
+	$(root).off().on('click', element, function(){
+		let address = $(this).data('address');
+		codeAddress(address);
+	})
+
+	$(root).on('click', '.ciudad', function(){
+    $(this).siblings(".sucursal").toggleClass("mostrar", 1000, "easeOutSine");
+  });
+
+	$('.trescol').on('click', 'span.uploadtextfield', function(){
+		$(this).siblings(".file-archivo").children('.file-archivo').click();
+	});
+
+	$(root).on('change', '#provincia select', function(e){
+		loadUserContentCallback (this, "load_prov", '#sucursales');
+	});
+
+	$(root).on('click', '.locales_img', function(e){
+		let category = $(this).data();
+		loadCatContentCallback (category, "cat_filter", '#sucursales');
+	});
+
 	$('.trescol').on('change', 'input.file-archivo', function(){
 		showPreloadFile(this);
-
 	});
 
 })(jQuery);

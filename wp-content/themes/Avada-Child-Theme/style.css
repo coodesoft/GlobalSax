@@ -83,8 +83,6 @@ Text Domain:  Avada
     width: 60%;
     margin:0 auto!important;
 	max-width:900px;
-    width: 70%;
-    margin-left: 15% !important;
 }
 
 #grupobk-button {
@@ -167,12 +165,24 @@ i.fa.fa-angle-right.button-icon-right{
     height: auto;
     padding: 1% 1.5% 1% 1.5%;
     border-radius: 5px;
-    border: 1px solid #d2d2d2;
+    border: 0;
     background-color: #f4f4f4!important;
     margin: 8px 0px 25px 0px;
     color: #505050;
     font-size: 0.9em;
     color: #7c7c7c!important;
+}
+
+input.wpcf7-form-control.wpcf7-text {
+    border: 0;
+}
+
+input.wpcf7-form-control.wpcf7-number.wpcf7-validates-as-required.wpcf7-validates-as-number {
+    border: 0;
+}
+
+input.wpcf7-form-control.wpcf7-date.wpcf7-validates-as-required.wpcf7-validates-as-date {
+    border: 0;
 }
 
 img.img-responsive.wp-image-1101,
@@ -191,14 +201,9 @@ img.img-responsive.wp-image-12084 {
     width: 48%;
 }
 
-.marcas_container{
+.marcas_container, .contacto_container{
 	max-width:1100px!important;
 	margin:0 auto!important;
-}
-
-.contacto_container {
-	max-width:1100px!important;
-	margin:0 0!important;
 }
 
 .fusion-layout-column.fusion-one-half {
@@ -208,10 +213,6 @@ img.img-responsive.wp-image-12084 {
 div#cont_productos {
 	max-width: 1100px;
 	margin: 0 auto!important;
-}
-
-div#contacto_tab {
-    margin: 0px 9em;
 }
 
 .adjuntar{
@@ -255,27 +256,41 @@ div#contacto_tab {
     width: 90%;
     height: 45px;
     border-radius: 5px;
-    border: 1px solid #d2d2d2;
+    border: 0;
     background-color: #f4f4f4;
     margin-top: 0px;
     margin-bottom: 25px;
     cursor: pointer;
 }
-#provincia select{
-	text-indent: 10px;
+#provincia select, .selector {
+	  text-indent: 10px;
     text-align: left;
-    font-family: text;
-    font-size: 1.1em;
+    font-family: 'myriad-set-pro-text' !important;
+    font-size: 1em;
     color: #7c7c7c;
     letter-spacing: -0.3px;
     width: 90%;
     height: 45px;
     border-radius: 5px;
-    border: 1px solid #d2d2d2;
+    border: 0;
     background-color: #f4f4f4;
     margin-top: 0px;
     margin-bottom: 25px;
     cursor: pointer;
+}
+
+.selector{
+  width: 35%!important;
+  margin:0!important;
+}
+
+.separator {
+	border-color: #e0dede;
+  border-top-width: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 .gen div {
 	width: 100%;
@@ -284,7 +299,7 @@ div#contacto_tab {
 	width: 100%;
 }
 .menu-genero select {
-	border: 1px solid #d2d2d2;
+	border: 0;
 }
 .menu-prov select{
 	border: 1px solid #d2d2d2;
@@ -293,13 +308,13 @@ div#contacto_tab {
 	background-color: #f4f4f4!important;
     border-radius: 5px;
     margin-top: -1px;
-    border: 1px solid #dadada;
+    border: 0;
 }
 .menu-prov .select-arrow {
 	background-color: #f4f4f4!important;
 	border-radius: 5px;
     margin-top: -1px;
-	border: 1px solid #dadada;
+	border: 0;
 
 }
 .botontrescol input:hover{
@@ -328,7 +343,7 @@ div#contacto_tab {
 }
 
 #menu-grupobk-menu, #menu-logged-in, #menu-cliente {
-	width: auto;
+  	width: auto;
 	max-width: 1100px;
 	margin: 0 auto;
 	display: flex;
@@ -402,19 +417,47 @@ input#buscar {
 }
 
 .mapas {
-	float:right;
+	margin:0 auto;
+	max-width:1100px;
+	text-align:center;
 }
 
 .info_list {
 	font-size:1.4em;
+	display:inline-flex;
+	width:100%;
 }
 
 .info_list ul {
 	padding:0;
+	display:inline-flex;
+	margin:0;
+	list-style:none;
+	margin-left:auto;
+  height:50px;
+}
+
+.info_list select {
+	text-indent: 10px;
+    text-align: left;
+    font-family: text;
+    font-size: 1.1em;
+    color: #7c7c7c;
+    letter-spacing: -0.3px;
+    width: 90%;
+    height: 45px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #f4f4f4;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    cursor: pointer;
+	padding:2px 15px;
 }
 
 .item_list {
-	padding:0 0 10px 0;
+	height:45px;
+	width:45px;
 }
 
 .sucursales_div {
@@ -422,7 +465,7 @@ input#buscar {
 }
 
 .provincia {
-	margin-bottom:50px;
+	margin:0;
 }
 
 .container-prov {
@@ -481,10 +524,10 @@ div#hidden-info {
 }
 
 img.locales_img {
-	width:40px;
-	position:relative;
-	top:12px;
-	right:3px;
+  width: 70px;
+  height: 48px;
+  position: relative;
+  border: 1px solid #f4f4f4;
 }
 
 input[type=date]::-webkit-inner-spin-button,
@@ -618,7 +661,14 @@ input[type=date]::-webkit-outer-spin-button{
 }
 .select-arrow{
 	right: 0px!important;
+	background-color: #f4f4f4!important;
+    border-radius: 5px;
+    margin-top: -1px;
+    border: 0;
+	top: 1px;
+	text-align:center;
 }
+
 .fupload{
 	width:98%!important;
 }
@@ -633,8 +683,121 @@ input[type=date]::-webkit-outer-spin-button{
 	display:flex;
 	padding-left: 40%;
     padding-bottom: 1%;
+
 }
+#gbsCatalog{
+	width: 60%;
+    margin: auto;
+	padding-bottom: 1%;
+	padding-top: 1%;
+}
+.cart_style {
+    border: solid 0.2px;
+}
+#selectCategoryForm{
+	margin-bottom: 3%;
+}
+
+#go_to_cart , #gbsAddVariationToCartButton{
+	padding-top:5px!important;
+	padding-right:0px!important;
+	padding-bottom:0px!important;
+	padding-left:0px!important;
+	margin-left:1%;
+	width:max-content;
+	height: 29px;
+}
+li.fusion-custom-menu-item.fusion-menu-cart.fusion-main-menu-cart.fusion-widget-cart-counter{
+	display: none;
+}
+
 #gbsCatalog{
 	width: 80%;
     padding-left: 9%;
+}
+
+#gbsCheckout{
+  padding-top: 20px;
+}
+
+#gbsCheckout .demo_store{
+  position: relative;
+}
+
+#gbsCheckout .datos_user_cart{
+  padding-top: 32px;
+}
+
+#gbsCheckout .datos_user_cart::after{
+  content: "";
+  clear: both;
+  display: block;
+}
+
+#gbsCheckout .order-owner{
+  float: left;
+  padding-top: 15px;
+}
+
+
+#gbsCheckout .total-ordered,
+#gbsCheckout .shop_table .product-name,
+#gbsCheckout .product_name .product-info,
+#gbsCheckout .user-actions{
+  text-align: center;
+}
+
+#gbsCheckout .user-actions{
+  margin-top: 20px;
+}
+
+#gbsCheckout .user-actions div{
+  display: inline-block;
+}
+
+#gbsCheckout .user-actions .save-order{
+  margin-right: 20px;
+}
+
+#gbsCheckout .cart-actions{
+  text-align: center;
+}
+
+#gbsCheckout .cart-actions .action-elements{
+  display: inline-block;
+  margin-top: 20px;
+}
+.del_button {
+	height: 40px;
+    width: 40px;
+    padding: 0 0;
+    border: none;
+    border-radius: 5px;
+    background-color: #626262;
+    color: #fff;
+    font-size: 100%;
+    float:right!important;
+    cursor: pointer;
+}
+
+.del_button:hover {
+	 background-color: #383838;
+}
+
+a#gbsEnviarPedido{
+  background-color: #5BC965;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 10px;
+  color: white;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+a#gbsEnviarPedido:hover{
+  background: #3c8b43;
+}
+
+li.fusion-custom-menu-item.fusion-menu-cart.fusion-main-menu-cart.fusion-widget-cart-counter{
+	display:none;
 }

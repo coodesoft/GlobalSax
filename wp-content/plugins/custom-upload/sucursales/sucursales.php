@@ -132,6 +132,99 @@ function cu_add_sucursal(){
   wp_die();
 }
 
+add_action('wp_ajax_load_prov', 'load_prov');
+add_action('wp_ajax_nopriv_load_prov', 'load_prov');
+function load_prov(){
+  parse_str ($_POST['user'], $values);
+  $sucursales = Clients::getSucursalesByProvincia($values['menu-prov']);
+  $ciudadescargadas = array();
+  foreach ($sucursales as $k => $v) {
+     if (($v['provincia'] == $values['menu-prov'])){
+     if (!(in_array($v['id'], $ciudadescargadas))){ ?>
+      <div class="container-prov">
+      <div class="ciudad"> <?php echo $v['ciudad'] ?>   </div>
+      <div id="hidden-info" class="sucursal">
+        <div class="nombre_cliente"> <span><?php echo $v['nombre_cliente'] ?></span></div>
+        <div class="direccion_publica"> <?php echo $v['direccion_publica'] ?> </div>
+        <div class="info">
+          <ul>
+          <?php if (($v['sitio_web'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_sitio_web.svg" href="#"></li>
+          <?php } ?>
+
+          <?php if (($v['venta_mayorista'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_venta_mayorista.svg"></li>
+          <?php } ?>
+
+          <?php if (($v['venta_minorista'])== true) {  ?>
+            <li><img class="items" src="/demo/img/locales_venta_minorista.svg"></li>
+          <?php } ?>
+
+          <?php if (($v['venta_online'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_venta_online.svg"></li>
+          <?php } ?>
+
+          <?php if (($v['revendedoras'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_revendedoras.svg"></li>
+          <?php } ?>
+        </ul>
+        </div>
+      </div>
+    </div>
+        <?php array_push($ciudadescargadas, $v['id']);
+
+      }
+      }
+    }
+
+  wp_die();
+}
+
+add_action('wp_ajax_cat_filter', 'cat_filter');
+add_action('wp_ajax_nopriv_cat_filter', 'cat_filter');
+function cat_filter(){
+  $category = $_POST['cat']['cat'];
+  $sucursales = Clients::getSucursalesByCategory($category);
+  $ciudadescargadas = array();
+  foreach ($sucursales as $k => $v) {
+     if (!(in_array($v['id'], $ciudadescargadas))){ ?>
+      <div class="container-prov">
+      <div class="ciudad"> <?php echo $v['ciudad'] ?>   </div>
+      <div id="hidden-info" class="sucursal">
+        <div class="nombre_cliente"> <span><?php echo $v['nombre_cliente'] ?></span></div>
+        <div class="direccion_publica"> <?php echo $v['direccion_publica'] ?> </div>
+        <div class="info">
+          <ul>
+          <?php if (($v['sitio_web'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_sitio_web.svg" href="#"></li>
+          <?php } ?>
+
+          <?php if (($v['venta_mayorista'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_venta_mayorista.svg"></li>
+          <?php } ?>
+
+          <?php if (($v['venta_minorista'])== true) {  ?>
+            <li><img class="items" src="/demo/img/locales_venta_minorista.svg"></li>
+          <?php } ?>
+
+          <?php if (($v['venta_online'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_venta_online.svg"></li>
+          <?php } ?>
+
+          <?php if (($v['revendedoras'])== true) { ?>
+            <li><img class="items" src="/demo/img/locales_revendedoras.svg"></li>
+          <?php } ?>
+        </ul>
+        </div>
+      </div>
+    </div>
+        <?php array_push($ciudadescargadas, $v['id']);
+
+      }
+    }
+  wp_die();
+}
+
 
 add_action( 'wp_ajax_cu_edit_features', 'cu_edit_features' );
 function cu_edit_features(){

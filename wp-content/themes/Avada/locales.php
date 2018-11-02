@@ -80,6 +80,9 @@ $table_name = $locales_db->prefix .*/
 
 $clientes = Clients::getAll();
 $sucursales = Clients::getSucursales();
+
+
+
 /*foreach ($sucursales as $key => $value) {
     $address = $value['direccion_publica'] . ", " . $value['ciudad'] . ", " . $value['provincia'];
 }
@@ -110,8 +113,8 @@ $resp      = json_decode($resp_json, true);
    <div class="interior">
    <div class="titular"><h2>Locales</h2></div>
 
-  <div class="info_list" id="provincia">
-      <select name="menu-prov" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false">
+  <div class="info_list provincia" id="provincia" >
+      <select name="menu-prov"  class="selector" aria-required="true" aria-invalid="false">
         <option value="">---</option>
         <option value="Buenos Aires">Buenos Aires</option>
         <option value="Buenos Aires-GBA">Buenos Aires-GBA</option>
@@ -138,66 +141,26 @@ $resp      = json_decode($resp_json, true);
         <option value="Santiago del Estero">Santiago del Estero</option>
         <option value="Tierra del Fuego">Tierra del Fuego</option>
         <option value="Tucuman">Tucuman</option></select>
-      
+
      <ul>
-      <li><a class="item_list"><img class="locales_img" src="/demo/img/locales_venta_mayorista.svg"></a></li>
-      <li><a class="item_list"><img class="locales_img" src="/demo/img/locales_venta_minorista.svg"></a></li>
-      <li><a class="item_list"><img class="locales_img" src="/demo/img/locales_venta_online.svg"></a></li>
-      <li><a class="item_list"><img class="locales_img" src="/demo/img/locales_revendedoras.svg"></a></li>
+      <li><a class="item_list"><img class="locales_img" data-cat="venta_mayorista" src="/demo/img/locales_venta_mayorista.svg"></a></li>
+      <li><a class="item_list"><img class="locales_img" data-cat="venta_minorista" src="/demo/img/locales_venta_minorista.svg"></a></li>
+      <li><a class="item_list"><img class="locales_img" data-cat="venta_online" src="/demo/img/locales_venta_online.svg"></a></li>
+      <li><a class="item_list"><img class="locales_img" data-cat="revendedoras" src="/demo/img/locales_revendedoras.svg"></a></li>
     </ul>
    </div>
- </div>
 
  <div class="other_section">
- <div class="mapas">
-   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242211.64174373038!2d-58.44772574163197!3d-34.64593114556312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbcb7595281d9%3A0x4ad309fcdcf0a144!2sBuenos+Aires!5e0!3m2!1ses-419!2sar!4v1534285720746" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
- </div>
+   <div class="mapas">
+     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242211.64174373038!2d-58.44772574163197!3d-34.64593114556312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbcb7595281d9%3A0x4ad309fcdcf0a144!2sBuenos+Aires!5e0!3m2!1ses-419!2sar!4v1534285720746" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+   </div>
 
-   <?php $ciudadescargadas = array();
-   $provinciascargadas = array();
-   ?>
+   <div class="fusion-separator fusion-full-width-sep sep-single sep-solid separator">
+   </div>
 
-          <div class="provincia">
-              <?php foreach ($sucursales as $k => $v) { ?>
-                <?php if (($v['provincia'] == $_POST['menu-prov'])){ ?>
-                <?php if (!(in_array($v['id'], $ciudadescargadas))){ ?>
-                  <div class="container-prov">
-                  <div class="ciudad"> <?php echo $v['ciudad'] ?>   </div>
-                  <div id="hidden-info" class="sucursal">
-                    <div class="nombre_cliente"> <span><?php echo $v['nombre_cliente'] ?></span></div>
-                    <div class="info">
-                      <ul>
-                      <?php if (($v['sitio_web'])== true) { ?>
-                        <li><img class="locales_img items" src="/demo/img/locales_sitio_web.svg" href="#"></li>
-                      <?php } ?>
-
-                      <?php if (($v['venta_mayorista'])== true) { ?>
-                        <li><img class="locales_img items" src="/demo/img/locales_venta_mayorista.svg"></li>
-                      <?php } ?>
-
-                      <?php if (($v['venta_minorista'])== true) {  ?>
-                        <li><img class="locales_img items" src="/demo/img/locales_venta_minorista.svg"></li>
-                      <?php } ?>
-
-                      <?php if (($v['venta_online'])== true) { ?>
-                        <li><img class="locales_img items" src="/demo/img/locales_venta_online.svg"></li>
-                      <?php } ?>
-
-                      <?php if (($v['revendedoras'])== true) { ?>
-                        <li><img class="locales_img items" src="/demo/img/locales_revendedoras.svg"></li>
-                      <?php } ?>
-                    </ul>
-                    </div>
-                    <div class="direccion_publica"> <?php echo $v['direccion_publica'] ?> </div>
-                  </div>
-                </div>
-                    <?php array_push($ciudadescargadas, $v['id']);
-                  }
-                  }
-                } ?>
-          </div>
-      </div>
-
- </div>
+    <div class="provincia" id=sucursales>
+    </div>
+  </div>
+</div>
  </section>
  </div>
