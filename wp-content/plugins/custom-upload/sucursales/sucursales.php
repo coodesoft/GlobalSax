@@ -144,7 +144,8 @@ function load_prov(){
       <div class="container-prov">
       <div class="ciudad"> <?php echo $v['ciudad'] ?>   </div>
       <div id="hidden-info" class="sucursal">
-        <div class="nombre_cliente" data-address="<?php echo $v['direccion_publica'].",".$v['ciudad'.",".$v['provincia'].",Argentina" ?>"> <span><?php echo $v['nombre_cliente'] ?></span></div>
+        <div class="nombre_cliente" data-address="<?php echo $v['direccion_publica'].",".$v['ciudad'].",".$v['provincia'].",Argentina" ?>">
+           <span><?php echo $v['nombre_cliente'] ?></span></div>
         <div class="direccion_publica"> <?php echo $v['direccion_publica'] ?> </div>
         <div class="info">
           <ul>
@@ -191,7 +192,7 @@ function cat_filter(){
       <div class="container-prov">
       <div class="ciudad"> <?php echo $v['ciudad'] ?>   </div>
       <div id="hidden-info" class="sucursal">
-        <div class="nombre_cliente"> <span><?php echo $v['nombre_cliente'] ?></span></div>
+        <div class="nombre_cliente" data-address="<?php echo $v['direccion_publica'].",".$v['ciudad'].",".$v['provincia'].",Argentina" ?>"> <span><?php echo $v['nombre_cliente'] ?></span></div>
         <div class="direccion_publica"> <?php echo $v['direccion_publica'] ?> </div>
         <div class="info">
           <ul>

@@ -60,7 +60,7 @@
 		console.log(input.files.item(0).name);
 	}
 
-  /*initialize();*/
+  initialize();
 
 
 	let root = '#body';

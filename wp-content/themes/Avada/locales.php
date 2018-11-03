@@ -151,9 +151,7 @@ $resp      = json_decode($resp_json, true);
    </div>
 
  <div class="other_section">
-   <div class="mapas">
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d242211.64174373038!2d-58.44772574163197!3d-34.64593114556312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95edbcb7595281d9%3A0x4ad309fcdcf0a144!2sBuenos+Aires!5e0!3m2!1ses-419!2sar!4v1534285720746" width="600" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
-   </div>
+   <div id="mapas" class="mapas"> </div>
 
    <div class="fusion-separator fusion-full-width-sep sep-single sep-solid separator">
    </div>
